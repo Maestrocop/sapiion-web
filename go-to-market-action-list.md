@@ -71,8 +71,13 @@ Do not skip. Everything else is built on this.
    | Osiris | | | |
    | EduArte | | | |
 
-6. Choose the product name
-7. Check domain availability and buy the domain
+6. **Brand discovery and trademark validation** (see BRAND_EXPLORATION.md)
+   - Generate 10–20 candidate names
+   - Check uniqueness in education software market
+   - Check domain availability
+   - Check Benelux + EU trademark registers
+   - Select final commercial brand name
+7. Buy the domain
 8. Create brand identity — logo, colors, tagline
 
 ---
