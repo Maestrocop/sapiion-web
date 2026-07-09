@@ -277,7 +277,122 @@ ILS connects curriculum, teaching, assessment and student success — everything
 
 ---
 
-### Group 4 — Education-Specific Names
+### Group 4 — New Candidates (AI Review Round 2)
+
+---
+
+#### AXIOM ⭐⭐⭐⭐⭐
+**Meaning:** A fundamental truth or principle — something self-evidently true
+
+**Why it fits ILS:**
+Education is built on evidence and outcomes. ILS surfaces the axioms of a programme — what is working, what is not, what is true about student progress. Premium feel. Signals authority and certainty.
+
+**Strengths:**
+- Extremely premium — signals intelligence, rigour, trust
+- International — understood across all European languages
+- Strong trademark potential in education software (word is common but brand use in EdTech is limited)
+- Works as: Axiom / Axiom Education / Axiom Intelligence
+
+**Risks:**
+- Common English word — trademark check essential
+- May feel too academic for some buyers
+- Check existing use: Axiom Data (data company), Axiom Law
+
+**Domain status:** Check axiom.education / axiomedu.com / axiom.io
+
+**Verdict:** Top tier candidate. Strongest newcomer in this list.
+
+---
+
+#### LUMIRA ⭐⭐⭐⭐⭐
+**Meaning:** Coined — Lumen (light) + Mira (vision, wonder)
+
+**Why it fits ILS:**
+Insight and visibility — seeing the educational picture clearly. Lumira brings light to what was previously invisible: student risk, curriculum gaps, outcome evidence.
+
+**Strengths:**
+- Beautiful, unique, highly distinctive
+- Strong SaaS brand potential
+- Pronounceable in Dutch and English
+- Combines two meaningful roots — light + vision
+- High trademark availability likely
+
+**Risks:**
+- SAP Lumira exists (a data visualisation tool) — check if trademark conflicts in education class
+- Requires brand building — no inherent meaning for most people
+
+**Domain status:** Check lumira.education / lumira.io / lumiraedu.com
+
+**Verdict:** Top tier candidate alongside Maestro. Check SAP Lumira trademark scope carefully.
+
+---
+
+#### ELEVIA ⭐⭐⭐⭐
+**Meaning:** From "elevate" — helping students and institutions rise
+
+**Why it fits ILS:**
+ILS elevates education — from administration to intelligence, from reactive to proactive, from grades to mastery.
+
+**Tagline potential:** *Elevating education through intelligence.*
+
+**Strengths:**
+- Clear, positive meaning — elevation, improvement
+- Feminine ending gives it a warm, approachable feel
+- Distinctive enough for trademark
+- SaaS-friendly
+
+**Risks:**
+- "Elev" root is used in several EdTech products
+- Check: Eleva, Elevia, Elevate Education
+
+**Domain status:** Check elevia.education / elevia.io / eleviaedu.com
+
+**Verdict:** Strong candidate. Warm feel — may appeal well to teachers and students.
+
+---
+
+#### ORBIS ⭐⭐⭐⭐
+**Meaning:** World, circle, complete system (Latin)
+
+**Why it fits ILS:**
+ILS is a complete educational ecosystem — everything connected in one orbit. Curriculum → Teaching → Assessment → Intelligence → back to Curriculum.
+
+**Strengths:**
+- Short, strong, international
+- Latin root — credible, timeless
+- Suggests completeness and connection
+- Orbis Education has a strong ring
+
+**Risks:**
+- Orbis is used in some contexts (Orbis Books, Orbis Investment)
+- Check education software specifically
+
+**Domain status:** Check orbis.education / orbisedu.com
+
+**Verdict:** Strong candidate — especially for the "complete ecosystem" positioning.
+
+---
+
+#### AVORA ⭐⭐⭐
+**Meaning:** Coined — Advance + Aura
+
+**Why it fits ILS:**
+Advancing education with an aura of intelligence around it.
+
+**Strengths:**
+- Unique, memorable
+- Modern SaaS feel
+- High trademark availability
+
+**Risks:**
+- No clear meaning — requires significant brand building
+- Less immediately connected to education or intelligence
+
+**Verdict:** Possible but weaker fit than the others. Keep as backup.
+
+---
+
+### Group 5 — Education-Specific Names (avoid)
 
 ---
 
@@ -305,20 +420,74 @@ ILS connects curriculum, teaching, assessment and student success — everything
 
 ## Summary Table
 
+### Tier 1 — Top Candidates
+
 | Name | Style | Fit | Trademark Risk | Verdict |
 |---|---|---|---|---|
-| Maestro | Metaphor | ⭐⭐⭐⭐⭐ | Medium | Check trademark — top candidate |
-| Meridian | Classical | ⭐⭐⭐⭐ | Low-Medium | Strong — check domain |
-| Lumen | Latin | ⭐⭐⭐⭐ | Medium | Check Lumen Learning scope |
-| Lumeo | Coined | ⭐⭐⭐⭐ | Low | Strong — likely available |
-| Nexio | Coined | ⭐⭐⭐⭐ | Low | Strong — likely available |
+| **Lumeo** ⭐⭐⭐ | Coined | ⭐⭐⭐⭐⭐ | Low | Best overall — check domain + trademark |
+| **Meridian** ⭐⭐ | Classical Latin | ⭐⭐⭐⭐⭐ | Low-Medium | Premium positioning — check domain |
+| **Maestro** ⭐ | Metaphor | ⭐⭐⭐⭐⭐ | Medium | Strongest metaphor — trademark check essential |
+
+### Tier 2 — Strong Candidates
+
+| Name | Style | Fit | Trademark Risk | Verdict |
+|---|---|---|---|---|
+| **Lumira** | Coined (Lumen+Mira) | ⭐⭐⭐⭐⭐ | Low-Medium | Check SAP Lumira scope in education class |
+| **Elevia** | Coined (elevate) | ⭐⭐⭐⭐ | Low-Medium | Warm, approachable — check EdTech use |
+| **Axiom** | Real word | ⭐⭐⭐⭐⭐ | Medium | Premium feel — trademark check essential |
+| **Orbis** | Latin | ⭐⭐⭐⭐ | Low-Medium | "Complete ecosystem" angle — check domain |
+
+### Tier 3 — Possible / Backup
+
+| Name | Style | Fit | Trademark Risk | Verdict |
+|---|---|---|---|---|
+| Lumen | Latin | ⭐⭐⭐⭐ | Medium | Check Lumen Learning (US) scope in EU |
+| Nexio | Coined | ⭐⭐⭐⭐ | Low | Strong coined option |
 | Beacon | Metaphor | ⭐⭐⭐ | Medium | Possible |
-| Polaris | Metaphor | ⭐⭐⭐ | Medium | Possible |
-| Gradus | Latin | ⭐⭐⭐ | Low | Sub-brand candidate |
-| Compass | Metaphor | ⭐⭐ | High | Avoid |
-| Nexus | Latin | ⭐⭐ | High | Avoid |
-| Velio | Coined | ⭐⭐⭐ | Low | Weaker fit |
-| Elara | Coined | ⭐⭐⭐ | Low | Too abstract |
+| Polaris | Metaphor | ⭐⭐⭐ | Medium | Possible — vehicle brand may cause confusion |
+| Avora | Coined | ⭐⭐⭐ | Low | Backup option — weaker concept fit |
+| Gradus | Latin | ⭐⭐⭐ | Low | Better as feature/sub-brand name |
+
+### Avoid
+
+| Name | Reason |
+|---|---|
+| Compass | Too common — high trademark conflict |
+| Nexus | Too common — used everywhere in tech |
+| Elara | Too abstract — no educational connection |
+| EdVance, Curricula | Generic or already taken |
+
+---
+
+## Strategic Naming Observation
+
+**Avoid names containing:** AI, Smart, Learn, Edu, LMS, Tech, Digital
+
+These words lock you into today's marketing category. They signal what you are *made of*, not what you *do*. They age badly and are weak trademarks.
+
+ILS's vision is bigger than any of those words: **educational intelligence infrastructure.**
+
+The best brand names do not describe the product — they create an identity that the product grows into.
+
+- "Maestro" does not say "education software" — it says *coordination, mastery, excellence*
+- "Meridian" does not say "analytics tool" — it says *the highest point, the reference line*
+- "Lumira" does not say "reporting dashboard" — it says *light, vision, clarity*
+
+Choose a name you will still be proud of in 10 years, when the product is bigger than you can imagine today.
+
+---
+
+## Trademark Check Resources
+
+When you have your top 3–5 candidates, check these registers:
+
+| Register | URL | Classes to check |
+|---|---|---|
+| Benelux (BOIP) | boip.int | Class 41 (education) + Class 42 (software) |
+| EU (EUIPO) | euipo.europa.eu | Class 41 + Class 42 |
+| International | wipo.int | If planning outside EU |
+
+Also check: **Google** each name + "education software" / "edtech" to find unregistered but active brands.
 
 ---
 
