@@ -253,7 +253,7 @@ The real comparison is:
 | Competitor | Category | What they do | What ILS does |
 |---|---|---|---|
 | Canvas | LMS | Delivers content | Connects curriculum to outcomes to student success |
-| Moodle | Open-source LMS | Requires years of configuration | Built for Dutch education from day one |
+| Moodle | Open-source LMS | Requires years of configuration | Ready for professional education from day one |
 | Brightspace | Enterprise LMS | Reports on the past | Acts on the present |
 | Osiris | SIS | Records the BSA decision | Prepares it — evidence, monitoring, risk signals |
 | EduArte | Dutch SIS | Handles administration | Handles education |
