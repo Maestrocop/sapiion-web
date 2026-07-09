@@ -15,13 +15,13 @@ The goal is to clearly explain what ILS does that they do not.
 
 ## Competitive Landscape Overview
 
-| Category | Players | What they do |
-|---|---|---|
-| LMS (Learning Management Systems) | Canvas, Moodle, Brightspace, Blackboard | Content delivery, assignment submission, basic grading |
-| SIS (Student Information Systems) | Osiris, Educator, Schoorl | Student administration, enrolments, official grades, diplomas |
-| Curriculum Tools | Curricula (Kuali), Teachworks | Curriculum documentation, programme management |
-| Dutch-specific | EduArte, Magister, Somtoday | Dutch MBO/HBO administration, attendance, reporting |
-| Planning & Communication | Teams, Google Classroom, Notion | Communication, file sharing, basic task management |
+| Category | Players | What they do | What ILS does |
+|---|---|---|---|
+| LMS | Canvas, Moodle, Brightspace, Blackboard | Content delivery, assignment submission, basic grading | Connects curriculum to outcomes to student success |
+| SIS | Osiris, Educator, Schoorl | Student administration, enrolments, official grades, diplomas | Prepares the evidence behind every decision |
+| Curriculum Tools | Curricula (Kuali), Teachworks | Curriculum documentation, programme management | Live curriculum connected to teaching, assessment and intelligence |
+| Dutch-specific | EduArte, Magister, Somtoday | Dutch MBO/HBO administration, attendance, reporting | Handles education, not just administration |
+| Communication | Teams, Google Classroom, Notion | Communication, file sharing, basic task management | Manages learning, not just files |
 
 **ILS does not compete in any single category.**
 ILS connects all of these layers into one platform.
@@ -245,6 +245,19 @@ The real comparison is:
 | Administration digitized | Education improved |
 
 **ILS is not competing with one tool. ILS is replacing a landscape.**
+
+---
+
+## Quick Reference — One Sentence Per Competitor
+
+| Competitor | Category | What they do | What ILS does |
+|---|---|---|---|
+| Canvas | LMS | Delivers content | Connects curriculum to outcomes to student success |
+| Moodle | Open-source LMS | Requires years of configuration | Built for Dutch education from day one |
+| Brightspace | Enterprise LMS | Reports on the past | Acts on the present |
+| Osiris | SIS | Records the BSA decision | Prepares it — evidence, monitoring, risk signals |
+| EduArte | Dutch SIS | Handles administration | Handles education |
+| Teams | Communication | Manages files | Manages learning |
 
 ---
 
