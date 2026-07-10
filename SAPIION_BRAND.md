@@ -179,6 +179,25 @@ From 2026-07-10, the following names are retired externally:
 
 ---
 
+## Trademark Research
+
+**Date:** 10 July 2026
+
+**Searches performed:**
+
+| Register | Search term | Result |
+|---|---|---|
+| EUIPO eSearch (euipo.europa.eu) | Sapiion | No results found |
+| BOIP Merkenregister (boip.int) | Sapiion | 0 results found |
+
+**Conclusion:**
+Sapiion appears to have very low trademark conflict risk in both Benelux and EU registers as of this date.
+
+**Next step:**
+Before commercial launch, commission a professional trademark registration in class 41 (education services) and class 42 (software as a service). Do not rely on this search alone — a trademark attorney should perform a full clearance search including phonetic similarity checks.
+
+---
+
 ## Pending Brand Work
 
 These items are next on the GTM list:
