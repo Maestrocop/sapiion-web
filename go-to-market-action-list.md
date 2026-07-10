@@ -71,14 +71,13 @@ Do not skip. Everything else is built on this.
    | Osiris | | | |
    | EduArte | | | |
 
-6. **Brand discovery and trademark validation** (see BRAND_EXPLORATION.md)
-   - Generate 10–20 candidate names
-   - Check uniqueness in education software market
-   - Check domain availability
-   - Check Benelux + EU trademark registers
-   - Select final commercial brand name
-7. Buy the domain
-8. Create brand identity — logo, colors, tagline
+6. ✅ **Brand discovery and trademark validation** — COMPLETE 2026-07-10
+   - Commercial brand name: **Sapiion** (sa-PEE-on, from sapientia — wisdom)
+   - Domains registered: sapiion.ai (primary) + sapiion.com + sapiion.nl
+   - See [SAPIION_BRAND.md](SAPIION_BRAND.md) for full brand architecture
+7. ✅ **Buy the domains** — COMPLETE 2026-07-10
+   - sapiion.ai · sapiion.com · sapiion.nl registered
+8. **Create brand identity** — logo, colors, typography, favicon, tagline
 
 ---
 

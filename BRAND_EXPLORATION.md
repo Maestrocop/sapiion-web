@@ -1,10 +1,23 @@
 # BRAND_EXPLORATION.md
 > Internal document — brand discovery and trademark validation
-> ILS remains the internal development name. This document finds the commercial brand.
+> **CLOSED — decision made 2026-07-10. See SAPIION_BRAND.md for the brand source of truth.**
 
 ---
 
-## Decision Already Made
+## ✅ DECISION: The commercial brand is SAPIION
+
+Domains registered 2026-07-10:
+- **sapiion.ai** — primary
+- **sapiion.com** — global redirect
+- **sapiion.nl** — Dutch market redirect
+
+See [SAPIION_BRAND.md](SAPIION_BRAND.md) for all brand guidelines, URL architecture, module naming and tone of voice.
+
+This document is kept for historical reference only. Do not reopen the naming discussion.
+
+---
+
+## Internal Codename
 
 **ILS (Intelligent Learning System)** stays as the internal project name.
 - ILS-dev, ILS-launch, ILS-docs — keep these forever
