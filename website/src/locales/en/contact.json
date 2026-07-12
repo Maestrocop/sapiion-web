@@ -39,6 +39,8 @@
     "sourceLabel": "How did you hear about Sapiion?",
     "sourcePlaceholder": "Select…",
     "submitBtn": "Book a demo →",
+    "submitting": "Sending…",
+    "errorMsg": "Something went wrong. Please try again or email us directly at hello@sapiion.ai",
     "disclaimer": "No obligation. No sales pressure. Just a conversation about your educational challenges.",
     "successTitle": "Thank you, we will be in touch.",
     "successBody": "We respond within one business day.",

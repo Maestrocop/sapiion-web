@@ -7,6 +7,8 @@ export default function ContactPage() {
     name: '', role: '', institution: '', email: '', phone: '', size: '', challenge: '', source: '',
   });
   const [sent, setSent] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [submitError, setSubmitError] = useState('');
 
   const roles = t('form.roles', { returnObjects: true });
   const sizes = t('form.sizes', { returnObjects: true });
@@ -16,9 +18,23 @@ export default function ContactPage() {
   const faqItems = t('faq.items', { returnObjects: true });
   const expectSteps = t('expect.steps', { returnObjects: true });
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    setSent(true);
+    setSubmitting(true);
+    setSubmitError('');
+    try {
+      const r = await fetch('/api/demo-request', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(form),
+      });
+      if (!r.ok) throw new Error('failed');
+      setSent(true);
+    } catch {
+      setSubmitError(t('form.errorMsg'));
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   return (
@@ -162,10 +178,14 @@ export default function ContactPage() {
 
               <button
                 type="submit"
-                className="bg-navy-900 text-white font-semibold py-3 px-6 rounded-lg hover:bg-navy-800 transition-colors mt-1"
+                disabled={submitting}
+                className="bg-navy-900 text-white font-semibold py-3 px-6 rounded-lg hover:bg-navy-800 transition-colors mt-1 disabled:opacity-60 disabled:cursor-not-allowed"
               >
-                {t('form.submitBtn')}
+                {submitting ? t('form.submitting') : t('form.submitBtn')}
               </button>
+              {submitError && (
+                <p className="text-sm text-red-600 text-center">{submitError}</p>
+              )}
               <p className="text-xs text-slate-400 text-center">
                 {t('form.disclaimer')}
               </p>

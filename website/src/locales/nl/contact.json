@@ -39,6 +39,8 @@
     "sourceLabel": "Hoe heeft u over Sapiion gehoord?",
     "sourcePlaceholder": "Selecteren…",
     "submitBtn": "Demo boeken →",
+    "submitting": "Verzenden…",
+    "errorMsg": "Er ging iets mis. Probeer het opnieuw of mail ons op hello@sapiion.ai",
     "disclaimer": "Geen verplichtingen. Geen verkoopdruk. Gewoon een gesprek over uw onderwijsuitdagingen.",
     "successTitle": "Bedankt, we nemen contact met u op.",
     "successBody": "We reageren binnen één werkdag.",
