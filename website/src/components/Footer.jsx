@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import Logo from './Logo';
 
 export default function Footer() {
   const { t } = useTranslation('common');
@@ -9,9 +10,8 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
           <div className="md:col-span-2">
-            <div className="flex items-center gap-2 font-semibold text-white text-lg mb-3">
-              <span className="text-brand-accent">◆</span>
-              Sapiion
+            <div className="mb-3">
+              <Logo className="h-8 w-auto" white />
             </div>
             <p className="text-sm leading-relaxed max-w-sm">
               {t('footer.tagline')}

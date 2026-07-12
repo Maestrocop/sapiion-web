@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import Logo from './Logo';
 
 export default function Nav() {
   const [open, setOpen] = useState(false);
@@ -22,9 +23,8 @@ export default function Nav() {
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-slate-100">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-        <Link to="/" className="flex items-center gap-2 font-semibold text-navy-900 text-lg tracking-tight">
-          <span className="text-brand-accent font-bold">◆</span>
-          Sapiion
+        <Link to="/" aria-label="Sapiion home">
+          <Logo className="h-8 w-auto" />
         </Link>
 
         {/* Desktop nav */}
