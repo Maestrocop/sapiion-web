@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "h1a": "Schools do not need more software.",
+    "h1b": "They need fewer,",
+    "h1c": "better-connected",
+    "h1d": "systems.",
+    "sub": "Sapiion is not built to add features to the pile. It is built to replace the pile."
+  },
+  "pattern": {
+    "label": "The pattern",
+    "h2": "Schools invest heavily in improvement. Yet the results rarely match the ambition.",
+    "body": "This is not because educators lack dedication. It is because the tools they work with cannot sustain the change. The same cycle repeats, year after year.",
+    "steps": [
+      "A problem is identified — student results, outcome coverage, accreditation readiness.",
+      "External consultants are brought in. Training is delivered. The ideas are excellent.",
+      "Teachers are enthusiastic. New action plans and agreements are made.",
+      "Everyone returns to daily work. Teaching, grading, administration.",
+      "There is no system to reinforce the new way of working. Practices gradually drift back.",
+      "Two years later, the same problems are discussed in the same meetings."
+    ],
+    "quoteA": "\"Educational quality doesn't improve because of good ideas alone.",
+    "quoteB": "It improves when good ideas become part of everyday practice.\"",
+    "quoteSub": "Without a connected platform, continuous improvement depends on individual effort. With a connected platform, continuous improvement becomes part of the institution's way of working."
+  },
+  "realGap": {
+    "label": "The real problem",
+    "h2": "The problem is not ambition. Most institutions already have all the right intentions.",
+    "body": "The gap is between educational ambition and everyday practice. Schools have vision, investment and dedicated people — but lack a platform that turns those intentions into daily work.",
+    "haveLabel": "What institutions already have",
+    "haveItems": [
+      "A vision for educational quality",
+      "Professional development programmes",
+      "Improvement plans and quality frameworks",
+      "Dedicated and motivated educators"
+    ],
+    "missingLabel": "What is missing",
+    "missingItems": [
+      {
+        "label": "A connected platform that turns ambition into daily practice",
+        "body": "Without a system that embeds new ways of working into everyday teaching, improvement fades — and the same problems resurface two years later."
+      },
+      {
+        "label": "Connected data from curriculum to quality assurance",
+        "body": "When data lives in separate systems, no one has the full picture. Signals are missed, decisions are reactive, and evidence has to be assembled from scratch."
+      }
+    ],
+    "conclusion": "Sapiion exists to turn educational ambition into everyday practice."
+  },
+  "whatSapiionIs": {
+    "label": "What Sapiion really is",
+    "h2": "Sapiion is an Education Intelligence Platform — and the implementation layer for educational improvement.",
+    "body1": "Schools can improve without Sapiion — but it is much harder to improve consistently, at scale, and over time. Sapiion does not replace educator judgement. It gives that judgement a system to work within.",
+    "body2": "It connects the people, processes and information that have traditionally lived in separate systems — into one continuous workflow where improvement is no longer an annual project. It becomes part of everyday teaching.",
+    "items": [
+      "Curriculum intent",
+      "Lesson planning",
+      "Assessment & grading",
+      "Learning outcomes",
+      "Student progress",
+      "Programme monitoring",
+      "Coordinator signals",
+      "Quality assurance"
+    ],
+    "connectedBy": "◆ All connected by Sapiion — in one continuous improvement cycle."
+  },
+  "whereFits": {
+    "label": "Where Sapiion fits",
+    "h2": "One platform. Six connected layers.",
+    "body": "Sapiion is the intelligence layer that connects every stage of the educational process — from the moment curriculum is designed to the moment a quality review is conducted."
+  },
+  "comparison": {
+    "h2": "What most institutions have today — and what Sapiion provides.",
+    "todayCol": "Today",
+    "sapiionCol": "With Sapiion",
+    "rows": [
+      ["Curriculum in Word and Excel", "Curriculum in a live, connected system"],
+      ["Teaching in one tool", "Teaching connected to the curriculum"],
+      ["Grading in another tool", "Grading connected to outcomes and rubrics"],
+      ["Attendance tracked separately", "Attendance connected to risk signals"],
+      ["Coordinator working without signals", "Coordinator with full programme visibility"],
+      ["Student receiving grades", "Student understanding their own progress"],
+      ["Annual quality review", "Continuous programme intelligence"]
+    ]
+  },
+  "vsLms": {
+    "h2": "Sapiion is not a Learning Management System (LMS).",
+    "body": "Traditional LMS platforms like Canvas, Moodle and Brightspace primarily focus on content delivery and course administration. They do that well. But they were not designed to connect curriculum intent, teaching practice, assessment evidence and institutional quality into one continuous improvement cycle. That is a different problem — and that is what Sapiion solves.",
+    "lmsLabel": "Traditional LMS asks",
+    "lmsQ": "\"Did the student submit?\"",
+    "sapiionLabel": "Sapiion asks",
+    "sapiionQ": "\"Did the student develop the intended competency — and how do we know?\"",
+    "footer": "That question changes everything about how a platform is built. An LMS does <strong>Content → Assignment → Grade</strong>. Sapiion does <strong>Curriculum Intent → Teaching Design → Assessment Evidence → Mastery → Improvement</strong>."
+  },
+  "vsSis": {
+    "h2": "Sapiion is not a student administration system.",
+    "body1": "Osiris, Educator and similar SIS platforms manage student records — enrolments, credits, diplomas. They record what happened. Sapiion helps improve what happens.",
+    "body2": "A SIS records the past. Sapiion helps improve the future.",
+    "body3": "A SIS tells you a student failed. Sapiion identifies risk early, giving educators and programme leaders the insight they need to intervene before it's too late."
+  },
+  "ai": {
+    "h2": "AI built on educational context — not generic content.",
+    "body1": "Artificial intelligence is becoming part of education. The question is not whether AI will be used, but how it will be used responsibly.",
+    "mostAiLabel": "Most AI tools",
+    "mostAiQ": "\"Start without knowledge of your specific educational context.\"",
+    "sapiionLabel": "Sapiion",
+    "sapiionQ": "\"Applies AI within your curriculum, your outcomes, your assessment criteria, your students' progress.\"",
+    "body2": "Because Sapiion already understands your educational structure, AI can support meaningful decisions — instead of generating disconnected content.",
+    "teachersLabel": "For teachers",
+    "teacherItems": [
+      "Create outcome-aligned assessments faster",
+      "Gain insight into learning progress",
+      "Reduce repetitive administrative work"
+    ],
+    "studentsLabel": "For students",
+    "studentItems": [
+      "Explore concepts deeper",
+      "Reflect on their development",
+      "Receive guidance that supports learning instead of replacing thinking"
+    ],
+    "principle": "Sapiion does not use AI to replace teachers. <strong>It uses AI to strengthen the intelligence already present in education.</strong>"
+  },
+  "accreditation": {
+    "h2": "Always ready for quality reviews.",
+    "body": "Whether the review is an accreditation visit, an inspection or an internal audit — the stress is always the same: evidence is scattered across systems that were never designed to work together. With Sapiion, that evidence is collected continuously, not assembled in a panic.",
+    "points": [
+      "Every learning outcome linked to curriculum intent",
+      "Every assessment linked to rubric criteria",
+      "Every rubric score linked to outcomes",
+      "Every student's progress tracked against programme requirements",
+      "Every programme's health visible in real time"
+    ],
+    "footer": "When the review comes, you present evidence — you do not collect it."
+  },
+  "implementation": {
+    "h2": "Your first 90 days with Sapiion — not a 2-year implementation project.",
+    "body": "Your programme does not stop while you implement Sapiion. It improves while you do.",
+    "steps": [
+      { "period": "Week 1–2", "text": "Institution setup, user accounts, basic curriculum structure" },
+      { "period": "Week 3–4", "text": "Teacher onboarding, first classes created" },
+      { "period": "Month 2",  "text": "First assessments and grading workflows live" },
+      { "period": "Month 3",  "text": "Coordinator dashboards active, student progress visible" },
+      { "period": "Month 6",  "text": "Full continuous improvement cycle running" }
+    ]
+  },
+  "gdpr": {
+    "h2": "Your data belongs to your institution. Full stop.",
+    "sub": "Everything listed here is available today.",
+    "items": [
+      { "title": "EU hosted", "body": "Your data stays in Europe. Always." },
+      { "title": "Full data isolation", "body": "Each institution's data is completely separate — no data mixing." },
+      { "title": "GDPR — DPA ready", "body": "Data Processing Agreement available before any contract is signed." },
+      { "title": "No lock-in", "body": "Full data export at any time. Your data is yours." },
+      { "title": "Role-based access control", "body": "Administrators, coordinators, teachers and students each see only what they need." },
+      { "title": "Audit logging", "body": "All critical actions are logged — who did what and when." }
+    ],
+    "roadmapTitle": "Enterprise integrations (roadmap)",
+    "roadmapSub": "We are actively building the integrations that institutions expect for enterprise deployment.",
+    "roadmapItems": [
+      "Microsoft Entra ID — Single Sign-On (SSO)",
+      "Microsoft 365 integration",
+      "Additional identity providers"
+    ]
+  },
+  "cta": {
+    "h2": "Ready to see what connected education looks like?",
+    "btn": "Request a demo →"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "h1a": "We built Sapiion because educational quality should not depend on",
+    "h1b": "individual effort."
+  },
+  "story": {
+    "p1": "Education shapes the most important foundation of society: human potential.",
+    "p2": "Yet most educational institutions still operate with disconnected tools, fragmented data and reactive decision-making. Teachers work in isolation. Coordinators discover problems too late. Students do not know where they stand.",
+    "p3": "The result is that educational quality depends almost entirely on the individual effort of dedicated teachers — not on the strength of the institution.",
+    "p4": "That is not good enough.",
+    "p5": "We built Sapiion to change that. Not by adding more software to an already fragmented landscape. But by connecting curriculum, teaching, assessment and student success into one coherent system — so that educational quality becomes an institutional capability, not a personal one."
+  },
+  "belief": {
+    "h2": "Our belief",
+    "quote": "Learning is not the transfer of content. Learning is the development of competencies through structured experience, feedback and reflection.",
+    "sub": "This belief shapes every feature we build.",
+    "traditionalLabel": "Traditional systems ask",
+    "traditionalQ": "\"Did the student submit the assignment?\"",
+    "sapiionLabel": "Sapiion asks",
+    "sapiionQ": "\"Did the student develop the intended competency — and how do we know?\""
+  },
+  "manifesto": {
+    "label": "Why we exist",
+    "items": [
+      {
+        "label": "Training inspires people.",
+        "sub": "Schools invest in professional development, external consultants, workshops and innovation projects. The ideas are excellent. The energy is real."
+      },
+      {
+        "label": "Processes guide people.",
+        "sub": "After the training, agreements are made, action plans are written, and new ways of working are agreed on. The ambition is genuine."
+      },
+      {
+        "label": "Platforms sustain improvement.",
+        "sub": "Without a system that embeds new practices into everyday work, the change gradually fades. Two years later, the same problems are discussed again."
+      }
+    ],
+    "box1": "Schools do not fail to improve because they lack ambition or talent. They fail to improve consistently because <strong>good intentions are not the same as sustainable processes</strong> — and sustainable processes require the right platform to hold them together.",
+    "box2": "Without a connected platform, continuous improvement depends on individual effort. With a connected platform, continuous improvement becomes part of the institution's way of working."
+  },
+  "learningCycle": {
+    "h2": "Our learning cycle",
+    "body": "We designed Sapiion around a continuous improvement cycle — not a one-way content delivery pipeline.",
+    "steps": [
+      "Curriculum Intent",
+      "Learning Design",
+      "Teaching & Delivery",
+      "Assessment & Evidence",
+      "Learning Outcome Mastery",
+      "Student Success Signals",
+      "Intervention & Support",
+      "Curriculum Improvement"
+    ],
+    "repeat": "repeat — continuous improvement"
+  },
+  "ai": {
+    "label": "Educational intelligence, strengthened by AI",
+    "h2": "Education becomes more intelligent when technology understands context, not just content.",
+    "body1": "Artificial intelligence is transforming every industry. Education should benefit from it too — but responsibly.",
+    "body2": "Most AI tools work with general knowledge. Sapiion applies AI within your educational context.",
+    "contextItems": [
+      "Your curriculum",
+      "Your learning outcomes",
+      "Your assessment criteria",
+      "Your students' progress"
+    ],
+    "teachersLabel": "For teachers",
+    "teachersBody": "Reduce administrative work, design better assessments and gain insight into student progress — supported by AI that understands your curriculum.",
+    "studentsLabel": "For students",
+    "studentsBody": "An AI-supported learning companion that encourages exploration, reflection and skill development — helping students understand their progress and discover how they can improve.",
+    "exampleLabel": "Example: AI in Sapiion today",
+    "exampleTitle": "Outcome-based assessment generation",
+    "exampleBody": "A teacher selects learning outcomes and modules. Sapiion generates assessment questions aligned with those outcomes — each mapped back to a specific competency, including difficulty levels and explanations.",
+    "exampleFooter": "Not generic AI content. Assessments connected to what students are actually expected to learn.",
+    "future": "In the future, Sapiion will expand AI capabilities to help teachers identify learning patterns, suggest interventions and support students in their personal development journey.",
+    "principle1": "AI does not replace educational expertise.",
+    "principle2": "It strengthens it."
+  },
+  "success": {
+    "h2": "What success looks like",
+    "sub": "Sapiion is successful when:",
+    "items": [
+      { "role": "A coordinator", "text": "can see, at any moment, which students need attention — and act before it is too late" },
+      { "role": "A teacher", "text": "spends less time on administration and more time on teaching" },
+      { "role": "A student", "text": "always knows what to do, what is due and how they are progressing" },
+      { "role": "A curriculum designer", "text": "can see whether their design actually produces the intended learning outcomes" },
+      { "role": "A school director", "text": "can demonstrate educational quality with confidence and evidence" },
+      { "role": "An institution", "text": "can demonstrate that its interventions improve student success" }
+    ],
+    "principleLabel": "The single guiding principle",
+    "principle": "\"Every feature in Sapiion should contribute to improving educational quality, not just digitizing educational administration.\""
+  },
+  "brand": {
+    "name": "Noor B.V. · Sapiion",
+    "body": "Our company, <strong>Noor B.V.</strong>, carries a simple meaning: Noor means <em>light</em> in Arabic. Our platform, <strong>Sapiion</strong>, comes from <em>sapientia</em> — the Latin concept of wisdom and sound judgement. We bring light to educational data, and turn it into institutional wisdom. That is not a marketing story. It is why we exist."
+  },
+  "cta": {
+    "h2": "If this resonates with how you think about education — we would like to talk.",
+    "demoBtn": "Request a demo →",
+    "emailBtn": "Send us a message"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "h1a": "Bekijk uw programma in Sapiion —",
+    "h1b": "geen generieke demo.",
+    "body": "Elke instelling is anders. Daarom geven we geen generieke productdemonstraties. We vragen uw programmastructuur van tevoren op en voeren deze in Sapiion in — zodat u uw eigen curriculum op het scherm ziet, geen fictief voorbeeld.",
+    "stat1": "45 minuten.",
+    "stat2": "Geen slides.",
+    "stat3": "Gewoon het platform."
+  },
+  "expect": {
+    "steps": [
+      {
+        "step": "Vóóraf",
+        "text": "We vragen uw programmastructuur op — een module, enkele leeruitkomsten, een klas. We voeren dit in Sapiion in voordat we afspreken, zodat de demo op uw curriculum draait, niet op dat van ons."
+      },
+      {
+        "step": "Tijdens",
+        "text": "We doorlopen één complete stroom — van curriculum naar onderwijs naar toetsing naar het studentdashboard naar het programmaoverzicht. Echte software, uw context."
+      },
+      {
+        "step": "Daarna",
+        "text": "We beantwoorden uw vragen eerlijk. Als Sapiion niet de juiste keuze is, zeggen we dat. Als het dat wel is, bespreken we hoe een pilot eruitziet."
+      }
+    ]
+  },
+  "form": {
+    "title": "Demo boeken",
+    "nameLabel": "Uw naam *",
+    "roleLabel": "Uw functie *",
+    "rolePlaceholder": "Selecteren…",
+    "institutionLabel": "Naam instelling *",
+    "emailLabel": "E-mailadres *",
+    "phoneLabel": "Telefoonnummer (optioneel)",
+    "sizeLabel": "Hoeveel studenten heeft uw programma?",
+    "sizePlaceholder": "Selecteren…",
+    "challengeLabel": "Wat is uw voornaamste uitdaging?",
+    "challengeOptional": "(optioneel)",
+    "challengePlaceholder": "bijv. we willen studentuitval verminderen / we hebben een accreditatie in aantocht…",
+    "sourceLabel": "Hoe heeft u over Sapiion gehoord?",
+    "sourcePlaceholder": "Selecteren…",
+    "submitBtn": "Demo boeken →",
+    "disclaimer": "Geen verplichtingen. Geen verkoopdruk. Gewoon een gesprek over uw onderwijsuitdagingen.",
+    "successTitle": "Bedankt, we nemen contact met u op.",
+    "successBody": "We reageren binnen één werkdag.",
+    "roles": [
+      "Programmamanager",
+      "Onderwijsmanager / Decaan",
+      "Curriculumontwerper",
+      "Coördinator / Adviseur",
+      "ICT-manager / CIO",
+      "Docent",
+      "Anders"
+    ],
+    "sizes": [
+      "Minder dan 100 studenten",
+      "100 – 500 studenten",
+      "500 – 2.000 studenten",
+      "Meer dan 2.000 studenten"
+    ],
+    "sources": ["LinkedIn", "Via via", "Google", "Congres / Evenement", "Anders"]
+  },
+  "trust": {
+    "items": [
+      { "label": "Gehost in de EU", "sub": "Data blijft in Europa" },
+      { "label": "AVG-conform", "sub": "VOK vóór enige verplichting" },
+      { "label": "Uw eerste 90 dagen", "sub": "Geen project van 2 jaar" },
+      { "label": "Geen vendor lock-in", "sub": "Volledige data-export altijd" }
+    ]
+  },
+  "promise": {
+    "label": "De Sapiion-belofte",
+    "h2": "Hoe we met elke instelling werken.",
+    "items": [
+      "We demonstreren echte software — geen slides, geen mockups.",
+      "We stemmen elk gesprek af op uw instelling en uw programma.",
+      "We geven eerlijk advies, ook als Sapiion niet de juiste keuze is.",
+      "Uw data blijft van u — altijd.",
+      "We meten ons succes af aan uw onderwijsresultaten."
+    ]
+  },
+  "faq": {
+    "h2": "Veelgestelde vragen",
+    "stillQuestion": "Heeft u nog een vraag?",
+    "items": [
+      {
+        "q": "Voor wie is Sapiion bedoeld?",
+        "a": "Sapiion is ontworpen voor instellingen voor hoger en beroepsonderwijs — waaronder hogescholen, universiteiten van toegepaste wetenschappen, polytechnische instituten en opleidingsorganisaties — die curriculum, onderwijs, toetsing en kwaliteitsverbetering willen verbinden in één doorlopende cyclus."
+      },
+      {
+        "q": "Hoe lang duurt de implementatie?",
+        "a": "De meeste instellingen beginnen Sapiion te gebruiken voor onderwijs en toetsing binnen de eerste maand. Inzichten op programmaniveau worden steeds waardevoller naarmate er in de eerste 90 dagen meer onderwijsactiviteit wordt vastgelegd. Uw programma stopt niet terwijl u begint — het verbetert terwijl u dat doet."
+      },
+      {
+        "q": "Hoe lang duurt het voordat we waarde zien?",
+        "a": "De meeste instellingen zien waarde binnen de eerste maand wanneer docenten beginnen te werken met verbonden rubrieken en aanwezigheidsregistratie. Inzichten op programmaniveau worden rijker in de eerste 90 dagen naarmate meer onderwijsactiviteit wordt vastgelegd."
+      },
+      {
+        "q": "Hebben docenten uitgebreide training nodig?",
+        "a": "Nee. We bieden gestructureerde onboarding en rolgebaseerde training. De meeste docenten kunnen na een korte introductie met Sapiion aan de slag, omdat het platform vertrouwde onderwijsworkflows volgt."
+      },
+      {
+        "q": "Wat zijn de kosten?",
+        "a": "De prijs hangt af van de grootte van de instelling en de implementatiescope. We stellen een helder voorstel op nadat we uw wensen hebben begrepen — tijdens of na de demo."
+      },
+      {
+        "q": "Is onze data veilig en AVG-conform?",
+        "a": "Ja. Sapiion is gehost in de EU. De data van elke instelling is volledig geïsoleerd. We verstrekken een volledige verwerkersovereenkomst voordat enig contract wordt getekend."
+      },
+      {
+        "q": "Integreert u met Canvas / Brightspace / Osiris?",
+        "a": "Elke instelling heeft een ander applicatielandschap. Tijdens de demo bespreken we uw bestaande systemen en leggen we uit welke integraties vandaag beschikbaar zijn en welke op de roadmap staan."
+      },
+      {
+        "q": "Kunnen we data importeren vanuit onze bestaande systemen?",
+        "a": "Ja. Sapiion ondersteunt data-import voor studentdossiers, curriculumstructuren en klassengegevens. Tijdens de onboarding werken we samen met u om bestaande data te migreren, zodat u niet van nul hoeft te beginnen. Voor instellingen die overstappen van een LMS of studentinformatiesysteem bespreken we uw specifieke situatie tijdens de demo."
+      },
+      {
+        "q": "Kunnen we onze data exporteren als we vertrekken?",
+        "a": "Ja. Volledige data-export is altijd beschikbaar. Geen vendor lock-in."
+      }
+    ]
+  }
+}

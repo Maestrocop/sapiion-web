@@ -1,37 +1,150 @@
 import { Link } from 'react-router-dom';
-
-const comparison = [
-  ['Curriculum in Word and Excel', 'Curriculum in a live, connected system'],
-  ['Teaching in one tool', 'Teaching connected to the curriculum'],
-  ['Grading in another tool', 'Grading connected to outcomes and rubrics'],
-  ['Attendance tracked separately', 'Attendance connected to risk signals'],
-  ['Coordinator working without signals', 'Coordinator with full programme visibility'],
-  ['Student receiving grades', 'Student understanding their own progress'],
-  ['Annual quality review', 'Continuous programme intelligence'],
-];
-
-const implementationSteps = [
-  { period: 'Week 1–2', text: 'Institution setup, user accounts, basic curriculum structure' },
-  { period: 'Week 3–4', text: 'Teacher onboarding, first classes created' },
-  { period: 'Month 2',  text: 'First assessments and grading workflows live' },
-  { period: 'Month 3',  text: 'Coordinator dashboards active, student progress visible' },
-  { period: 'Month 6',  text: 'Full continuous improvement cycle running' },
-];
+import { useTranslation } from 'react-i18next';
+import SapiionLayerDiagram from '../components/SapiionLayerDiagram';
 
 export default function WhySapiionPage() {
+  const { t } = useTranslation('why');
+
+  const patternSteps = t('pattern.steps', { returnObjects: true });
+  const haveItems = t('realGap.haveItems', { returnObjects: true });
+  const missingItems = t('realGap.missingItems', { returnObjects: true });
+  const connectedItems = t('whatSapiionIs.items', { returnObjects: true });
+  const comparisonRows = t('comparison.rows', { returnObjects: true });
+  const accreditationPoints = t('accreditation.points', { returnObjects: true });
+  const implementationSteps = t('implementation.steps', { returnObjects: true });
+  const gdprItems = t('gdpr.items', { returnObjects: true });
+  const roadmapItems = t('gdpr.roadmapItems', { returnObjects: true });
+  const teacherItems = t('ai.teacherItems', { returnObjects: true });
+  const studentItems = t('ai.studentItems', { returnObjects: true });
+
   return (
     <>
       {/* HERO */}
       <section className="bg-navy-900 text-white pt-20 pb-20 px-6">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-4xl md:text-5xl font-semibold tracking-tight leading-tight mb-5">
-            Schools do not need more software.<br />
-            They need fewer,{' '}
-            <span className="text-brand-accent">better-connected</span> systems.
+            {t('hero.h1a')}<br />
+            {t('hero.h1b')}{' '}
+            <span className="text-brand-accent">{t('hero.h1c')}</span>{' '}
+            {t('hero.h1d')}
           </h1>
           <p className="text-slate-300 text-lg leading-relaxed">
-            Sapiion is not built to add features to the pile. It is built to replace the pile.
+            {t('hero.sub')}
           </p>
+        </div>
+      </section>
+
+      {/* WHY INITIATIVES FAIL */}
+      <section className="py-20 px-6 bg-white">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-brand-teal text-sm font-medium uppercase tracking-wider mb-3">{t('pattern.label')}</p>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">
+            {t('pattern.h2')}
+          </h2>
+          <p className="text-slate-600 mb-10 leading-relaxed max-w-2xl">
+            {t('pattern.body')}
+          </p>
+          <div className="relative">
+            <div className="absolute left-[11px] top-3 bottom-3 w-px bg-slate-100" />
+            <div className="flex flex-col gap-5">
+              {patternSteps.map((text, i) => (
+                <div key={i} className="flex items-start gap-4">
+                  <div className="w-6 h-6 rounded-full bg-slate-100 text-slate-500 flex items-center justify-center text-xs font-bold shrink-0 mt-0.5 z-10">
+                    {i + 1}
+                  </div>
+                  <p className="text-slate-600 text-sm leading-relaxed pt-0.5">{text}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+          <div className="mt-10 bg-navy-900 rounded-2xl p-8 text-white text-center">
+            <p className="text-2xl md:text-3xl font-semibold text-white leading-snug mb-4">
+              {t('pattern.quoteA')}
+            </p>
+            <p className="text-xl md:text-2xl font-semibold text-brand-accent leading-snug mb-6">
+              {t('pattern.quoteB')}
+            </p>
+            <p className="text-slate-400 text-sm leading-relaxed max-w-xl mx-auto">
+              {t('pattern.quoteSub')}
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* THE REAL GAP */}
+      <section className="py-20 px-6 bg-slate-50">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-brand-teal text-sm font-medium uppercase tracking-wider mb-3">{t('realGap.label')}</p>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">
+            {t('realGap.h2')}
+          </h2>
+          <p className="text-slate-600 mb-10 leading-relaxed max-w-2xl">
+            {t('realGap.body')}
+          </p>
+          <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">{t('realGap.haveLabel')}</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-8">
+            {haveItems.map((label) => (
+              <div key={label} className="flex items-center gap-3 bg-white rounded-xl px-4 py-3 border border-slate-200">
+                <span className="text-green-500 font-bold shrink-0">✓</span>
+                <p className="text-sm text-slate-600">{label}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-xs font-semibold text-amber-500 uppercase tracking-wider mb-3">{t('realGap.missingLabel')}</p>
+          <div className="flex flex-col gap-3 mb-6">
+            {missingItems.map(({ label, body }) => (
+              <div key={label} className="bg-white rounded-xl px-5 py-5 border-2 border-amber-200">
+                <div className="flex items-start gap-3 mb-2">
+                  <span className="text-amber-500 font-bold shrink-0 mt-0.5">✗</span>
+                  <p className="text-navy-900 font-semibold text-sm">{label}</p>
+                </div>
+                <p className="text-slate-500 text-xs leading-relaxed pl-6">{body}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-navy-900 font-semibold text-base mt-2">
+            {t('realGap.conclusion')}
+          </p>
+        </div>
+      </section>
+
+      {/* IMPLEMENTATION PLATFORM */}
+      <section className="py-20 px-6 bg-white">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-brand-teal text-sm font-medium uppercase tracking-wider mb-3">{t('whatSapiionIs.label')}</p>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">
+            {t('whatSapiionIs.h2')}
+          </h2>
+          <p className="text-slate-600 mb-6 leading-relaxed max-w-2xl">
+            {t('whatSapiionIs.body1')}
+          </p>
+          <p className="text-slate-600 mb-10 leading-relaxed max-w-2xl">
+            {t('whatSapiionIs.body2')}
+          </p>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+            {connectedItems.map((item) => (
+              <div key={item} className="bg-slate-50 rounded-xl px-4 py-3 text-center border border-slate-100">
+                <p className="text-navy-900 text-xs font-medium">{item}</p>
+              </div>
+            ))}
+          </div>
+          <p className="mt-6 text-brand-teal text-sm font-medium text-center">
+            {t('whatSapiionIs.connectedBy')}
+          </p>
+        </div>
+      </section>
+
+      {/* WHERE SAPIION FITS */}
+      <section className="py-20 px-6 bg-white">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-brand-teal text-sm font-medium uppercase tracking-wider mb-3">{t('whereFits.label')}</p>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">
+            {t('whereFits.h2')}
+          </h2>
+          <p className="text-slate-600 mb-10 leading-relaxed">
+            {t('whereFits.body')}
+          </p>
+          <SapiionLayerDiagram />
         </div>
       </section>
 
@@ -39,15 +152,15 @@ export default function WhySapiionPage() {
       <section className="py-20 px-6 bg-white">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl font-semibold text-navy-900 mb-8">
-            What most institutions have today — and what Sapiion provides.
+            {t('comparison.h2')}
           </h2>
           <div className="rounded-2xl border border-slate-100 overflow-hidden">
             <div className="grid grid-cols-2 bg-slate-50 border-b border-slate-100">
-              <div className="px-6 py-3 text-xs font-semibold text-slate-500 uppercase tracking-wider">Today</div>
-              <div className="px-6 py-3 text-xs font-semibold text-brand-teal uppercase tracking-wider border-l border-slate-100">With Sapiion</div>
+              <div className="px-6 py-3 text-xs font-semibold text-slate-500 uppercase tracking-wider">{t('comparison.todayCol')}</div>
+              <div className="px-6 py-3 text-xs font-semibold text-brand-teal uppercase tracking-wider border-l border-slate-100">{t('comparison.sapiionCol')}</div>
             </div>
-            {comparison.map(([before, after], i) => (
-              <div key={i} className={`grid grid-cols-2 ${i < comparison.length - 1 ? 'border-b border-slate-100' : ''}`}>
+            {comparisonRows.map(([before, after], i) => (
+              <div key={i} className={`grid grid-cols-2 ${i < comparisonRows.length - 1 ? 'border-b border-slate-100' : ''}`}>
                 <div className="px-6 py-4 text-sm text-slate-500 flex items-start gap-2">
                   <span className="text-slate-300 mt-0.5 shrink-0">—</span>
                   {before}
@@ -65,83 +178,106 @@ export default function WhySapiionPage() {
       {/* VS LMS */}
       <section className="py-20 px-6 bg-slate-50">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl font-semibold text-navy-900 mb-4">Sapiion is not a learning management system.</h2>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">{t('vsLms.h2')}</h2>
           <p className="text-slate-600 mb-8 leading-relaxed">
-            Canvas, Moodle and Brightspace are content delivery platforms. They were designed to
-            distribute materials and collect submissions. That is useful — but it is not enough.
+            {t('vsLms.body')}
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
             <div className="bg-white rounded-2xl p-6 border border-slate-100">
-              <p className="text-slate-400 text-xs uppercase tracking-wider mb-3">Traditional LMS asks</p>
-              <p className="text-slate-700 italic">"Did the student submit?"</p>
+              <p className="text-slate-400 text-xs uppercase tracking-wider mb-3">{t('vsLms.lmsLabel')}</p>
+              <p className="text-slate-700 italic">{t('vsLms.lmsQ')}</p>
             </div>
             <div className="bg-white rounded-2xl p-6 border border-brand-accent/30">
-              <p className="text-brand-teal text-xs uppercase tracking-wider mb-3">Sapiion asks</p>
-              <p className="text-navy-900 italic">"Did the student develop the intended competency — and how do we know?"</p>
+              <p className="text-brand-teal text-xs uppercase tracking-wider mb-3">{t('vsLms.sapiionLabel')}</p>
+              <p className="text-navy-900 italic">{t('vsLms.sapiionQ')}</p>
             </div>
           </div>
-          <p className="text-slate-600 text-sm leading-relaxed">
-            That question changes everything about how a platform is built. An LMS does{' '}
-            <strong>Content → Assignment → Grade</strong>. Sapiion does{' '}
-            <strong>Curriculum Intent → Teaching Design → Assessment Evidence → Mastery → Improvement</strong>.
-          </p>
+          <p className="text-slate-600 text-sm leading-relaxed"
+            dangerouslySetInnerHTML={{ __html: t('vsLms.footer') }}
+          />
         </div>
       </section>
 
       {/* VS SIS */}
       <section className="py-20 px-6 bg-white">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl font-semibold text-navy-900 mb-4">Sapiion is not a student administration system.</h2>
-          <p className="text-slate-600 leading-relaxed">
-            Osiris, Educator and similar SIS platforms manage student records — enrolments, credits, diplomas.
-            They record what happened. Sapiion helps improve what happens.
-          </p>
-          <p className="text-slate-600 mt-4 leading-relaxed">
-            A SIS tells you a student failed. Sapiion tells you three weeks before the student fails —
-            and gives the coordinator the tools to intervene.
-          </p>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">{t('vsSis.h2')}</h2>
+          <p className="text-slate-600 leading-relaxed">{t('vsSis.body1')}</p>
+          <p className="text-slate-600 mt-4 leading-relaxed">{t('vsSis.body2')}</p>
+          <p className="text-slate-600 mt-3 leading-relaxed">{t('vsSis.body3')}</p>
+        </div>
+      </section>
+
+      {/* AI DIFFERENTIATOR */}
+      <section className="py-20 px-6 bg-navy-900 text-white">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl font-semibold mb-4">{t('ai.h2')}</h2>
+          <p className="text-slate-300 mb-8 leading-relaxed">{t('ai.body1')}</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            <div className="bg-navy-800 rounded-2xl p-6 border border-navy-700">
+              <p className="text-slate-400 text-xs uppercase tracking-wider mb-3">{t('ai.mostAiLabel')}</p>
+              <p className="text-slate-300 italic">{t('ai.mostAiQ')}</p>
+            </div>
+            <div className="bg-navy-800 rounded-2xl p-6 border border-brand-accent/30">
+              <p className="text-brand-accent text-xs uppercase tracking-wider mb-3">{t('ai.sapiionLabel')}</p>
+              <p className="text-white italic">{t('ai.sapiionQ')}</p>
+            </div>
+          </div>
+          <p className="text-slate-300 mb-8 leading-relaxed">{t('ai.body2')}</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            <div className="bg-navy-800 rounded-xl p-5 border border-navy-700">
+              <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">{t('ai.teachersLabel')}</p>
+              <div className="flex flex-col gap-2">
+                {teacherItems.map((item) => (
+                  <div key={item} className="flex items-start gap-2">
+                    <span className="text-brand-accent text-sm mt-0.5 shrink-0">✓</span>
+                    <p className="text-slate-300 text-sm">{item}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div className="bg-navy-800 rounded-xl p-5 border border-navy-700">
+              <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">{t('ai.studentsLabel')}</p>
+              <div className="flex flex-col gap-2">
+                {studentItems.map((item) => (
+                  <div key={item} className="flex items-start gap-2">
+                    <span className="text-brand-accent text-sm mt-0.5 shrink-0">✓</span>
+                    <p className="text-slate-300 text-sm">{item}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+          <div className="border border-brand-accent/40 rounded-xl p-6">
+            <p className="text-slate-200 leading-relaxed"
+              dangerouslySetInnerHTML={{ __html: t('ai.principle') }}
+            />
+          </div>
         </div>
       </section>
 
       {/* ACCREDITATION */}
-      <section className="py-20 px-6 bg-slate-50">
+      <section className="py-20 px-6 bg-white">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl font-semibold text-navy-900 mb-4">
-            When accreditation comes, the evidence should already be there.
-          </h2>
-          <p className="text-slate-600 mb-8 leading-relaxed">
-            Dutch HBO institutions must demonstrate educational quality to the NVAO.
-            That process is stressful for one reason: the evidence is scattered.
-          </p>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">{t('accreditation.h2')}</h2>
+          <p className="text-slate-600 mb-8 leading-relaxed">{t('accreditation.body')}</p>
           <div className="grid grid-cols-1 gap-3">
-            {[
-              'Every learning outcome linked to curriculum intent',
-              'Every assessment linked to rubric criteria',
-              'Every rubric score linked to outcomes',
-              "Every student's progress tracked against programme requirements",
-              "Every programme's health visible in real time",
-            ].map((point, i) => (
+            {accreditationPoints.map((point, i) => (
               <div key={i} className="flex items-center gap-3 bg-white rounded-xl px-5 py-4 border border-slate-100">
                 <span className="text-brand-accent font-bold">✓</span>
                 <p className="text-slate-700 text-sm">{point}</p>
               </div>
             ))}
           </div>
-          <p className="mt-6 text-slate-500 text-sm italic">
-            When accreditation comes, you review evidence — you do not collect it.
-          </p>
+          <p className="mt-6 text-slate-500 text-sm italic">{t('accreditation.footer')}</p>
         </div>
       </section>
 
       {/* IMPLEMENTATION */}
       <section className="py-20 px-6 bg-white">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl font-semibold text-navy-900 mb-4">
-            A structured 90-day onboarding — not a 2-year implementation project.
-          </h2>
-          <p className="text-slate-600 mb-10 leading-relaxed">
-            Your programme does not stop while you implement Sapiion. It improves while you do.
-          </p>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">{t('implementation.h2')}</h2>
+          <p className="text-slate-600 mb-10 leading-relaxed">{t('implementation.body')}</p>
           <div className="relative">
             <div className="absolute left-[5.5rem] top-0 bottom-0 w-px bg-slate-100 hidden md:block" />
             <div className="flex flex-col gap-6">
@@ -160,19 +296,27 @@ export default function WhySapiionPage() {
       {/* GDPR */}
       <section className="py-20 px-6 bg-navy-900 text-white">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl font-semibold mb-4">Your data belongs to your institution. Full stop.</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
-            {[
-              { title: 'EU hosted', body: 'Your data stays in Europe. Always.' },
-              { title: 'Full isolation', body: "Each institution's data is completely separate — no data mixing." },
-              { title: 'DPA ready', body: 'Data Processing Agreement available before any contract is signed.' },
-              { title: 'No lock-in', body: 'Full data export at any time. Your data is yours.' },
-            ].map(({ title, body }) => (
+          <h2 className="text-2xl font-semibold mb-2">{t('gdpr.h2')}</h2>
+          <p className="text-slate-400 text-sm mb-8">{t('gdpr.sub')}</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {gdprItems.map(({ title, body }) => (
               <div key={title} className="bg-navy-800 rounded-xl p-5 border border-navy-700">
-                <p className="text-brand-accent text-sm font-semibold mb-1">{title}</p>
+                <p className="text-brand-accent text-sm font-semibold mb-1">✅ {title}</p>
                 <p className="text-slate-300 text-sm">{body}</p>
               </div>
             ))}
+          </div>
+          <div className="mt-10 border border-navy-700 rounded-xl p-6">
+            <p className="text-white text-sm font-semibold mb-1">{t('gdpr.roadmapTitle')}</p>
+            <p className="text-slate-400 text-xs mb-4">{t('gdpr.roadmapSub')}</p>
+            <div className="flex flex-col gap-2">
+              {roadmapItems.map(item => (
+                <div key={item} className="flex items-center gap-2 text-sm text-slate-300">
+                  <span className="text-slate-500">🗺</span>
+                  {item}
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </section>
@@ -180,14 +324,12 @@ export default function WhySapiionPage() {
       {/* CTA */}
       <section className="py-20 px-6 bg-slate-50 text-center">
         <div className="max-w-xl mx-auto">
-          <h2 className="text-2xl font-semibold text-navy-900 mb-4">
-            Ready to see what connected education looks like?
-          </h2>
+          <h2 className="text-2xl font-semibold text-navy-900 mb-4">{t('cta.h2')}</h2>
           <Link
             to="/demo"
             className="inline-block bg-navy-900 text-white font-semibold px-8 py-3 rounded-lg hover:bg-navy-800 transition-colors"
           >
-            Request a demo →
+            {t('cta.btn')}
           </Link>
         </div>
       </section>

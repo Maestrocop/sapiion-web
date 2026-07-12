@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "h1a": "We bouwden Sapiion omdat onderwijskwaliteit niet afhankelijk mag zijn van",
+    "h1b": "individuele inspanning."
+  },
+  "story": {
+    "p1": "Onderwijs vormt de belangrijkste basis van de samenleving: menselijk potentieel.",
+    "p2": "Toch werken de meeste onderwijsinstellingen nog steeds met losse tools, gefragmenteerde data en reactieve besluitvorming. Docenten werken geïsoleerd. Coördinatoren ontdekken problemen te laat. Studenten weten niet waar ze staan.",
+    "p3": "Het gevolg is dat onderwijskwaliteit bijna volledig afhankelijk is van de individuele inspanning van betrokken docenten — niet van de kracht van de instelling.",
+    "p4": "Dat is niet goed genoeg.",
+    "p5": "We bouwden Sapiion om dat te veranderen. Niet door nog meer software toe te voegen aan een al versnipperd landschap. Maar door curriculum, onderwijs, toetsing en studentensucces te verbinden in één samenhangend systeem — zodat onderwijskwaliteit een institutionele kracht wordt, geen persoonlijke."
+  },
+  "belief": {
+    "h2": "Onze overtuiging",
+    "quote": "Leren is niet het overdragen van inhoud. Leren is het ontwikkelen van competenties door gestructureerde ervaring, feedback en reflectie.",
+    "sub": "Deze overtuiging vormt elke functie die we bouwen.",
+    "traditionalLabel": "Traditionele systemen vragen",
+    "traditionalQ": "\"Heeft de student de opdracht ingeleverd?\"",
+    "sapiionLabel": "Sapiion vraagt",
+    "sapiionQ": "\"Heeft de student de beoogde competentie ontwikkeld — en hoe weten we dat?\""
+  },
+  "manifesto": {
+    "label": "Waarom we bestaan",
+    "items": [
+      {
+        "label": "Training inspireert mensen.",
+        "sub": "Scholen investeren in professionele ontwikkeling, externe consultants, workshops en innovatieprojecten. De ideeën zijn uitstekend. De energie is oprecht."
+      },
+      {
+        "label": "Processen begeleiden mensen.",
+        "sub": "Na de training worden afspraken gemaakt, actieplannen geschreven en nieuwe werkwijzen overeengekomen. De ambitie is oprecht."
+      },
+      {
+        "label": "Platforms borgen verbetering.",
+        "sub": "Zonder een systeem dat nieuwe werkwijzen inbedt in het dagelijkse werk, vervaagt de verandering geleidelijk. Twee jaar later worden dezelfde problemen opnieuw besproken."
+      }
+    ],
+    "box1": "Scholen slagen er niet in consistent te verbeteren omdat ze ambitie of talent missen. Ze slagen er niet in consistent te verbeteren omdat <strong>goede intenties niet hetzelfde zijn als duurzame processen</strong> — en duurzame processen vereisen het juiste platform om ze te borgen.",
+    "box2": "Zonder een verbonden platform is continue verbetering afhankelijk van individuele inspanning. Met een verbonden platform wordt continue verbetering onderdeel van de werkwijze van de instelling."
+  },
+  "learningCycle": {
+    "h2": "Onze leercyclus",
+    "body": "We hebben Sapiion ontworpen rond een doorlopende verbeteringscyclus — geen eenrichtings-contentpijplijn.",
+    "steps": [
+      "Curriculumintentie",
+      "Leerdesign",
+      "Lesgeven & Uitvoering",
+      "Toetsing & Bewijs",
+      "Beheersing van leeruitkomsten",
+      "Studentensuccassignalen",
+      "Interventie & Ondersteuning",
+      "Curriculumverbetering"
+    ],
+    "repeat": "herhalen — continue verbetering"
+  },
+  "ai": {
+    "label": "Onderwijsintelligentie, versterkt door AI",
+    "h2": "Onderwijs wordt intelligenter wanneer technologie context begrijpt, niet alleen inhoud.",
+    "body1": "Kunstmatige intelligentie transformeert elke sector. Onderwijs mag hier ook van profiteren — maar wel verantwoord.",
+    "body2": "De meeste AI-tools werken met algemene kennis. Sapiion past AI toe binnen uw onderwijscontext.",
+    "contextItems": [
+      "Uw curriculum",
+      "Uw leeruitkomsten",
+      "Uw toetscriteria",
+      "De voortgang van uw studenten"
+    ],
+    "teachersLabel": "Voor docenten",
+    "teachersBody": "Verminder administratief werk, ontwerp betere toetsen en verkrijg inzicht in studentvoortgang — ondersteund door AI die uw curriculum begrijpt.",
+    "studentsLabel": "Voor studenten",
+    "studentsBody": "Een AI-ondersteunde leermetgezel die verkenning, reflectie en vaardigheidsontwikkeling stimuleert — en studenten helpt hun voortgang te begrijpen en te ontdekken hoe ze kunnen verbeteren.",
+    "exampleLabel": "Voorbeeld: AI in Sapiion vandaag",
+    "exampleTitle": "Uitkomstgerichte toetsgeneratie",
+    "exampleBody": "Een docent selecteert leeruitkomsten en modules. Sapiion genereert toetsvragen die zijn afgestemd op die uitkomsten — elke vraag teruggekoppeld aan een specifieke competentie, inclusief moeilijkheidsniveaus en uitleg.",
+    "exampleFooter": "Geen generieke AI-inhoud. Toetsen gekoppeld aan wat studenten daadwerkelijk moeten leren.",
+    "future": "In de toekomst zal Sapiion AI-mogelijkheden uitbreiden om docenten te helpen leerpatronen te herkennen, interventies voor te stellen en studenten te ondersteunen in hun persoonlijke ontwikkelingsreis.",
+    "principle1": "AI vervangt geen onderwijsexpertise.",
+    "principle2": "Het versterkt die."
+  },
+  "success": {
+    "h2": "Wat succes eruitziet",
+    "sub": "Sapiion is succesvol wanneer:",
+    "items": [
+      { "role": "Een coördinator", "text": "op elk moment kan zien welke studenten aandacht nodig hebben — en in actie komt voordat het te laat is" },
+      { "role": "Een docent", "text": "minder tijd besteedt aan administratie en meer aan lesgeven" },
+      { "role": "Een student", "text": "altijd weet wat er moet gebeuren, wat er ingeleverd moet worden en hoe hij of zij vordert" },
+      { "role": "Een curriculumontwerper", "text": "kan zien of hun ontwerp daadwerkelijk de beoogde leeruitkomsten oplevert" },
+      { "role": "Een schooldirecteur", "text": "onderwijskwaliteit met vertrouwen en bewijs kan aantonen" },
+      { "role": "Een instelling", "text": "kan aantonen dat haar interventies studentensucces verbeteren" }
+    ],
+    "principleLabel": "Het ene leidende principe",
+    "principle": "\"Elke functie in Sapiion moet bijdragen aan het verbeteren van onderwijskwaliteit, niet alleen aan het digitaliseren van onderwijsadministratie.\""
+  },
+  "brand": {
+    "name": "Noor B.V. · Sapiion",
+    "body": "Ons bedrijf, <strong>Noor B.V.</strong>, draagt een eenvoudige betekenis: Noor betekent <em>licht</em> in het Arabisch. Ons platform, <strong>Sapiion</strong>, komt van <em>sapientia</em> — het Latijnse begrip voor wijsheid en gezond oordeel. We brengen licht in onderwijsdata en zetten dat om in institutionele wijsheid. Dat is geen marketingverhaal. Het is waarom we bestaan."
+  },
+  "cta": {
+    "h2": "Als dit resoneert met hoe u over onderwijs denkt — praten we graag met u.",
+    "demoBtn": "Demo aanvragen →",
+    "emailBtn": "Stuur ons een bericht"
+  }
+}

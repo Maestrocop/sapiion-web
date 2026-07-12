@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "whySapiion": "Waarom Sapiion",
+    "solutions": "Oplossingen",
+    "ourVision": "Onze visie",
+    "requestDemo": "Demo aanvragen"
+  },
+  "footer": {
+    "tagline": "Een Educational Intelligence Platform voor het beroepsonderwijs. Curriculum, onderwijs, toetsing en studentensucces verbonden in één systeem.",
+    "product": "Product",
+    "company": "Bedrijf",
+    "about": "Over ons",
+    "copyright": "© {{year}} Noor B.V. — Alle rechten voorbehouden.",
+    "euHosted": "Gehost in de EU",
+    "gdpr": "AVG-conform"
+  }
+}

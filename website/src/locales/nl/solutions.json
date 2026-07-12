@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "h1a": "De juiste tools voor elke",
+    "h1b": "rol in de instelling.",
+    "sub": "Sapiion verbindt iedereen in de instelling en geeft elke rol de inzichten en werkstromen die ze nodig hebben."
+  },
+  "theirReality": "Hun realiteit",
+  "whatSapiionProvides": "Wat Sapiion biedt",
+  "theResult": "Het resultaat",
+  "cta": {
+    "h2": "Welke rol beschrijft u?",
+    "body": "Vertel ons wie er bij de demo aanwezig is en we passen de demonstratie aan op wat voor u belangrijk is.",
+    "btn": "Demo aanvragen →"
+  },
+  "audiences": [
+    {
+      "id": "programme-manager",
+      "role": "Programmamanager",
+      "tag": "Beslisser",
+      "persona": "Sandra — Programmamanager, Bedrijfskunde, 800 studenten, 24 docenten",
+      "reality": "Sandra is verantwoordelijk voor onderwijskwaliteit, maar de informatie die ze nodig heeft is versnipperd. Studentrisico's worden te laat zichtbaar, accreditatiebewijs kost maanden voorbereiding en ze kan niet altijd zien of leeruitkomsten consistent worden beoordeeld in het programma.",
+      "headline": "Weet of uw programma levert wat het belooft — vóór de accreditatie, niet tijdens.",
+      "features": [
+        { "title": "Programmaoverzicht", "body": "Één overzicht van het hele programma: curriculumafstemming, dekking van uitkomsten, studentrisico, cijferdistributie en aanwezigheidstrends." },
+        { "title": "Continue accreditatiegereedheid", "body": "Elke leeruitkomst gekoppeld. Elke toets traceerbaar. Elke beslissing onderbouwd met bewijs." },
+        { "title": "Vroegtijdig waarschuwingssysteem", "body": "Coördinatoren signaleren risicovolle studenten eerder — zodat de instelling tijd heeft om in te grijpen voordat problemen uitvallen worden." },
+        { "title": "Curriculumconsistentie", "body": "Docenten werken met gedeelde rubrieken en leeruitkomsten. Programmaqualiteit is niet langer afhankelijk van individuele interpretatie." },
+        { "title": "Programmaprestatiesinzichten", "body": "Vergelijk modules, cohorten en leeruitkomsten. Identificeer verbetermogelijkheden voordat ze kwaliteitsproblemen worden." }
+      ],
+      "result": "Als de accreditatie komt, kost de voorbereiding dagen — niet maanden. Studentondersteuning wordt proactief in plaats van reactief. Kwaliteitsverbetering wordt institutioneel."
+    },
+    {
+      "id": "coordinator",
+      "role": "Coördinator & Adviseur",
+      "tag": "",
+      "persona": "Fatima — SLB-adviseur, 45 studenten verdeeld over twee cohorten",
+      "reality": "Studentbegeleiding is vaak reactief. Tegen de tijd dat waarschuwingssignalen zichtbaar worden, is waardevolle tijd al verloren. Cijfers, aanwezigheid en doorstroomgegevens zijn verspreid over meerdere systemen, waardoor het moeilijk is een compleet beeld van elke student te vormen.",
+      "headline": "Grijp in voordat studenten zakken. Niet daarna.",
+      "features": [
+        { "title": "Volledig studentprofiel", "body": "Aanwezigheid, toetsingen, voortgang leeruitkomsten, interventies en risicosignalen op één plek. Geen zoektocht langs systemen." },
+        { "title": "Risicosignalen", "body": "Geprioriteerde risicosignalen helpen bepalen welke studenten nu aandacht nodig hebben, voordat kleine problemen grote worden." },
+        { "title": "Voortgangsreview-workflow", "body": "Een gestructureerde werkstroom waarbij bewijs automatisch wordt verzameld gedurende het semester, zodat voortgangsbeslissingen transparant en verdedigbaar zijn." },
+        { "title": "Interventieregistratie", "body": "Leg interventies vast, wijs vervolgacties toe, plan reviewmomenten en monitor of de begeleiding effect heeft." }
+      ],
+      "result": "Elk studentgesprek begint met inzicht in plaats van administratie. Voortgangsreview wordt een reviewproces — geen verzamelexercitie."
+    },
+    {
+      "id": "teacher",
+      "role": "Docent",
+      "tag": "",
+      "persona": "Martijn — Docent HRM, 3 actieve klassen, 78 studenten",
+      "reality": "Martijn besteedt wekelijks uren aan administratie in plaats van lesgeven. Rubrieken worden voor elke cursus opnieuw gemaakt en het is moeilijk om studenten in de problemen te signaleren voordat de problemen zichtbaar worden.",
+      "headline": "Minder administratie. Meer lesgeven. Beter inzicht in elke student.",
+      "features": [
+        { "title": "Één verbonden werkruimte", "body": "Curriculum, lesplanning, aanwezigheid, toetsing en studentvoortgang in één verbonden omgeving." },
+        { "title": "Verbonden rubrieken", "body": "Maak rubrieken één keer, koppel ze aan leeruitkomsten en hergebruik ze in modules en toetsingen." },
+        { "title": "Geïntegreerde aanwezigheid", "body": "Registreer aanwezigheid direct vanuit de klassenweergave — verbonden met de risicosignalen waarop coördinatoren vertrouwen." },
+        { "title": "Verbonden beoordeling", "body": "Toetsresultaten worden automatisch gekoppeld aan rubriekcriteria en leeruitkomsten, waardoor bewijs van studentcompetentie ontstaat in plaats van geïsoleerde cijfers." },
+        { "title": "Automatisch uitkomstbewijs", "body": "Terwijl docenten beoordelen met rubrieken, wordt de dekking van uitkomsten automatisch vastgelegd. Geen apart bijhouden, geen rapportageoverhead. Het accreditatiebewijs bouwt zichzelf op." }
+      ],
+      "result": "Martijn heeft meer tijd om les te geven en beter inzicht in de studenten die ondersteuning nodig hebben. De verbindingen met curriculum, uitkomsten en kwaliteit verlopen automatisch — omdat hij eenvoudigweg lesgeeft binnen één verbonden platform."
+    },
+    {
+      "id": "curriculum-designer",
+      "role": "Curriculumontwerper",
+      "tag": "",
+      "persona": "Lena — Curriculumontwerper, centraal onderwijsontwikkelingsteam",
+      "reality": "Lena's grootste frustratie is dat curriculumontwerp losraakt van het dagelijkse lesgeven. Programmaspecificaties worden gemaakt, goedgekeurd en opgeslagen — maar ze kan niet zien of de beoogde leeruitkomsten daadwerkelijk worden aangeboden en beoordeeld.",
+      "headline": "Ontwerp curriculum dat verbonden blijft — van intentie tot bewijs.",
+      "features": [
+        { "title": "Curriculum Composer", "body": "Ontwerp programma's in een live, verbonden systeem — geen statische documenten." },
+        { "title": "Uitkomstmapping", "body": "Koppel modules, opdrachten en toetsingen aan leeruitkomsten. Detecteer hiaten voordat ze de programmawaliteit beïnvloeden." },
+        { "title": "Gedeelde rubriekbibliotheek", "body": "Rubrieken ontworpen door curriculumexperts vloeien direct door naar onderwijs en toetsing. Geen duplicatie. Geen opnieuw uitvinden." },
+        { "title": "Curriculumeffectiviteitsoverzicht", "body": "Zie of uw ontwerp daadwerkelijk de beoogde uitkomsten heeft opgeleverd in de praktijk." }
+      ],
+      "result": "Het curriculumontwerp van Lena wordt een levend instrument. Ze verbetert programma's op basis van bewijs — niet aannames."
+    },
+    {
+      "id": "student",
+      "role": "Student",
+      "tag": "",
+      "persona": "Amir — Tweedejaarsstudent Bedrijfskunde",
+      "reality": "Amir volgt de meeste lessen maar raakt het overzicht over deadlines kwijt. Hij ontvangt cijfers maar begrijpt niet altijd wat ze betekenen. Hij bevindt zich ergens in het midden — niet zakkend, niet uitblinkend — en krijgt pas aandacht als problemen zichtbaar worden.",
+      "headline": "Weet precies waar u staat. Voordat het een probleem wordt.",
+      "features": [
+        { "title": "Één dashboard", "body": "Alle opdrachten, deadlines, cijfers en voortgangsindicatoren op één plek." },
+        { "title": "Uitkomstvoortgang", "body": "Zie welke competenties zich ontwikkelen — niet alleen scores." },
+        { "title": "Rubriekcriteria vóór inlevering", "body": "Hij weet wat 'goed' is voordat hij inlevert, niet daarna." },
+        { "title": "Vroegtijdig bewustzijn", "body": "Als er iets mis dreigt te gaan, ziet Amir het vroeg — en weet hij welke actie hij moet ondernemen." }
+      ],
+      "result": "Amir stopt met vliegen op de automatische piloot. Hij weet wat hij moet doen, wat er ingeleverd moet worden en hoe hij vordert."
+    },
+    {
+      "id": "ict-manager",
+      "role": "ICT-manager",
+      "tag": "Technisch eigenaar",
+      "persona": "Peter — Manager ICT & Digitale Infrastructuur",
+      "reality": "Peter heeft te veel softwareprojecten gezien die vol enthousiasme werden gelanceerd en binnen een jaar werden verlaten. Hij is niet tegen innovatie. Hij is verantwoordelijk voor het bewaken van veiligheid, beheersbaarheid en langetermijnwaarde van elk nieuw platform.",
+      "headline": "Één verbonden platform dat complexiteit vermindert — niet nog een systeem om te beheren.",
+      "features": [
+        { "title": "Één verbonden platform", "body": "Eén platform dat curriculum, onderwijs en toetsing verbindt en naast bestaande institutionele systemen werkt. Verklein de versnippering zonder een volledige vervanging van uw IT-landschap te forceren." },
+        { "title": "Open integratie", "body": "Sapiion verbindt met bestaande institutionele systemen via beveiligde API's en standaard data-uitwisselingsformaten — SIS, Microsoft 365 en identiteitsproviders. Ontworpen om in uw bestaande architectuur te passen, niet om een nieuw geïsoleerd eiland te creëren." },
+        { "title": "EU-hosting + AVG", "body": "Data opgeslagen in de EU. Verwerkersovereenkomst en beveiligingsdocumentatie beschikbaar voordat de implementatie begint." },
+        { "title": "Volledige data-isolatie", "body": "Elke instelling werkt in een eigen veilige dataomgeving. Institutionele data wordt nooit gemengd." },
+        { "title": "Geen vendor lock-in", "body": "Volledige data-export op elk gewenst moment. Altijd." },
+        { "title": "Gecontroleerde implementatie", "body": "Begin met één programma, valideer adoptie en werkstromen, en schaal geleidelijk op binnen de instelling." }
+      ],
+      "result": "Peter kan de verwerkersovereenkomst met vertrouwen ondertekenen. Implementatierisico is beheersbaar. Adoptie wordt ondersteund omdat elke rol direct duidelijke waarde ervaart."
+    }
+  ]
+}
