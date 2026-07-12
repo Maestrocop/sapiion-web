@@ -1,15 +1,23 @@
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-
-const links = [
-  { to: '/why-sapiion', label: 'Why Sapiion' },
-  { to: '/solutions',   label: 'Solutions' },
-  { to: '/about',       label: 'About' },
-];
+import { useTranslation } from 'react-i18next';
 
 export default function Nav() {
   const [open, setOpen] = useState(false);
   const { pathname } = useLocation();
+  const { t, i18n } = useTranslation('common');
+
+  const links = [
+    { to: '/why-sapiion', label: t('nav.whySapiion') },
+    { to: '/solutions',   label: t('nav.solutions') },
+    { to: '/about',       label: t('nav.ourVision') },
+  ];
+
+  function toggleLang() {
+    const next = i18n.language === 'nl' ? 'en' : 'nl';
+    i18n.changeLanguage(next);
+    localStorage.setItem('sapiion-lang', next);
+  }
 
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-slate-100">
@@ -43,11 +51,18 @@ export default function Nav() {
           >
             hello@sapiion.ai
           </a>
+          <button
+            onClick={toggleLang}
+            className="text-xs font-semibold text-slate-400 hover:text-navy-900 transition-colors border border-slate-200 rounded-md px-2 py-1"
+            aria-label="Switch language"
+          >
+            {i18n.language === 'nl' ? 'EN' : 'NL'}
+          </button>
           <Link
             to="/demo"
             className="bg-navy-900 text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-navy-800 transition-colors"
           >
-            Request a demo
+            {t('nav.requestDemo')}
           </Link>
         </div>
 
@@ -82,13 +97,21 @@ export default function Nav() {
               {label}
             </Link>
           ))}
-          <Link
-            to="/demo"
-            onClick={() => setOpen(false)}
-            className="bg-navy-900 text-white text-sm font-medium px-4 py-2 rounded-lg text-center"
-          >
-            Request a demo
-          </Link>
+          <div className="flex items-center gap-3">
+            <Link
+              to="/demo"
+              onClick={() => setOpen(false)}
+              className="flex-1 bg-navy-900 text-white text-sm font-medium px-4 py-2 rounded-lg text-center"
+            >
+              {t('nav.requestDemo')}
+            </Link>
+            <button
+              onClick={toggleLang}
+              className="text-xs font-semibold text-slate-400 border border-slate-200 rounded-md px-2 py-2"
+            >
+              {i18n.language === 'nl' ? 'EN' : 'NL'}
+            </button>
+          </div>
         </div>
       )}
     </header>

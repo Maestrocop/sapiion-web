@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "h1a": "See your programme in Sapiion —",
+    "h1b": "not a generic demo.",
+    "body": "Every institution is different. That is why we do not give generic product demonstrations. We ask for your programme structure in advance and enter it into Sapiion — so you see your own curriculum on screen, not a fictional example.",
+    "stat1": "45 minutes.",
+    "stat2": "No slides.",
+    "stat3": "Just the platform."
+  },
+  "expect": {
+    "steps": [
+      {
+        "step": "Before",
+        "text": "We ask for your programme structure — a module, a few learning outcomes, a class. We enter it into Sapiion before we meet, so the demo runs on your curriculum, not ours."
+      },
+      {
+        "step": "During",
+        "text": "We walk through one complete flow — curriculum to teaching to assessment to student dashboard to programme view. Real software, your context."
+      },
+      {
+        "step": "After",
+        "text": "We answer your questions honestly. If Sapiion is not the right fit, we tell you. If it is, we discuss what a pilot looks like."
+      }
+    ]
+  },
+  "form": {
+    "title": "Book a demo",
+    "nameLabel": "Your name *",
+    "roleLabel": "Your role *",
+    "rolePlaceholder": "Select…",
+    "institutionLabel": "Institution name *",
+    "emailLabel": "Email address *",
+    "phoneLabel": "Phone (optional)",
+    "sizeLabel": "How many students in your programme?",
+    "sizePlaceholder": "Select…",
+    "challengeLabel": "What is your primary challenge?",
+    "challengeOptional": "(optional)",
+    "challengePlaceholder": "e.g. we want to reduce student dropout / we have an accreditation coming up…",
+    "sourceLabel": "How did you hear about Sapiion?",
+    "sourcePlaceholder": "Select…",
+    "submitBtn": "Book a demo →",
+    "disclaimer": "No obligation. No sales pressure. Just a conversation about your educational challenges.",
+    "successTitle": "Thank you, we will be in touch.",
+    "successBody": "We respond within one business day.",
+    "roles": [
+      "Programme Manager",
+      "Education Manager / Dean",
+      "Curriculum Designer",
+      "Coordinator / Advisor",
+      "ICT Manager / CIO",
+      "Teacher",
+      "Other"
+    ],
+    "sizes": [
+      "Under 100 students",
+      "100 – 500 students",
+      "500 – 2,000 students",
+      "Over 2,000 students"
+    ],
+    "sources": ["LinkedIn", "Word of mouth", "Google", "Conference / Event", "Other"]
+  },
+  "trust": {
+    "items": [
+      { "label": "EU hosted", "sub": "Data stays in Europe" },
+      { "label": "GDPR compliant", "sub": "DPA before any commitment" },
+      { "label": "Your first 90 days", "sub": "Not a 2-year project" },
+      { "label": "No lock-in", "sub": "Full data export always" }
+    ]
+  },
+  "promise": {
+    "label": "The Sapiion Promise",
+    "h2": "How we work with every institution.",
+    "items": [
+      "We demonstrate real software — no slides, no mock-ups.",
+      "We tailor every conversation to your institution and your programme.",
+      "We give honest advice, even if Sapiion is not the right fit.",
+      "Your data remains yours — always.",
+      "We measure our success by your educational outcomes."
+    ]
+  },
+  "faq": {
+    "h2": "Frequently asked questions",
+    "stillQuestion": "Still have a question?",
+    "items": [
+      {
+        "q": "Who is Sapiion for?",
+        "a": "Sapiion is designed for higher and professional education institutions — including colleges, universities of applied sciences, polytechnics, and training organisations — that want to connect curriculum, teaching, assessment and institutional quality improvement into one continuous cycle."
+      },
+      {
+        "q": "How long does implementation take?",
+        "a": "Most institutions begin using Sapiion for teaching and assessment within the first month. Programme-level insights become increasingly valuable as more educational activity is captured over the first 90 days. Your programme does not stop while you get started — it improves while you do."
+      },
+      {
+        "q": "How long before we see value?",
+        "a": "Most institutions see value within the first month as teachers begin working with connected rubrics and attendance. Programme-level insights grow richer over the first 90 days as more educational activity is captured."
+      },
+      {
+        "q": "Do teachers need extensive training?",
+        "a": "No. We provide structured onboarding and role-based training. Most teachers can begin working with Sapiion after a short introduction because the platform follows familiar educational workflows."
+      },
+      {
+        "q": "What does it cost?",
+        "a": "Pricing depends on institution size and implementation scope. We will provide a clear proposal after understanding your requirements — during or after the demo."
+      },
+      {
+        "q": "Is our data safe and GDPR-compliant?",
+        "a": "Yes. Sapiion is hosted in the EU. Each institution's data is completely isolated. We provide a full Data Processing Agreement before any contract is signed."
+      },
+      {
+        "q": "Do you integrate with Canvas / Brightspace / Osiris?",
+        "a": "Every institution has a different application landscape. During the demo we will discuss your existing systems and explain which integrations are available today and which are on our roadmap."
+      },
+      {
+        "q": "Can we import data from our existing systems?",
+        "a": "Yes. Sapiion supports data import for student records, curriculum structures and class information. During onboarding we work with you to migrate existing data so you are not starting from scratch. For institutions moving from an LMS or student administration system, we discuss your specific setup during the demo."
+      },
+      {
+        "q": "Can we export our data if we leave?",
+        "a": "Yes. Full data export is always available. No lock-in."
+      }
+    ]
+  }
+}

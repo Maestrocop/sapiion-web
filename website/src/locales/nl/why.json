@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "h1a": "Scholen hebben geen extra software nodig.",
+    "h1b": "Ze hebben minder,",
+    "h1c": "beter verbonden",
+    "h1d": "systemen nodig.",
+    "sub": "Sapiion is niet gebouwd om nog meer functies aan de stapel toe te voegen. Het is gebouwd om de stapel te vervangen."
+  },
+  "pattern": {
+    "label": "Het patroon",
+    "h2": "Scholen investeren fors in verbetering. Toch komen de resultaten zelden overeen met de ambitie.",
+    "body": "Niet omdat docenten niet betrokken zijn. Maar omdat de tools waarmee ze werken de verandering niet kunnen vasthouden. Hetzelfde patroon herhaalt zich jaar na jaar.",
+    "steps": [
+      "Er wordt een probleem gesignaleerd — studentsresultaten, dekking van leeruitkomsten, accreditatiegereedheid.",
+      "Externe consultants worden ingeschakeld. Trainingen worden gegeven. De ideeën zijn uitstekend.",
+      "Docenten zijn enthousiast. Er worden nieuwe actieplannen en afspraken gemaakt.",
+      "Iedereen keert terug naar de dagelijkse werkzaamheden. Lesgeven, beoordelen, administreren.",
+      "Er is geen systeem om de nieuwe werkwijze te borgen. Geleidelijk vervallen de gewoonten.",
+      "Twee jaar later worden dezelfde problemen besproken in dezelfde vergaderingen."
+    ],
+    "quoteA": "\"Onderwijskwaliteit verbetert niet door goede ideeën alleen.",
+    "quoteB": "Het verbetert wanneer goede ideeën onderdeel worden van de dagelijkse praktijk.\"",
+    "quoteSub": "Zonder een verbonden platform is continue verbetering afhankelijk van individuele inspanning. Met een verbonden platform wordt continue verbetering onderdeel van de werkwijze van de instelling."
+  },
+  "realGap": {
+    "label": "Het echte probleem",
+    "h2": "Het probleem is niet de ambitie. De meeste instellingen hebben al de juiste intenties.",
+    "body": "De kloof zit tussen onderwijsambitie en de dagelijkse praktijk. Scholen hebben een visie, investeren en beschikken over betrokken mensen — maar missen een platform dat die intenties omzet in dagelijks werk.",
+    "haveLabel": "Wat instellingen al hebben",
+    "haveItems": [
+      "Een visie op onderwijskwaliteit",
+      "Professionele ontwikkelingsprogramma's",
+      "Verbeterplannen en kwaliteitskaders",
+      "Betrokken en gemotiveerde docenten"
+    ],
+    "missingLabel": "Wat ontbreekt",
+    "missingItems": [
+      {
+        "label": "Een verbonden platform dat ambitie omzet in dagelijkse praktijk",
+        "body": "Zonder een systeem dat nieuwe werkwijzen inbedt in het dagelijkse onderwijs, verflauwt de verbetering — en duiken dezelfde problemen twee jaar later weer op."
+      },
+      {
+        "label": "Verbonden data van curriculum tot kwaliteitsborging",
+        "body": "Wanneer data verspreid is over afzonderlijke systemen, heeft niemand het volledige beeld. Signalen worden gemist, beslissingen zijn reactief en bewijs moet van scratch worden samengesteld."
+      }
+    ],
+    "conclusion": "Sapiion bestaat om onderwijsambitie om te zetten in dagelijkse praktijk."
+  },
+  "whatSapiionIs": {
+    "label": "Wat Sapiion echt is",
+    "h2": "Sapiion is een Educational Intelligence Platform — en de implementatielaag voor onderwijsverbetering.",
+    "body1": "Scholen kunnen verbeteren zonder Sapiion — maar consistent, op schaal en over tijd verbeteren is veel moeilijker. Sapiion vervangt het oordeel van docenten niet. Het geeft dat oordeel een systeem om in te werken.",
+    "body2": "Het verbindt de mensen, processen en informatie die van oudsher in afzonderlijke systemen leefden — tot één doorlopende werkstroom waarbij verbetering geen jaarlijks project meer is. Het wordt onderdeel van het dagelijkse lesgeven.",
+    "items": [
+      "Curriculumintentie",
+      "Lesplanning",
+      "Toetsing & beoordeling",
+      "Leeruitkomsten",
+      "Voortgang studenten",
+      "Programmamonitoring",
+      "Signalen coördinator",
+      "Kwaliteitsborging"
+    ],
+    "connectedBy": "◆ Alles verbonden door Sapiion — in één doorlopende verbeteringscyclus."
+  },
+  "whereFits": {
+    "label": "Waar Sapiion past",
+    "h2": "Één platform. Zes verbonden lagen.",
+    "body": "Sapiion is de intelligentielaag die elke fase van het onderwijsproces verbindt — vanaf het moment dat het curriculum wordt ontworpen tot het moment dat een kwaliteitsreview wordt uitgevoerd."
+  },
+  "comparison": {
+    "h2": "Wat de meeste instellingen vandaag hebben — en wat Sapiion biedt.",
+    "todayCol": "Vandaag",
+    "sapiionCol": "Met Sapiion",
+    "rows": [
+      ["Curriculum in Word en Excel", "Curriculum in een live, verbonden systeem"],
+      ["Onderwijs in één tool", "Onderwijs verbonden met het curriculum"],
+      ["Beoordeling in een andere tool", "Beoordeling verbonden met uitkomsten en rubrieken"],
+      ["Aanwezigheid apart bijgehouden", "Aanwezigheid verbonden met risicosignalen"],
+      ["Coördinator werkt zonder signalen", "Coördinator met volledig programmainzicht"],
+      ["Student ontvangt cijfers", "Student begrijpt eigen voortgang"],
+      ["Jaarlijkse kwaliteitsreview", "Continue programma-intelligentie"]
+    ]
+  },
+  "vsLms": {
+    "h2": "Sapiion is geen Learning Management System (LMS).",
+    "body": "Traditionele LMS-platforms zoals Canvas, Moodle en Brightspace richten zich hoofdzakelijk op contentlevering en cursusadministratie. Dat doen ze goed. Maar ze zijn niet ontworpen om curriculumintentie, onderwijspraktijk, toetsbewijs en institutionele kwaliteit te verbinden in één doorlopende verbeteringscyclus. Dat is een ander vraagstuk — en dat is wat Sapiion oplost.",
+    "lmsLabel": "Traditioneel LMS vraagt",
+    "lmsQ": "\"Heeft de student ingeleverd?\"",
+    "sapiionLabel": "Sapiion vraagt",
+    "sapiionQ": "\"Heeft de student de beoogde competentie ontwikkeld — en hoe weten we dat?\"",
+    "footer": "Die vraag verandert alles in hoe een platform wordt gebouwd. Een LMS doet <strong>Inhoud → Opdracht → Cijfer</strong>. Sapiion doet <strong>Curriculumintentie → Onderwijsontwerp → Toetsbewijs → Beheersing → Verbetering</strong>."
+  },
+  "vsSis": {
+    "h2": "Sapiion is geen studenten-informatiesysteem.",
+    "body1": "Osiris, Educator en vergelijkbare SIS-platforms beheren studentendossiers — inschrijvingen, studiepunten, diploma's. Ze leggen vast wat er is gebeurd. Sapiion helpt verbeteren wat er gebeurt.",
+    "body2": "Een SIS legt het verleden vast. Sapiion helpt de toekomst te verbeteren.",
+    "body3": "Een SIS vertelt u dat een student gezakt is. Sapiion signaleert risico vroeg en geeft docenten en programmamanagers het inzicht om in te grijpen voordat het te laat is."
+  },
+  "ai": {
+    "h2": "AI gebouwd op onderwijscontext — niet op generieke inhoud.",
+    "body1": "Kunstmatige intelligentie wordt onderdeel van het onderwijs. De vraag is niet of AI gebruikt zal worden, maar hoe het verantwoord wordt ingezet.",
+    "mostAiLabel": "De meeste AI-tools",
+    "mostAiQ": "\"Starten zonder kennis van uw specifieke onderwijscontext.\"",
+    "sapiionLabel": "Sapiion",
+    "sapiionQ": "\"Past AI toe binnen uw curriculum, uw uitkomsten, uw toetscriteria en de voortgang van uw studenten.\"",
+    "body2": "Omdat Sapiion uw onderwijsstructuur al begrijpt, kan AI zinvolle beslissingen ondersteunen — in plaats van losse inhoud te genereren.",
+    "teachersLabel": "Voor docenten",
+    "teacherItems": [
+      "Maak sneller uitkomstgerichte toetsen",
+      "Verkrijg inzicht in leervoortgang",
+      "Verminder repetitief administratief werk"
+    ],
+    "studentsLabel": "Voor studenten",
+    "studentItems": [
+      "Verken onderwerpen dieper",
+      "Reflecteer op hun ontwikkeling",
+      "Ontvang begeleiding die het leren ondersteunt in plaats van het denken vervangt"
+    ],
+    "principle": "Sapiion gebruikt AI niet om docenten te vervangen. <strong>Het gebruikt AI om de intelligentie die al aanwezig is in het onderwijs te versterken.</strong>"
+  },
+  "accreditation": {
+    "h2": "Altijd gereed voor kwaliteitsreviews.",
+    "body": "Of het nu een accreditatiebezoek, een inspectie of een interne audit betreft — de stress is altijd dezelfde: bewijs is verspreid over systemen die nooit zijn ontworpen om samen te werken. Met Sapiion wordt dat bewijs continu verzameld, niet in paniek samengesteld.",
+    "points": [
+      "Elke leeruitkomst gekoppeld aan curriculumintentie",
+      "Elke toets gekoppeld aan rubriekcriteria",
+      "Elke rubriekscore gekoppeld aan uitkomsten",
+      "De voortgang van elke student bijgehouden ten opzichte van de programma-eisen",
+      "De gezondheid van elk programma zichtbaar in realtime"
+    ],
+    "footer": "Als de review komt, presenteert u bewijs — u verzamelt het niet."
+  },
+  "implementation": {
+    "h2": "Uw eerste 90 dagen met Sapiion — geen implementatieproject van 2 jaar.",
+    "body": "Uw programma stopt niet terwijl u Sapiion implementeert. Het verbetert terwijl u dat doet.",
+    "steps": [
+      { "period": "Week 1–2", "text": "Instelling inrichten, gebruikersaccounts, basisstructuur curriculum" },
+      { "period": "Week 3–4", "text": "Docenten onboarden, eerste klassen aangemaakt" },
+      { "period": "Maand 2",  "text": "Eerste toetsingen en beoordelingsworkflows actief" },
+      { "period": "Maand 3",  "text": "Coördinatordashboards actief, studentvoortgang zichtbaar" },
+      { "period": "Maand 6",  "text": "Volledige doorlopende verbeteringscyclus operationeel" }
+    ]
+  },
+  "gdpr": {
+    "h2": "Uw data is van uw instelling. Punt.",
+    "sub": "Alles wat hier staat is vandaag al beschikbaar.",
+    "items": [
+      { "title": "Gehost in de EU", "body": "Uw data blijft in Europa. Altijd." },
+      { "title": "Volledige data-isolatie", "body": "De data van elke instelling is volledig gescheiden — geen vermenging." },
+      { "title": "AVG — VOK gereed", "body": "Verwerkersovereenkomst beschikbaar voordat enig contract wordt ondertekend." },
+      { "title": "Geen vendor lock-in", "body": "Volledige data-export op elk gewenst moment. Uw data is van u." },
+      { "title": "Rolgebaseerde toegangscontrole", "body": "Beheerders, coördinatoren, docenten en studenten zien alleen wat zij nodig hebben." },
+      { "title": "Auditlogboek", "body": "Alle kritieke acties worden geregistreerd — wie wat heeft gedaan en wanneer." }
+    ],
+    "roadmapTitle": "Enterprise-integraties (roadmap)",
+    "roadmapSub": "We bouwen actief aan de integraties die instellingen verwachten voor enterprise-inzet.",
+    "roadmapItems": [
+      "Microsoft Entra ID — Single Sign-On (SSO)",
+      "Microsoft 365-integratie",
+      "Aanvullende identiteitsproviders"
+    ]
+  },
+  "cta": {
+    "h2": "Klaar om te zien hoe verbonden onderwijs eruitziet?",
+    "btn": "Demo aanvragen →"
+  }
+}

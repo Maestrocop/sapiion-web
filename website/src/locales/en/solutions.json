@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "h1a": "The right tools for every",
+    "h1b": "role in the institution.",
+    "sub": "Sapiion connects everyone in the institution, while giving each role the insights and workflows they need."
+  },
+  "theirReality": "Their reality",
+  "whatSapiionProvides": "What Sapiion provides",
+  "theResult": "The result",
+  "cta": {
+    "h2": "Which role describes you?",
+    "body": "Tell us who will be in the room and we will structure the demo around what matters to you.",
+    "btn": "Request a demo →"
+  },
+  "audiences": [
+    {
+      "id": "programme-manager",
+      "role": "Programme Manager",
+      "tag": "Decision Maker",
+      "persona": "Sandra — Programme Manager, Business Administration, 800 students, 24 teachers",
+      "reality": "Sandra is responsible for educational quality, but the information she needs is fragmented. Student risks appear too late, accreditation evidence requires months of preparation, and she cannot always see whether learning outcomes are assessed consistently across the programme.",
+      "headline": "Know whether your programme is delivering what it promises — before accreditation, not during it.",
+      "features": [
+        { "title": "Programme health overview", "body": "One view of the entire programme: curriculum alignment, outcome coverage, student risk, grade distribution and attendance trends." },
+        { "title": "Continuous accreditation readiness", "body": "Every learning outcome linked. Every assessment traceable. Every decision supported by evidence." },
+        { "title": "Early warning system", "body": "Coordinators identify at-risk students earlier — giving the institution time to intervene before problems become failures." },
+        { "title": "Curriculum consistency", "body": "Teachers work from shared rubrics and learning outcomes. Programme quality no longer depends on individual interpretation." },
+        { "title": "Programme performance insights", "body": "Compare modules, cohorts and learning outcomes. Identify improvement opportunities before they become quality issues." }
+      ],
+      "result": "When accreditation comes, preparation takes days — not months. Student support becomes proactive instead of reactive. Quality improvement becomes institutional."
+    },
+    {
+      "id": "coordinator",
+      "role": "Coordinator & Advisor",
+      "tag": "",
+      "persona": "Fatima — SLB Advisor, 45 advisees across two cohorts",
+      "reality": "Student support is often reactive. By the time warning signs become visible, valuable time has already been lost. Grades, attendance and progression data are spread across multiple systems, making it difficult to build a complete picture of each student.",
+      "headline": "Intervene before students fail. Not after.",
+      "features": [
+        { "title": "Complete student profile", "body": "Attendance, assessments, learning outcome progress, interventions and risk signals in one place. No hunting across systems." },
+        { "title": "Risk signals", "body": "Prioritised risk signals help identify which students require attention now, before small issues become major problems." },
+        { "title": "Progression review workflow", "body": "A structured workflow with evidence automatically collected throughout the semester, making progression decisions transparent and defensible." },
+        { "title": "Intervention tracking", "body": "Record interventions, assign follow-up actions, schedule review moments and monitor whether support is making a difference." }
+      ],
+      "result": "Every student conversation starts with insight instead of administration. Progression review becomes a review process — not a collection exercise."
+    },
+    {
+      "id": "teacher",
+      "role": "Teacher",
+      "tag": "",
+      "persona": "Martijn — Lecturer, HRM, 3 active classes, 78 students",
+      "reality": "Martijn spends hours each week on administration instead of teaching. Rubrics are recreated for every course, and it is difficult to identify struggling students before problems become visible.",
+      "headline": "Less administration. More teaching. Better insight into every student.",
+      "features": [
+        { "title": "One connected workspace", "body": "Curriculum, lesson planning, attendance, assessment and student progress in one connected workspace." },
+        { "title": "Connected Rubrics", "body": "Create rubrics once, connect them to learning outcomes, and reuse them across modules and assessments." },
+        { "title": "Integrated Attendance", "body": "Register attendance directly from the class view — connected to the student risk signals coordinators rely on." },
+        { "title": "Connected grading", "body": "Assessment results are automatically linked to rubric criteria and learning outcomes, creating evidence of student competency rather than isolated grades." },
+        { "title": "Automatic outcome evidence", "body": "As teachers grade using rubrics, outcome coverage is recorded automatically. No separate tracking, no reporting overhead. The accreditation evidence builds itself." }
+      ],
+      "result": "Martijn has more time to teach and better insight into the students who need support. The connections to curriculum, outcomes and quality happen automatically — because he simply teaches inside one connected platform."
+    },
+    {
+      "id": "curriculum-designer",
+      "role": "Curriculum Designer",
+      "tag": "",
+      "persona": "Lena — Curriculum Designer, central educational development team",
+      "reality": "Lena's biggest frustration is that curriculum design becomes disconnected from daily teaching. Programme documents are created, approved and stored — but she cannot see whether the intended learning outcomes are actually being delivered and assessed.",
+      "headline": "Design curriculum that stays connected — from intent to evidence.",
+      "features": [
+        { "title": "Curriculum Composer", "body": "Design programmes in a live, connected system — not static documents." },
+        { "title": "Outcome mapping", "body": "Connect modules, assignments and assessments to learning outcomes. Detect gaps before they affect programme quality." },
+        { "title": "Shared rubric library", "body": "Rubrics designed by curriculum experts flow directly into teaching and assessment. No duplication. No reinvention." },
+        { "title": "Curriculum effectiveness view", "body": "See whether your design actually produced the intended outcomes in practice." }
+      ],
+      "result": "Lena's curriculum design becomes a living asset. She improves programmes based on evidence — not assumptions."
+    },
+    {
+      "id": "student",
+      "role": "Student",
+      "tag": "",
+      "persona": "Amir — Year 2 Business Administration student",
+      "reality": "Amir attends most lectures but loses track of deadlines. He receives grades but does not always understand what they mean. He is somewhere in the middle — not failing, not flourishing — and often receives attention only when problems become visible.",
+      "headline": "Know exactly where you stand. Before it becomes a problem.",
+      "features": [
+        { "title": "One dashboard", "body": "All assignments, deadlines, grades and progress indicators in one place." },
+        { "title": "Outcome progress", "body": "See which competencies are developing — not just scores." },
+        { "title": "Rubric criteria before submission", "body": "He knows what \"good\" looks like before he submits, not after." },
+        { "title": "Early awareness", "body": "If something starts to go wrong, Amir sees it early — and knows what action to take." }
+      ],
+      "result": "Amir stops flying blind. He knows what to do, what is due and how he is progressing."
+    },
+    {
+      "id": "ict-manager",
+      "role": "ICT Manager",
+      "tag": "Technical Owner",
+      "persona": "Peter — Manager ICT & Digital Infrastructure",
+      "reality": "Peter has seen too many software projects that were launched with enthusiasm and abandoned within a year. He is not against innovation. He is responsible for making sure every new platform is secure, maintainable and valuable in the long term.",
+      "headline": "One connected platform that reduces complexity — not another system to manage.",
+      "features": [
+        { "title": "One connected platform", "body": "One platform that connects curriculum, teaching and assessment while working alongside existing institutional systems. Reduce fragmentation without forcing a complete replacement of your IT landscape." },
+        { "title": "Open integration", "body": "Sapiion connects with existing institutional systems through secure APIs and standard data exchange formats — SIS, Microsoft 365, and identity providers. Designed to fit into your existing architecture, not create another isolated island." },
+        { "title": "EU hosted + GDPR", "body": "Data stored in the EU. DPA and security documentation available before implementation starts." },
+        { "title": "Full data isolation", "body": "Each institution operates in its own secure data environment. Institutional data is never mixed." },
+        { "title": "No lock-in", "body": "Full data export at any time. Always." },
+        { "title": "Controlled implementation", "body": "Start with one programme, validate adoption and workflows, then scale gradually across the institution." }
+      ],
+      "result": "Peter can sign the DPA with confidence. Implementation risk is controlled. Adoption is supported because every role gets clear value from day one."
+    }
+  ]
+}

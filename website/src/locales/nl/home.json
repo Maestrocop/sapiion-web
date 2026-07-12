@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "badge": "Voor instellingen voor beroepsonderwijs",
+    "h1a": "Één platform voor modern",
+    "h1b": "beroepsonderwijs.",
+    "sub1": "Plannen. Lesgeven. Toetsen. Verbeteren. Alles verbonden.",
+    "sub2": "Sapiion verbindt curriculumontwikkeling, onderwijs, toetsing en studentensucces in één doorlopende verbeteringscyclus — zodat onderwijskwaliteit een institutionele kracht wordt, geen individuele inspanning.",
+    "ctaPrimary": "Demo aanvragen →",
+    "ctaSecondary": "Waarom Sapiion? Zie wat het anders maakt →"
+  },
+  "problem": {
+    "h2": "Onderwijs draait op losse systemen. Dat heeft een prijs.",
+    "body": "De meeste instellingen gebruiken vijf of zes afzonderlijke systemen — curriculum op de ene plek, onderwijs op een andere, cijfers ergens anders, aanwezigheid in een derde tool. Geen van deze systemen communiceert met de andere.",
+    "points": [
+      "Coördinatoren ontdekken dat studenten risico lopen pas nadat de cijfers al gezakt zijn",
+      "Docenten beoordelen opdrachten los van de leeruitkomsten van het curriculum",
+      "Studenten ontvangen cijfers maar krijgen geen inzicht in hun eigen voortgang",
+      "Accreditatievoorbereiding kost maanden in plaats van dagen"
+    ],
+    "footer": "Dit is geen technologisch probleem. Het is een verbindingsprobleem."
+  },
+  "solution": {
+    "label": "Het platform",
+    "h2a": "Sapiion verbindt wat nooit",
+    "h2b": "gescheiden had mogen zijn.",
+    "body": "Een Educational Intelligence Platform gebouwd voor instellingen voor beroepsonderwijs. Alles wat ertoe doet — op één plek.",
+    "pillars": [
+      {
+        "icon": "◎",
+        "title": "Curriculumontwikkeling",
+        "body": "Ontwerp programma's die leven — niet vastgelegd in Word-documenten. Koppel leeruitkomsten aan modules en rubriekcriteria. Zorg dat wat je ontwerpt ook daadwerkelijk wordt onderwezen."
+      },
+      {
+        "icon": "◈",
+        "title": "Lesuitvoering",
+        "body": "Plan lessen, registreer aanwezigheid en beheer klassen vanuit dezelfde omgeving waar het curriculum zich bevindt. Minder administratie. Meer tijd voor lesgeven."
+      },
+      {
+        "icon": "◇",
+        "title": "Toetsing & Beoordeling",
+        "body": "Beoordeel werk met rubriekcriteria die direct gekoppeld zijn aan leeruitkomsten. Elke score wordt bewijs van competentieontwikkeling — niet alleen een cijfer."
+      },
+      {
+        "icon": "◉",
+        "title": "Studentensucces",
+        "body": "Zie welke studenten aandacht nodig hebben voordat het te laat is. Coördinatoren krijgen realtime programma-inzicht. Studenten zien precies waar ze staan."
+      }
+    ]
+  },
+  "forWhom": {
+    "label": "Ontworpen voor elke rol",
+    "h2": "Gebouwd voor iedereen in de instelling.",
+    "seeMore": "Bekijk wat Sapiion doet voor elke rol →",
+    "audiences": [
+      {
+        "role": "Programmamanager",
+        "text": "Realtime programmastatus. Accreditatiebewijs continu verzameld. Weet of uw programma levert wat het belooft."
+      },
+      {
+        "role": "Coördinator",
+        "text": "Vroegtijdige risicosignalen voordat studenten zakken. Een compleet beeld van elke student — aanwezigheid, cijfers, uitkomsten, doorstroom."
+      },
+      {
+        "role": "Docent",
+        "text": "Uw curriculum, uw lessen, uw cijfers en uw studenten — op één plek. Rubrieken al ingebouwd. Studenten die u echt kent."
+      },
+      {
+        "role": "Student",
+        "text": "Weet wat er ingeleverd moet worden, waar u staat en wat u moet verbeteren — voordat het een probleem wordt."
+      }
+    ]
+  },
+  "ai": {
+    "label": "AI-ondersteunde intelligentie",
+    "h2a": "AI die begint met uw programma —",
+    "h2b": "niet met een leeg vel.",
+    "body": "De meeste AI-tools genereren antwoorden op basis van algemene kennis. Sapiion AI begint met onderwijscontext — uw curriculum, uw leeruitkomsten, de voortgang van uw studenten. Dat verandert wat AI daadwerkelijk kan doen.",
+    "contextItems": [
+      "Uw curriculum",
+      "Uw leeruitkomsten",
+      "Uw toetscriteria",
+      "De voortgang van uw studenten"
+    ],
+    "todayLabel": "Al beschikbaar",
+    "todayTitle": "Uitkomstgerichte toetsgeneratie",
+    "todayBody": "Docenten selecteren leeruitkomsten. Sapiion genereert toetsvragen die zijn afgestemd op die uitkomsten — elke vraag teruggekoppeld aan een specifieke competentie. Geen generieke inhoud. Toetsen gekoppeld aan wat studenten daadwerkelijk moeten leren."
+  },
+  "notLms": {
+    "h2": "Dit is geen Learning Management System (LMS).",
+    "body": "Traditionele LMS-platforms richten zich op contentlevering en cursusadministratie. Sapiion verbindt curriculum, onderwijs, toetsing en institutionele kwaliteit in één doorlopende verbeteringscyclus. Dat is een ander vraagstuk — en een ander soort platform.",
+    "lmsLabel": "Traditioneel LMS",
+    "lmsFlow": "Inhoud → Opdracht → Cijfer",
+    "sapiionLabel": "Sapiion",
+    "sapiionFlow": "Intentie → Ontwerp → Bewijs → Beheersing → Verbetering",
+    "readMore": "Lees de volledige vergelijking →"
+  },
+  "trust": {
+    "items": [
+      { "label": "Gehost in de EU", "sub": "Uw data blijft in Europa" },
+      { "label": "AVG-conform", "sub": "Verwerkersovereenkomst beschikbaar vóór contract" },
+      { "label": "Uw eerste 90 dagen", "sub": "Geen implementatieproject van 2 jaar" },
+      { "label": "Per instelling", "sub": "Niet per gebruiker" }
+    ]
+  },
+  "cta": {
+    "h2": "Bekijk Sapiion met uw eigen programma.",
+    "body": "Een demo duurt 45 minuten. We zetten een realistisch voorbeeld op met de structuur van uw programma, uw uitkomsten, uw context. Geen slides. Een echte demonstratie.",
+    "btn": "Demo aanvragen →",
+    "emailLabel": "Of stuur ons een e-mail op"
+  }
+}

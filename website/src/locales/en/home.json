@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "badge": "For professional education institutions",
+    "h1a": "One platform for modern",
+    "h1b": "professional education.",
+    "sub1": "Plan. Teach. Assess. Improve. Everything connected.",
+    "sub2": "Sapiion connects curriculum design, teaching, assessment and student success into one continuous improvement cycle — so educational quality becomes an institutional strength, not an individual effort.",
+    "ctaPrimary": "Request a demo →",
+    "ctaSecondary": "Why Sapiion? See how it's different →"
+  },
+  "problem": {
+    "h2": "Education runs on disconnected tools. That has a cost.",
+    "body": "Most institutions use five or six separate systems — curriculum in one place, teaching in another, grades somewhere else, attendance in a third tool. None of them talk to each other.",
+    "points": [
+      "Coordinators discover students are at risk only after grades have already failed",
+      "Teachers grade assignments disconnected from curriculum outcomes",
+      "Students receive marks but no insight into their own progress",
+      "Accreditation preparation takes months instead of days"
+    ],
+    "footer": "This is not a technology problem. It is a connection problem."
+  },
+  "solution": {
+    "label": "The platform",
+    "h2a": "Sapiion connects what should",
+    "h2b": "never have been separated.",
+    "body": "An Educational Intelligence Platform built for professional education institutions. Everything that matters — in one place.",
+    "pillars": [
+      {
+        "icon": "◎",
+        "title": "Curriculum Design",
+        "body": "Design programmes that are alive — not locked in Word documents. Map learning outcomes to modules and rubric criteria. Ensure what you design is what gets taught."
+      },
+      {
+        "icon": "◈",
+        "title": "Teaching Delivery",
+        "body": "Plan lessons, track attendance and manage classes from the same environment where the curriculum lives. Less administration. More time teaching."
+      },
+      {
+        "icon": "◇",
+        "title": "Assessment & Grading",
+        "body": "Grade work using rubric criteria connected directly to learning outcomes. Every score becomes evidence of competency development — not just a number."
+      },
+      {
+        "icon": "◉",
+        "title": "Student Success",
+        "body": "See which students need attention before it is too late. Coordinators get real-time programme intelligence. Students see exactly where they stand."
+      }
+    ]
+  },
+  "forWhom": {
+    "label": "Designed for every role",
+    "h2": "Built for everyone in the institution.",
+    "seeMore": "See what Sapiion does for each role →",
+    "audiences": [
+      {
+        "role": "Programme Manager",
+        "text": "Real-time programme health. Accreditation evidence collected continuously. Know whether your programme delivers what it promises."
+      },
+      {
+        "role": "Coordinator",
+        "text": "Early risk signals before students fail. A complete picture of every student — attendance, grades, outcomes, progression."
+      },
+      {
+        "role": "Teacher",
+        "text": "Your curriculum, your lessons, your grades and your students — in one place. Rubrics already built. Students you actually know."
+      },
+      {
+        "role": "Student",
+        "text": "Know what is due, where you stand and what you need to improve — before it becomes a problem."
+      }
+    ]
+  },
+  "ai": {
+    "label": "AI-assisted intelligence",
+    "h2a": "AI that starts with your programme —",
+    "h2b": "not a blank page.",
+    "body": "Most AI tools generate answers from general knowledge. Sapiion AI starts with educational context — your curriculum, your learning outcomes, your students' progress. That changes what AI can actually do.",
+    "contextItems": [
+      "Your curriculum",
+      "Your learning outcomes",
+      "Your assessment criteria",
+      "Your students' progress"
+    ],
+    "todayLabel": "Available today",
+    "todayTitle": "Outcome-based assessment generation",
+    "todayBody": "Teachers select learning outcomes. Sapiion generates assessment questions aligned to those outcomes — each mapped back to a specific competency. Not generic content. Assessments connected to what students are actually expected to learn."
+  },
+  "notLms": {
+    "h2": "This is not a Learning Management System (LMS).",
+    "body": "Traditional LMS platforms focus on content delivery and course administration. Sapiion connects curriculum, teaching, assessment and institutional quality into one continuous improvement cycle. That is a different problem — and a different kind of platform.",
+    "lmsLabel": "Traditional LMS",
+    "lmsFlow": "Content → Assignment → Grade",
+    "sapiionLabel": "Sapiion",
+    "sapiionFlow": "Intent → Design → Evidence → Mastery → Improvement",
+    "readMore": "Read the full comparison →"
+  },
+  "trust": {
+    "items": [
+      { "label": "EU hosted", "sub": "Your data stays in Europe" },
+      { "label": "GDPR compliant", "sub": "DPA available before contract" },
+      { "label": "Your first 90 days", "sub": "Not a 2-year project" },
+      { "label": "Per institution", "sub": "Not per user" }
+    ]
+  },
+  "cta": {
+    "h2": "See Sapiion working with your own programme.",
+    "body": "A demo takes 45 minutes. We set up a realistic example using your programme structure, your outcomes, your context. No slides. A real walkthrough.",
+    "btn": "Request a demo →",
+    "emailLabel": "Or email us at"
+  }
+}

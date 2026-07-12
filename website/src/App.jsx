@@ -1,6 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
+import ScrollToTop from './components/ScrollToTop';
 import HomePage from './pages/HomePage';
 import WhySapiionPage from './pages/WhySapiionPage';
 import SolutionsPage from './pages/SolutionsPage';
@@ -10,6 +11,7 @@ import ContactPage from './pages/ContactPage';
 export default function App() {
   return (
     <div className="min-h-screen flex flex-col bg-white">
+      <ScrollToTop />
       <Nav />
       <main className="flex-1">
         <Routes>
