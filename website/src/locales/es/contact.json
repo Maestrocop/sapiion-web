@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "h1a": "Vea su programa en Sapiion —",
+    "h1b": "no una demo genérica.",
+    "body": "Cada institución es diferente. Por eso no damos demostraciones de productos genéricas. Pedimos la estructura de su programa con antelación y la introducimos en Sapiion — para que vea su propio currículo en pantalla, no un ejemplo ficticio.",
+    "stat1": "45 minutos.",
+    "stat2": "Sin diapositivas.",
+    "stat3": "Solo la plataforma."
+  },
+  "expect": {
+    "steps": [
+      {
+        "step": "Antes",
+        "text": "Pedimos la estructura de su programa — un módulo, algunos resultados de aprendizaje, una clase. Lo introducimos en Sapiion antes de la reunión, para que la demo funcione con su currículo, no con el nuestro."
+      },
+      {
+        "step": "Durante",
+        "text": "Recorremos un flujo completo — del currículo a la enseñanza, a la evaluación, al panel del estudiante, a la vista del programa. Software real, su contexto."
+      },
+      {
+        "step": "Después",
+        "text": "Respondemos a sus preguntas con honestidad. Si Sapiion no es la solución adecuada, se lo decimos. Si lo es, discutimos cómo sería un piloto."
+      }
+    ]
+  },
+  "form": {
+    "title": "Reservar una demo",
+    "nameLabel": "Su nombre *",
+    "roleLabel": "Su rol *",
+    "rolePlaceholder": "Seleccionar…",
+    "institutionLabel": "Nombre de la institución *",
+    "emailLabel": "Dirección de correo electrónico *",
+    "phoneLabel": "Teléfono (opcional)",
+    "sizeLabel": "¿Cuántos estudiantes hay en su programa?",
+    "sizePlaceholder": "Seleccionar…",
+    "challengeLabel": "¿Cuál es su principal desafío?",
+    "challengeOptional": "(opcional)",
+    "challengePlaceholder": "p.ej. queremos reducir el abandono estudiantil / tenemos una acreditación próxima…",
+    "sourceLabel": "¿Cómo conoció Sapiion?",
+    "sourcePlaceholder": "Seleccionar…",
+    "submitBtn": "Reservar una demo →",
+    "submitting": "Enviando…",
+    "errorMsg": "Algo salió mal. Por favor, inténtelo de nuevo o envíenos un correo a hello@sapiion.ai",
+    "disclaimer": "Sin compromiso. Sin presión de ventas. Solo una conversación sobre sus desafíos educativos.",
+    "successTitle": "Gracias, nos pondremos en contacto.",
+    "successBody": "Respondemos en un día hábil.",
+    "roles": [
+      "Director de Programa",
+      "Director Educativo / Decano",
+      "Diseñador Curricular",
+      "Coordinador / Asesor",
+      "Gerente de TIC / CIO",
+      "Profesor",
+      "Otro"
+    ],
+    "sizes": [
+      "Menos de 100 estudiantes",
+      "100 – 500 estudiantes",
+      "500 – 2.000 estudiantes",
+      "Más de 2.000 estudiantes"
+    ],
+    "sources": ["LinkedIn", "Boca a boca", "Google", "Conferencia / Evento", "Otro"]
+  },
+  "trust": {
+    "items": [
+      { "label": "Alojado en la UE", "sub": "Los datos permanecen en Europa" },
+      { "label": "Cumplimiento GDPR", "sub": "DPA antes de cualquier compromiso" },
+      { "label": "Sus primeros 90 días", "sub": "No es un proyecto de 2 años" },
+      { "label": "Sin bloqueo", "sub": "Exportación completa de datos siempre" }
+    ]
+  },
+  "promise": {
+    "label": "La Promesa de Sapiion",
+    "h2": "Cómo trabajamos con cada institución.",
+    "items": [
+      "Demostramos software real — sin diapositivas, sin maquetas.",
+      "Adaptamos cada conversación a su institución y su programa.",
+      "Damos consejos honestos, incluso si Sapiion no es la solución adecuada.",
+      "Sus datos siempre son suyos.",
+      "Medimos nuestro éxito por sus resultados educativos."
+    ]
+  },
+  "faq": {
+    "h2": "Preguntas frecuentes",
+    "stillQuestion": "¿Todavía tiene alguna pregunta?",
+    "items": [
+      {
+        "q": "¿Para quién es Sapiion?",
+        "a": "Sapiion está diseñado para instituciones de educación superior y profesional — incluyendo universidades, escuelas de negocios, politécnicas y organizaciones de formación — que quieran conectar el currículo, la enseñanza, la evaluación y la mejora de la calidad institucional en un ciclo continuo."
+      },
+      {
+        "q": "¿Cuánto tiempo lleva la implementación?",
+        "a": "La mayoría de las instituciones comienzan a usar Sapiion para la enseñanza y la evaluación en el primer mes. Los conocimientos a nivel de programa se vuelven cada vez más valiosos a medida que se captura más actividad educativa durante los primeros 90 días. Su programa no se detiene mientras comienza — mejora mientras lo hace."
+      },
+      {
+        "q": "¿Cuánto tiempo antes de ver valor?",
+        "a": "La mayoría de las instituciones ven valor en el primer mes cuando los profesores comienzan a trabajar con rúbricas conectadas y asistencia. Los conocimientos a nivel de programa se enriquecen durante los primeros 90 días a medida que se captura más actividad educativa."
+      },
+      {
+        "q": "¿Los profesores necesitan una formación extensa?",
+        "a": "No. Proporcionamos incorporación estructurada y formación basada en roles. La mayoría de los profesores pueden comenzar a trabajar con Sapiion después de una breve introducción porque la plataforma sigue flujos de trabajo educativos familiares."
+      },
+      {
+        "q": "¿Cuánto cuesta?",
+        "a": "El precio depende del tamaño de la institución y el alcance de la implementación. Proporcionaremos una propuesta clara después de entender sus requisitos — durante o después de la demo."
+      },
+      {
+        "q": "¿Son seguros nuestros datos y cumplen con el GDPR?",
+        "a": "Sí. Sapiion está alojado en la UE. Los datos de cada institución están completamente aislados. Proporcionamos un Acuerdo de Procesamiento de Datos completo antes de que se firme cualquier contrato."
+      },
+      {
+        "q": "¿Se integran con Canvas / Brightspace / Osiris?",
+        "a": "Cada institución tiene un panorama de aplicaciones diferente. Durante la demo discutiremos sus sistemas existentes y explicaremos qué integraciones están disponibles hoy y cuáles están en nuestra hoja de ruta."
+      },
+      {
+        "q": "¿Podemos importar datos de nuestros sistemas existentes?",
+        "a": "Sí. Sapiion admite la importación de datos para registros de estudiantes, estructuras curriculares e información de clases. Durante la incorporación trabajamos con usted para migrar los datos existentes para que no empiece desde cero."
+      },
+      {
+        "q": "¿Podemos exportar nuestros datos si nos vamos?",
+        "a": "Sí. La exportación completa de datos siempre está disponible. Sin bloqueo."
+      }
+    ]
+  }
+}

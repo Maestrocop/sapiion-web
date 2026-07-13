@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "h1a": "Les établissements n'ont pas besoin de plus de logiciels.",
+    "h1b": "Ils en ont besoin de moins,",
+    "h1c": "mieux connectés",
+    "h1d": "systèmes.",
+    "sub": "Sapiion n'est pas conçu pour ajouter des fonctionnalités à la pile. Il est conçu pour remplacer la pile."
+  },
+  "pattern": {
+    "label": "Le schéma",
+    "h2": "Les établissements investissent massivement dans l'amélioration. Pourtant, les résultats correspondent rarement à l'ambition.",
+    "body": "Ce n'est pas parce que les éducateurs manquent de dévouement. C'est parce que les outils avec lesquels ils travaillent ne peuvent pas soutenir le changement. Le même cycle se répète, année après année.",
+    "steps": [
+      "Un problème est identifié — résultats des étudiants, couverture des résultats, préparation à l'accréditation.",
+      "Des consultants externes sont engagés. Des formations sont dispensées. Les idées sont excellentes.",
+      "Les enseignants sont enthousiastes. De nouveaux plans d'action et accords sont conclus.",
+      "Chacun retourne au travail quotidien. Enseigner, noter, administrer.",
+      "Aucun système ne renforce la nouvelle façon de travailler. Les pratiques dérivent progressivement.",
+      "Deux ans plus tard, les mêmes problèmes sont discutés dans les mêmes réunions."
+    ],
+    "quoteA": "\"La qualité éducative ne s'améliore pas grâce aux bonnes idées seules.",
+    "quoteB": "Elle s'améliore quand les bonnes idées deviennent partie intégrante de la pratique quotidienne.\"",
+    "quoteSub": "Sans plateforme connectée, l'amélioration continue dépend de l'effort individuel. Avec une plateforme connectée, l'amélioration continue fait partie de la façon de travailler de l'établissement."
+  },
+  "realGap": {
+    "label": "Le vrai problème",
+    "h2": "Le problème n'est pas l'ambition. La plupart des établissements ont déjà toutes les bonnes intentions.",
+    "body": "L'écart est entre l'ambition éducative et la pratique quotidienne. Les établissements ont une vision, des investissements et des personnes dévouées — mais manquent d'une plateforme qui transforme ces intentions en travail quotidien.",
+    "haveLabel": "Ce que les établissements ont déjà",
+    "haveItems": [
+      "Une vision de la qualité éducative",
+      "Des programmes de développement professionnel",
+      "Des plans d'amélioration et des cadres qualité",
+      "Des éducateurs dévoués et motivés"
+    ],
+    "missingLabel": "Ce qui manque",
+    "missingItems": [
+      {
+        "label": "Une plateforme connectée qui transforme l'ambition en pratique quotidienne",
+        "body": "Sans système intégrant de nouvelles façons de travailler dans l'enseignement quotidien, l'amélioration s'estompe — et les mêmes problèmes réapparaissent deux ans plus tard."
+      },
+      {
+        "label": "Des données connectées du programme à l'assurance qualité",
+        "body": "Quand les données vivent dans des systèmes séparés, personne n'a le tableau complet. Des signaux sont manqués, les décisions sont réactives, et les preuves doivent être assemblées de zéro."
+      }
+    ],
+    "conclusion": "Sapiion existe pour transformer l'ambition éducative en pratique quotidienne."
+  },
+  "whatSapiionIs": {
+    "label": "Ce qu'est vraiment Sapiion",
+    "h2": "Sapiion est une Plateforme d'Intelligence Éducative — et la couche d'implémentation pour l'amélioration éducative.",
+    "body1": "Les établissements peuvent s'améliorer sans Sapiion — mais il est beaucoup plus difficile de s'améliorer de manière cohérente, à grande échelle et dans le temps. Sapiion ne remplace pas le jugement des éducateurs. Il donne à ce jugement un système dans lequel travailler.",
+    "body2": "Il connecte les personnes, les processus et les informations qui ont traditionnellement vécu dans des systèmes séparés — en un flux de travail continu où l'amélioration n'est plus un projet annuel. Elle fait partie de l'enseignement quotidien.",
+    "items": [
+      "Intention curriculaire",
+      "Planification des cours",
+      "Évaluation et notation",
+      "Résultats d'apprentissage",
+      "Progression des étudiants",
+      "Suivi du programme",
+      "Signaux du coordinateur",
+      "Assurance qualité"
+    ],
+    "connectedBy": "◆ Tout connecté par Sapiion — dans un cycle d'amélioration continue."
+  },
+  "whereFits": {
+    "label": "Où s'intègre Sapiion",
+    "h2": "Une plateforme. Six couches connectées.",
+    "body": "Sapiion est la couche d'intelligence qui connecte chaque étape du processus éducatif — du moment où le programme est conçu jusqu'au moment où une revue qualité est effectuée."
+  },
+  "comparison": {
+    "h2": "Ce que la plupart des établissements ont aujourd'hui — et ce que Sapiion fournit.",
+    "todayCol": "Aujourd'hui",
+    "sapiionCol": "Avec Sapiion",
+    "rows": [
+      ["Programme dans Word et Excel", "Programme dans un système vivant et connecté"],
+      ["Enseignement dans un outil", "Enseignement connecté au programme"],
+      ["Notation dans un autre outil", "Notation connectée aux résultats et aux rubriques"],
+      ["Présence suivie séparément", "Présence connectée aux signaux de risque"],
+      ["Coordinateur travaillant sans signaux", "Coordinateur avec visibilité complète du programme"],
+      ["Étudiant recevant des notes", "Étudiant comprenant sa propre progression"],
+      ["Revue qualité annuelle", "Intelligence de programme continue"]
+    ]
+  },
+  "vsLms": {
+    "h2": "Sapiion n'est pas un Système de Gestion de l'Apprentissage (LMS).",
+    "body": "Les plateformes LMS traditionnelles comme Canvas, Moodle et Brightspace se concentrent principalement sur la diffusion de contenu et l'administration des cours. Elles le font bien. Mais elles n'ont pas été conçues pour connecter l'intention curriculaire, la pratique pédagogique, les preuves d'évaluation et la qualité institutionnelle dans un cycle d'amélioration continue. C'est un problème différent — et c'est ce que Sapiion résout.",
+    "lmsLabel": "Le LMS traditionnel demande",
+    "lmsQ": "\"L'étudiant a-t-il rendu son travail ?\"",
+    "sapiionLabel": "Sapiion demande",
+    "sapiionQ": "\"L'étudiant a-t-il développé la compétence visée — et comment le savons-nous ?\"",
+    "footer": "Cette question change tout sur la façon dont une plateforme est construite. Un LMS fait <strong>Contenu → Devoir → Note</strong>. Sapiion fait <strong>Intention curriculaire → Conception pédagogique → Preuve d'évaluation → Maîtrise → Amélioration</strong>."
+  },
+  "vsSis": {
+    "h2": "Sapiion n'est pas un système d'administration des étudiants.",
+    "body1": "Les systèmes SIS comme Osiris et Educator gèrent les dossiers des étudiants — inscriptions, crédits, diplômes. Ils enregistrent ce qui s'est passé. Sapiion aide à améliorer ce qui se passe.",
+    "body2": "Un SIS enregistre le passé. Sapiion aide à améliorer l'avenir.",
+    "body3": "Un SIS vous dit qu'un étudiant a échoué. Sapiion identifie le risque tôt, donnant aux éducateurs et aux responsables de programme les informations dont ils ont besoin pour intervenir avant qu'il ne soit trop tard."
+  },
+  "ai": {
+    "h2": "Une IA construite sur le contexte éducatif — pas sur du contenu générique.",
+    "body1": "L'intelligence artificielle fait partie intégrante de l'éducation. La question n'est pas de savoir si l'IA sera utilisée, mais comment elle le sera de manière responsable.",
+    "mostAiLabel": "La plupart des outils d'IA",
+    "mostAiQ": "\"Commencent sans connaissance de votre contexte éducatif spécifique.\"",
+    "sapiionLabel": "Sapiion",
+    "sapiionQ": "\"Applique l'IA dans votre programme, vos résultats, vos critères d'évaluation, la progression de vos étudiants.\"",
+    "body2": "Parce que Sapiion comprend déjà votre structure éducative, l'IA peut soutenir des décisions significatives — au lieu de générer du contenu déconnecté.",
+    "teachersLabel": "Pour les enseignants",
+    "teacherItems": [
+      "Créer des évaluations alignées sur les résultats plus rapidement",
+      "Obtenir des informations sur la progression des apprentissages",
+      "Réduire le travail administratif répétitif"
+    ],
+    "studentsLabel": "Pour les étudiants",
+    "studentItems": [
+      "Explorer les concepts plus en profondeur",
+      "Réfléchir à leur développement",
+      "Recevoir des conseils qui soutiennent l'apprentissage plutôt que de remplacer la réflexion"
+    ],
+    "principle": "Sapiion n'utilise pas l'IA pour remplacer les enseignants. <strong>Il utilise l'IA pour renforcer l'intelligence déjà présente dans l'éducation.</strong>"
+  },
+  "accreditation": {
+    "h2": "Toujours prêt pour les revues qualité.",
+    "body": "Que la revue soit une visite d'accréditation, une inspection ou un audit interne — le stress est toujours le même : les preuves sont dispersées dans des systèmes qui n'ont jamais été conçus pour fonctionner ensemble. Avec Sapiion, ces preuves sont collectées en continu, pas assemblées dans la panique.",
+    "points": [
+      "Chaque résultat d'apprentissage lié à l'intention curriculaire",
+      "Chaque évaluation liée aux critères de rubrique",
+      "Chaque score de rubrique lié aux résultats",
+      "La progression de chaque étudiant suivie par rapport aux exigences du programme",
+      "La santé de chaque programme visible en temps réel"
+    ],
+    "footer": "Quand la revue arrive, vous présentez des preuves — vous ne les collectez pas."
+  },
+  "implementation": {
+    "h2": "Vos 90 premiers jours avec Sapiion — pas un projet d'implémentation de 2 ans.",
+    "body": "Votre programme ne s'arrête pas pendant que vous implémentez Sapiion. Il s'améliore pendant que vous le faites.",
+    "steps": [
+      { "period": "Semaine 1–2", "text": "Configuration de l'établissement, comptes utilisateurs, structure curriculaire de base" },
+      { "period": "Semaine 3–4", "text": "Formation des enseignants, premières classes créées" },
+      { "period": "Mois 2",  "text": "Premières évaluations et flux de notation en place" },
+      { "period": "Mois 3",  "text": "Tableaux de bord coordinateur actifs, progression des étudiants visible" },
+      { "period": "Mois 6",  "text": "Cycle complet d'amélioration continue en fonctionnement" }
+    ]
+  },
+  "gdpr": {
+    "h2": "Vos données appartiennent à votre établissement. Point final.",
+    "sub": "Tout ce qui est listé ici est disponible aujourd'hui.",
+    "items": [
+      { "title": "Hébergé dans l'UE", "body": "Vos données restent en Europe. Toujours." },
+      { "title": "Isolation complète des données", "body": "Les données de chaque établissement sont complètement séparées — aucun mélange de données." },
+      { "title": "RGPD — DPA prêt", "body": "Convention de traitement des données disponible avant la signature de tout contrat." },
+      { "title": "Sans verrouillage", "body": "Export complet des données à tout moment. Vos données vous appartiennent." },
+      { "title": "Contrôle d'accès basé sur les rôles", "body": "Administrateurs, coordinateurs, enseignants et étudiants ne voient que ce dont ils ont besoin." },
+      { "title": "Journal d'audit", "body": "Toutes les actions critiques sont enregistrées — qui a fait quoi et quand." }
+    ],
+    "roadmapTitle": "Intégrations entreprise (feuille de route)",
+    "roadmapSub": "Nous construisons activement les intégrations que les établissements attendent pour le déploiement en entreprise.",
+    "roadmapItems": [
+      "Microsoft Entra ID — Authentification unique (SSO)",
+      "Intégration Microsoft 365",
+      "Fournisseurs d'identité supplémentaires"
+    ]
+  },
+  "cta": {
+    "h2": "Prêt à voir à quoi ressemble une éducation connectée ?",
+    "btn": "Demander une démo →"
+  }
+}

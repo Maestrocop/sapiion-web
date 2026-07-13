@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "whySapiion": "Warum Sapiion",
+    "solutions": "Lösungen",
+    "ourVision": "Unsere Vision",
+    "requestDemo": "Demo anfragen"
+  },
+  "footer": {
+    "tagline": "Eine Bildungsintelligenz-Plattform für die berufliche Bildung. Verbindet Lehrplangestaltung, Unterricht, Bewertung und Studentenerfolg.",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "copyright": "© {{year}} Noor B.V. — Alle Rechte vorbehalten.",
+    "euHosted": "In der EU gehostet",
+    "gdpr": "DSGVO-konform"
+  }
+}

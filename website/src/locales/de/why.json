@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "h1a": "Schulen brauchen keine weitere Software.",
+    "h1b": "Sie brauchen weniger,",
+    "h1c": "besser vernetzt",
+    "h1d": "Systeme.",
+    "sub": "Sapiion ist nicht dafür gebaut, der vorhandenen Masse weitere Funktionen hinzuzufügen. Es ist gebaut, um die Masse zu ersetzen."
+  },
+  "pattern": {
+    "label": "Das Muster",
+    "h2": "Schulen investieren stark in Verbesserung. Doch die Ergebnisse entsprechen selten dem Ehrgeiz.",
+    "body": "Das liegt nicht daran, dass Lehrkräfte an Einsatz mangeln. Es liegt daran, dass die Werkzeuge, mit denen sie arbeiten, Veränderungen nicht aufrechterhalten können. Derselbe Zyklus wiederholt sich Jahr für Jahr.",
+    "steps": [
+      "Ein Problem wird identifiziert — Studentenergebnisse, Ergebnisabdeckung, Akkreditierungsbereitschaft.",
+      "Externe Berater werden hinzugezogen. Schulungen werden durchgeführt. Die Ideen sind hervorragend.",
+      "Lehrkräfte sind begeistert. Neue Aktionspläne und Vereinbarungen werden getroffen.",
+      "Alle kehren zur täglichen Arbeit zurück. Unterrichten, Benoten, Verwalten.",
+      "Es gibt kein System, das die neue Arbeitsweise verstärkt. Praktiken driften allmählich zurück.",
+      "Zwei Jahre später werden dieselben Probleme in denselben Sitzungen besprochen."
+    ],
+    "quoteA": "\"Bildungsqualität verbessert sich nicht allein durch gute Ideen.",
+    "quoteB": "Sie verbessert sich, wenn gute Ideen Teil der täglichen Praxis werden.\"",
+    "quoteSub": "Ohne vernetzte Plattform hängt kontinuierliche Verbesserung vom individuellen Einsatz ab. Mit einer vernetzten Plattform wird kontinuierliche Verbesserung Teil der Arbeitsweise der Institution."
+  },
+  "realGap": {
+    "label": "Das eigentliche Problem",
+    "h2": "Das Problem ist nicht der Ehrgeiz. Die meisten Einrichtungen haben bereits alle richtigen Absichten.",
+    "body": "Die Lücke liegt zwischen dem Bildungsehrgeiz und der täglichen Praxis. Schulen haben Vision, Investitionen und engagierte Menschen — aber es fehlt eine Plattform, die diese Absichten in tägliche Arbeit umwandelt.",
+    "haveLabel": "Was Einrichtungen bereits haben",
+    "haveItems": [
+      "Eine Vision für Bildungsqualität",
+      "Programme zur beruflichen Weiterentwicklung",
+      "Verbesserungspläne und Qualitätsrahmen",
+      "Engagierte und motivierte Pädagogen"
+    ],
+    "missingLabel": "Was fehlt",
+    "missingItems": [
+      {
+        "label": "Eine vernetzte Plattform, die Ehrgeiz in tägliche Praxis umwandelt",
+        "body": "Ohne ein System, das neue Arbeitsweisen in den täglichen Unterricht einbettet, verblasst die Verbesserung — und dieselben Probleme tauchen zwei Jahre später wieder auf."
+      },
+      {
+        "label": "Vernetzte Daten vom Lehrplan bis zur Qualitätssicherung",
+        "body": "Wenn Daten in separaten Systemen leben, hat niemand das vollständige Bild. Signale werden verpasst, Entscheidungen sind reaktiv, und Beweise müssen von Grund auf zusammengestellt werden."
+      }
+    ],
+    "conclusion": "Sapiion existiert, um Bildungsehrgeiz in tägliche Praxis umzuwandeln."
+  },
+  "whatSapiionIs": {
+    "label": "Was Sapiion wirklich ist",
+    "h2": "Sapiion ist eine Bildungsintelligenz-Plattform — und die Implementierungsebene für Bildungsverbesserung.",
+    "body1": "Schulen können sich ohne Sapiion verbessern — aber es ist viel schwieriger, sich konsistent, in großem Maßstab und über die Zeit zu verbessern. Sapiion ersetzt nicht das Urteil von Pädagogen. Es gibt diesem Urteil ein System, in dem es arbeiten kann.",
+    "body2": "Es verbindet die Menschen, Prozesse und Informationen, die traditionell in getrennten Systemen gelebt haben — in einen kontinuierlichen Arbeitsablauf, bei dem Verbesserung kein jährliches Projekt mehr ist. Sie wird Teil des täglichen Unterrichts.",
+    "items": [
+      "Lehrplanabsicht",
+      "Unterrichtsplanung",
+      "Bewertung und Benotung",
+      "Lernergebnisse",
+      "Studentenfortschritt",
+      "Programmüberwachung",
+      "Koordinatorsignale",
+      "Qualitätssicherung"
+    ],
+    "connectedBy": "◆ Alles verbunden durch Sapiion — in einem kontinuierlichen Verbesserungszyklus."
+  },
+  "whereFits": {
+    "label": "Wo Sapiion passt",
+    "h2": "Eine Plattform. Sechs vernetzte Ebenen.",
+    "body": "Sapiion ist die Intelligenzebene, die jede Stufe des Bildungsprozesses verbindet — von dem Moment, in dem der Lehrplan gestaltet wird, bis zu dem Moment, in dem eine Qualitätsprüfung durchgeführt wird."
+  },
+  "comparison": {
+    "h2": "Was die meisten Einrichtungen heute haben — und was Sapiion bietet.",
+    "todayCol": "Heute",
+    "sapiionCol": "Mit Sapiion",
+    "rows": [
+      ["Lehrplan in Word und Excel", "Lehrplan in einem lebendigen, vernetzten System"],
+      ["Unterricht in einem Tool", "Unterricht mit dem Lehrplan verbunden"],
+      ["Benotung in einem anderen Tool", "Benotung mit Ergebnissen und Rubriken verbunden"],
+      ["Anwesenheit separat erfasst", "Anwesenheit mit Risikosignalen verbunden"],
+      ["Koordinator arbeitet ohne Signale", "Koordinator mit vollständiger Programmsicht"],
+      ["Student erhält Noten", "Student versteht seinen eigenen Fortschritt"],
+      ["Jährliche Qualitätsprüfung", "Kontinuierliche Programmintelligenz"]
+    ]
+  },
+  "vsLms": {
+    "h2": "Sapiion ist kein Lernmanagementsystem (LMS).",
+    "body": "Traditionelle LMS-Plattformen wie Canvas, Moodle und Brightspace konzentrieren sich hauptsächlich auf die Bereitstellung von Inhalten und die Kursverwaltung. Das tun sie gut. Aber sie wurden nicht entwickelt, um Lehrplanabsicht, Unterrichtspraxis, Bewertungsnachweise und institutionelle Qualität in einem kontinuierlichen Verbesserungszyklus zu verbinden. Das ist ein anderes Problem — und das ist es, was Sapiion löst.",
+    "lmsLabel": "Das traditionelle LMS fragt",
+    "lmsQ": "\"Hat der Student abgegeben?\"",
+    "sapiionLabel": "Sapiion fragt",
+    "sapiionQ": "\"Hat der Student die beabsichtigte Kompetenz entwickelt — und woher wissen wir das?\"",
+    "footer": "Diese Frage verändert alles, wie eine Plattform gebaut wird. Ein LMS macht <strong>Inhalt → Aufgabe → Note</strong>. Sapiion macht <strong>Lehrplanabsicht → Unterrichtsgestaltung → Bewertungsnachweis → Meisterschaft → Verbesserung</strong>."
+  },
+  "vsSis": {
+    "h2": "Sapiion ist kein Studentenverwaltungssystem.",
+    "body1": "SIS-Plattformen wie Osiris und Educator verwalten Studentenunterlagen — Einschreibungen, Credits, Diplome. Sie erfassen, was passiert ist. Sapiion hilft, das zu verbessern, was passiert.",
+    "body2": "Ein SIS erfasst die Vergangenheit. Sapiion hilft, die Zukunft zu verbessern.",
+    "body3": "Ein SIS sagt Ihnen, dass ein Student versagt hat. Sapiion identifiziert Risiken frühzeitig und gibt Pädagogen und Programmleitern die Einblicke, die sie benötigen, um einzugreifen, bevor es zu spät ist."
+  },
+  "ai": {
+    "h2": "KI auf der Grundlage von Bildungskontext — nicht von generischen Inhalten.",
+    "body1": "Künstliche Intelligenz wird Teil der Bildung. Die Frage ist nicht, ob KI eingesetzt wird, sondern wie sie verantwortungsvoll eingesetzt wird.",
+    "mostAiLabel": "Die meisten KI-Tools",
+    "mostAiQ": "\"Beginnen ohne Kenntnis Ihres spezifischen Bildungskontexts.\"",
+    "sapiionLabel": "Sapiion",
+    "sapiionQ": "\"Wendet KI in Ihrem Lehrplan, Ihren Ergebnissen, Ihren Bewertungskriterien, dem Fortschritt Ihrer Studierenden an.\"",
+    "body2": "Da Sapiion Ihre Bildungsstruktur bereits versteht, kann KI bedeutungsvolle Entscheidungen unterstützen — anstatt unverbundene Inhalte zu generieren.",
+    "teachersLabel": "Für Lehrkräfte",
+    "teacherItems": [
+      "Ergebnisorientierte Bewertungen schneller erstellen",
+      "Einblicke in den Lernfortschritt gewinnen",
+      "Wiederkehrende Verwaltungsarbeit reduzieren"
+    ],
+    "studentsLabel": "Für Studierende",
+    "studentItems": [
+      "Konzepte tiefer erkunden",
+      "Über ihre Entwicklung nachdenken",
+      "Anleitung erhalten, die das Lernen unterstützt, anstatt das Denken zu ersetzen"
+    ],
+    "principle": "Sapiion nutzt KI nicht, um Lehrkräfte zu ersetzen. <strong>Es nutzt KI, um die bereits in der Bildung vorhandene Intelligenz zu stärken.</strong>"
+  },
+  "accreditation": {
+    "h2": "Immer bereit für Qualitätsprüfungen.",
+    "body": "Ob die Prüfung ein Akkreditierungsbesuch, eine Inspektion oder ein internes Audit ist — der Stress ist immer derselbe: Beweise sind über Systeme verstreut, die nie dafür konzipiert wurden, zusammenzuarbeiten. Mit Sapiion werden diese Beweise kontinuierlich gesammelt, nicht in Panik zusammengestellt.",
+    "points": [
+      "Jedes Lernergebnis mit der Lehrplanabsicht verknüpft",
+      "Jede Bewertung mit Rubrikkriterien verknüpft",
+      "Jeder Rubrikpunkt mit Ergebnissen verknüpft",
+      "Der Fortschritt jedes Studierenden gemäß den Programmanforderungen verfolgt",
+      "Die Gesundheit jedes Programms in Echtzeit sichtbar"
+    ],
+    "footer": "Wenn die Prüfung kommt, präsentieren Sie Beweise — Sie sammeln sie nicht."
+  },
+  "implementation": {
+    "h2": "Ihre ersten 90 Tage mit Sapiion — kein 2-jähriges Implementierungsprojekt.",
+    "body": "Ihr Programm hört nicht auf, während Sie Sapiion implementieren. Es verbessert sich dabei.",
+    "steps": [
+      { "period": "Woche 1–2", "text": "Einrichtungssetup, Benutzerkonten, grundlegende Lehrplanstruktur" },
+      { "period": "Woche 3–4", "text": "Lehrereinführung, erste Klassen erstellt" },
+      { "period": "Monat 2",  "text": "Erste Bewertungen und Benotungsabläufe live" },
+      { "period": "Monat 3",  "text": "Koordinator-Dashboards aktiv, Studentenfortschritt sichtbar" },
+      { "period": "Monat 6",  "text": "Vollständiger kontinuierlicher Verbesserungszyklus in Betrieb" }
+    ]
+  },
+  "gdpr": {
+    "h2": "Ihre Daten gehören Ihrer Einrichtung. Punkt.",
+    "sub": "Alles hier Aufgelistete ist heute verfügbar.",
+    "items": [
+      { "title": "In der EU gehostet", "body": "Ihre Daten bleiben in Europa. Immer." },
+      { "title": "Vollständige Datenisolierung", "body": "Die Daten jeder Einrichtung sind vollständig getrennt — keine Datenvermischung." },
+      { "title": "DSGVO — AVV bereit", "body": "Auftragsverarbeitungsvertrag vor Vertragsunterzeichnung verfügbar." },
+      { "title": "Kein Lock-in", "body": "Vollständiger Datenexport jederzeit. Ihre Daten gehören Ihnen." },
+      { "title": "Rollenbasierte Zugriffskontrolle", "body": "Administratoren, Koordinatoren, Lehrkräfte und Studierende sehen nur, was sie benötigen." },
+      { "title": "Audit-Protokollierung", "body": "Alle kritischen Aktionen werden protokolliert — wer was wann getan hat." }
+    ],
+    "roadmapTitle": "Enterprise-Integrationen (Roadmap)",
+    "roadmapSub": "Wir bauen aktiv die Integrationen, die Einrichtungen für den Enterprise-Einsatz erwarten.",
+    "roadmapItems": [
+      "Microsoft Entra ID — Single Sign-On (SSO)",
+      "Microsoft 365-Integration",
+      "Weitere Identitätsanbieter"
+    ]
+  },
+  "cta": {
+    "h2": "Bereit zu sehen, wie vernetzte Bildung aussieht?",
+    "btn": "Demo anfragen →"
+  }
+}

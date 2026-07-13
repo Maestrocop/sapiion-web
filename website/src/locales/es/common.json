@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "whySapiion": "Por qué Sapiion",
+    "solutions": "Soluciones",
+    "ourVision": "Nuestra visión",
+    "requestDemo": "Solicitar una demo"
+  },
+  "footer": {
+    "tagline": "Una plataforma de inteligencia educativa para la educación profesional. Conectando el diseño curricular, la enseñanza, la evaluación y el éxito del estudiante.",
+    "product": "Producto",
+    "company": "Empresa",
+    "about": "Acerca de",
+    "copyright": "© {{year}} Noor B.V. — Todos los derechos reservados.",
+    "euHosted": "Alojado en la UE",
+    "gdpr": "Cumplimiento GDPR"
+  }
+}

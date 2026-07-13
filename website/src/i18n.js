@@ -15,11 +15,37 @@ import nlSolutions from './locales/nl/solutions.json';
 import nlAbout from './locales/nl/about.json';
 import nlContact from './locales/nl/contact.json';
 
+import esCommon from './locales/es/common.json';
+import esHome from './locales/es/home.json';
+import esWhy from './locales/es/why.json';
+import esSolutions from './locales/es/solutions.json';
+import esAbout from './locales/es/about.json';
+import esContact from './locales/es/contact.json';
+
+import frCommon from './locales/fr/common.json';
+import frHome from './locales/fr/home.json';
+import frWhy from './locales/fr/why.json';
+import frSolutions from './locales/fr/solutions.json';
+import frAbout from './locales/fr/about.json';
+import frContact from './locales/fr/contact.json';
+
+import deCommon from './locales/de/common.json';
+import deHome from './locales/de/home.json';
+import deWhy from './locales/de/why.json';
+import deSolutions from './locales/de/solutions.json';
+import deAbout from './locales/de/about.json';
+import deContact from './locales/de/contact.json';
+
+const SUPPORTED = ['en', 'nl', 'es', 'fr', 'de'];
+
 function detectLanguage() {
   const stored = localStorage.getItem('sapiion-lang');
-  if (stored === 'nl' || stored === 'en') return stored;
+  if (stored && SUPPORTED.includes(stored)) return stored;
   const hostname = window.location.hostname;
   if (hostname.endsWith('.nl') || hostname === 'sapiion.nl') return 'nl';
+  if (hostname.endsWith('.es')) return 'es';
+  if (hostname.endsWith('.fr')) return 'fr';
+  if (hostname.endsWith('.de')) return 'de';
   return 'en';
 }
 
@@ -31,6 +57,9 @@ i18n
     resources: {
       en: { common: enCommon, home: enHome, why: enWhy, solutions: enSolutions, about: enAbout, contact: enContact },
       nl: { common: nlCommon, home: nlHome, why: nlWhy, solutions: nlSolutions, about: nlAbout, contact: nlContact },
+      es: { common: esCommon, home: esHome, why: esWhy, solutions: esSolutions, about: esAbout, contact: esContact },
+      fr: { common: frCommon, home: frHome, why: frWhy, solutions: frSolutions, about: frAbout, contact: frContact },
+      de: { common: deCommon, home: deHome, why: deWhy, solutions: deSolutions, about: deAbout, contact: deContact },
     },
     interpolation: { escapeValue: false },
   });
