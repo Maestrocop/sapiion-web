@@ -7,6 +7,20 @@
     "stat2": "Geen slides.",
     "stat3": "Gewoon het platform."
   },
+  "options": {
+    "publicDemo": {
+      "badge": "Zelfservice",
+      "title": "Probeer de publieke demo",
+      "body": "Verken Sapiion met een realistische demo-instelling. Geen registratie. Geen verplichtingen.",
+      "cta": "Probeer de demo"
+    },
+    "guidedPilot": {
+      "badge": "Voor serieuze evaluaties",
+      "title": "Zie uw eigen programma in Sapiion",
+      "body": "We configureren een tijdelijke omgeving met uw curriculum, programmastructuur en beoordelingsaanpak. Uw team evalueert Sapiion in uw eigen context.",
+      "cta": "Boek een begeleide pilot"
+    }
+  },
   "expect": {
     "steps": [
       {
