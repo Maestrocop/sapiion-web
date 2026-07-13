@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "badge": "Pour les établissements d'enseignement professionnel",
+    "h1a": "Une plateforme pour",
+    "h1b": "l'enseignement professionnel moderne.",
+    "sub1": "Planifier. Enseigner. Évaluer. Améliorer. Tout connecté.",
+    "sub2": "Sapiion connecte la conception des programmes, l'enseignement, l'évaluation et la réussite des étudiants dans un cycle d'amélioration continue — pour que la qualité éducative devienne une force institutionnelle, et non un effort individuel.",
+    "ctaPrimary": "Demander une démo →",
+    "ctaSecondary": "Pourquoi Sapiion ? Voir en quoi c'est différent →"
+  },
+  "problem": {
+    "h2": "L'éducation fonctionne avec des outils déconnectés. Cela a un coût.",
+    "body": "La plupart des établissements utilisent cinq ou six systèmes distincts — le programme dans un endroit, l'enseignement dans un autre, les notes ailleurs, la présence dans un troisième outil. Aucun ne communique avec les autres.",
+    "points": [
+      "Les coordinateurs découvrent que des étudiants sont en difficulté seulement après que les notes ont déjà échoué",
+      "Les enseignants notent des travaux déconnectés des résultats du programme",
+      "Les étudiants reçoivent des notes mais n'ont aucune visibilité sur leur propre progression",
+      "La préparation à l'accréditation prend des mois au lieu de jours"
+    ],
+    "footer": "Ce n'est pas un problème technologique. C'est un problème de connexion."
+  },
+  "solution": {
+    "label": "La plateforme",
+    "h2a": "Sapiion connecte ce qui n'aurait",
+    "h2b": "jamais dû être séparé.",
+    "body": "Une plateforme d'intelligence éducative conçue pour les établissements d'enseignement professionnel. Tout ce qui compte — en un seul endroit.",
+    "pillars": [
+      {
+        "icon": "◎",
+        "title": "Conception des programmes",
+        "body": "Concevez des programmes vivants — pas enfermés dans des documents Word. Associez les résultats d'apprentissage aux modules et aux critères de rubrique. Assurez-vous que ce que vous concevez est bien ce qui est enseigné."
+      },
+      {
+        "icon": "◈",
+        "title": "Dispensation de l'enseignement",
+        "body": "Planifiez les cours, suivez les présences et gérez les classes depuis le même environnement où vit le programme. Moins d'administration. Plus de temps pour enseigner."
+      },
+      {
+        "icon": "◇",
+        "title": "Évaluation et notation",
+        "body": "Notez les travaux à l'aide de critères de rubrique directement connectés aux résultats d'apprentissage. Chaque note devient une preuve du développement des compétences — pas seulement un chiffre."
+      },
+      {
+        "icon": "◉",
+        "title": "Réussite des étudiants",
+        "body": "Identifiez les étudiants qui ont besoin d'attention avant qu'il ne soit trop tard. Les coordinateurs obtiennent une intelligence du programme en temps réel. Les étudiants voient exactement où ils en sont."
+      }
+    ]
+  },
+  "forWhom": {
+    "label": "Conçu pour chaque rôle",
+    "h2": "Construit pour tout le monde dans l'établissement.",
+    "seeMore": "Voir ce que Sapiion fait pour chaque rôle →",
+    "audiences": [
+      {
+        "role": "Responsable de programme",
+        "text": "Santé du programme en temps réel. Preuves d'accréditation collectées en continu. Savoir si votre programme tient ses promesses."
+      },
+      {
+        "role": "Coordinateur",
+        "text": "Signaux de risque précoces avant que les étudiants n'échouent. Une image complète de chaque étudiant — présence, notes, résultats, progression."
+      },
+      {
+        "role": "Enseignant",
+        "text": "Votre programme, vos cours, vos notes et vos étudiants — en un seul endroit. Rubriques déjà construites. Des étudiants que vous connaissez vraiment."
+      },
+      {
+        "role": "Étudiant",
+        "text": "Sachez ce qui est à rendre, où vous en êtes et ce que vous devez améliorer — avant que cela ne devienne un problème."
+      }
+    ]
+  },
+  "ai": {
+    "label": "Intelligence assistée par l'IA",
+    "h2a": "Une IA qui part de votre programme —",
+    "h2b": "pas d'une page blanche.",
+    "body": "La plupart des outils d'IA génèrent des réponses à partir de connaissances générales. Sapiion IA commence avec le contexte éducatif — votre programme, vos résultats d'apprentissage, la progression de vos étudiants. Cela change ce que l'IA peut réellement faire.",
+    "contextItems": [
+      "Votre programme",
+      "Vos résultats d'apprentissage",
+      "Vos critères d'évaluation",
+      "La progression de vos étudiants"
+    ],
+    "todayLabel": "Disponible aujourd'hui",
+    "todayTitle": "Génération d'évaluations basées sur les résultats",
+    "todayBody": "Les enseignants sélectionnent des résultats d'apprentissage. Sapiion génère des questions d'évaluation alignées sur ces résultats — chacune mappée à une compétence spécifique. Pas de contenu générique. Des évaluations connectées à ce que les étudiants doivent réellement apprendre."
+  },
+  "notLms": {
+    "h2": "Ce n'est pas un Système de Gestion de l'Apprentissage (LMS).",
+    "body": "Les plateformes LMS traditionnelles se concentrent sur la diffusion de contenu et l'administration des cours. Sapiion connecte le programme, l'enseignement, l'évaluation et la qualité institutionnelle dans un cycle d'amélioration continue. C'est un problème différent — et un type de plateforme différent.",
+    "lmsLabel": "LMS traditionnel",
+    "lmsFlow": "Contenu → Devoir → Note",
+    "sapiionLabel": "Sapiion",
+    "sapiionFlow": "Intention → Conception → Preuve → Maîtrise → Amélioration",
+    "readMore": "Lire la comparaison complète →"
+  },
+  "trust": {
+    "items": [
+      { "label": "Hébergé dans l'UE", "sub": "Vos données restent en Europe" },
+      { "label": "Conforme RGPD", "sub": "DPA disponible avant le contrat" },
+      { "label": "Vos 90 premiers jours", "sub": "Pas un projet de 2 ans" },
+      { "label": "Par établissement", "sub": "Pas par utilisateur" }
+    ]
+  },
+  "cta": {
+    "h2": "Voyez Sapiion fonctionner avec votre propre programme.",
+    "body": "Une démo dure 45 minutes. Nous configurons un exemple réaliste avec la structure de votre programme, vos résultats, votre contexte. Pas de diapositives. Une vraie démonstration.",
+    "btn": "Demander une démo →",
+    "emailLabel": "Ou écrivez-nous à"
+  }
+}

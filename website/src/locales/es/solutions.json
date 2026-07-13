@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "h1a": "Las herramientas adecuadas para cada",
+    "h1b": "rol en la institución.",
+    "sub": "Sapiion conecta a todos en la institución, mientras proporciona a cada rol los conocimientos y flujos de trabajo que necesitan."
+  },
+  "theirReality": "Su realidad",
+  "whatSapiionProvides": "Lo que Sapiion proporciona",
+  "theResult": "El resultado",
+  "cta": {
+    "h2": "¿Qué rol le describe?",
+    "body": "Cuéntenos quién estará en la sala y estructuraremos la demo en torno a lo que más le importa.",
+    "btn": "Solicitar una demo →"
+  },
+  "audiences": [
+    {
+      "id": "programme-manager",
+      "role": "Director de Programa",
+      "tag": "Tomador de Decisiones",
+      "persona": "Sandra — Directora de Programa, Administración de Empresas, 800 estudiantes, 24 profesores",
+      "reality": "Sandra es responsable de la calidad educativa, pero la información que necesita está fragmentada. Los riesgos para los estudiantes aparecen demasiado tarde, la evidencia de acreditación requiere meses de preparación y no siempre puede ver si los resultados de aprendizaje se evalúan de manera consistente en todo el programa.",
+      "headline": "Saber si su programa está entregando lo que promete — antes de la acreditación, no durante.",
+      "features": [
+        { "title": "Resumen de salud del programa", "body": "Una vista de todo el programa: alineación curricular, cobertura de resultados, riesgo de los estudiantes, distribución de calificaciones y tendencias de asistencia." },
+        { "title": "Preparación continua para la acreditación", "body": "Cada resultado de aprendizaje vinculado. Cada evaluación rastreable. Cada decisión respaldada por evidencia." },
+        { "title": "Sistema de alerta temprana", "body": "Los coordinadores identifican a los estudiantes en riesgo antes — dando a la institución tiempo para intervenir antes de que los problemas se conviertan en fracasos." },
+        { "title": "Consistencia curricular", "body": "Los profesores trabajan con rúbricas y resultados de aprendizaje compartidos. La calidad del programa ya no depende de la interpretación individual." },
+        { "title": "Información sobre el rendimiento del programa", "body": "Compare módulos, cohortes y resultados de aprendizaje. Identifique oportunidades de mejora antes de que se conviertan en problemas de calidad." }
+      ],
+      "result": "Cuando llega la acreditación, la preparación lleva días — no meses. El apoyo a los estudiantes se vuelve proactivo en lugar de reactivo. La mejora de la calidad se vuelve institucional."
+    },
+    {
+      "id": "coordinator",
+      "role": "Coordinador y Asesor",
+      "tag": "",
+      "persona": "Fatima — Asesora SLB, 45 asesorados en dos cohortes",
+      "reality": "El apoyo a los estudiantes suele ser reactivo. Para cuando las señales de alerta se hacen visibles, ya se ha perdido tiempo valioso. Los datos de calificaciones, asistencia y progresión están repartidos en múltiples sistemas, lo que dificulta construir una imagen completa de cada estudiante.",
+      "headline": "Intervenir antes de que los estudiantes fracasen. No después.",
+      "features": [
+        { "title": "Perfil completo del estudiante", "body": "Asistencia, evaluaciones, progreso de resultados de aprendizaje, intervenciones y señales de riesgo en un solo lugar. Sin buscar en múltiples sistemas." },
+        { "title": "Señales de riesgo", "body": "Las señales de riesgo priorizadas ayudan a identificar qué estudiantes requieren atención ahora, antes de que los pequeños problemas se conviertan en grandes dificultades." },
+        { "title": "Flujo de trabajo de revisión de progresión", "body": "Un flujo de trabajo estructurado con evidencia recopilada automáticamente a lo largo del semestre, haciendo las decisiones de progresión transparentes y defendibles." },
+        { "title": "Seguimiento de intervenciones", "body": "Registre intervenciones, asigne acciones de seguimiento, programe momentos de revisión y monitoree si el apoyo está marcando la diferencia." }
+      ],
+      "result": "Cada conversación con un estudiante comienza con información en lugar de administración. La revisión de progresión se convierte en un proceso de revisión — no en un ejercicio de recopilación."
+    },
+    {
+      "id": "teacher",
+      "role": "Profesor",
+      "tag": "",
+      "persona": "Martijn — Docente, HRM, 3 clases activas, 78 estudiantes",
+      "reality": "Martijn pasa horas cada semana en administración en lugar de enseñar. Las rúbricas se recrean para cada curso y es difícil identificar a los estudiantes con dificultades antes de que los problemas sean visibles.",
+      "headline": "Menos administración. Más enseñanza. Mejor conocimiento de cada estudiante.",
+      "features": [
+        { "title": "Un espacio de trabajo conectado", "body": "Currículo, planificación de lecciones, asistencia, evaluación y progreso de los estudiantes en un espacio de trabajo conectado." },
+        { "title": "Rúbricas conectadas", "body": "Cree rúbricas una vez, conéctelas a los resultados de aprendizaje y reutilícelas en módulos y evaluaciones." },
+        { "title": "Asistencia integrada", "body": "Registre la asistencia directamente desde la vista de clase — conectada a las señales de riesgo de los estudiantes en las que confían los coordinadores." },
+        { "title": "Calificación conectada", "body": "Los resultados de las evaluaciones se vinculan automáticamente a los criterios de rúbrica y los resultados de aprendizaje, creando evidencia de la competencia de los estudiantes en lugar de calificaciones aisladas." },
+        { "title": "Evidencia automática de resultados", "body": "A medida que los profesores califican usando rúbricas, la cobertura de resultados se registra automáticamente. Sin seguimiento separado, sin sobrecarga de informes. La evidencia de acreditación se construye sola." }
+      ],
+      "result": "Martijn tiene más tiempo para enseñar y mejor conocimiento de los estudiantes que necesitan apoyo. Las conexiones al currículo, los resultados y la calidad ocurren automáticamente — porque simplemente enseña dentro de una plataforma conectada."
+    },
+    {
+      "id": "curriculum-designer",
+      "role": "Diseñador Curricular",
+      "tag": "",
+      "persona": "Lena — Diseñadora Curricular, equipo central de desarrollo educativo",
+      "reality": "La mayor frustración de Lena es que el diseño curricular se desconecta de la enseñanza diaria. Los documentos del programa se crean, se aprueban y se almacenan — pero no puede ver si los resultados de aprendizaje previstos se están impartiendo y evaluando realmente.",
+      "headline": "Diseña un currículo que permanezca conectado — desde la intención hasta la evidencia.",
+      "features": [
+        { "title": "Compositor Curricular", "body": "Diseña programas en un sistema vivo y conectado — no en documentos estáticos." },
+        { "title": "Mapeo de resultados", "body": "Conecta módulos, tareas y evaluaciones a los resultados de aprendizaje. Detecta brechas antes de que afecten la calidad del programa." },
+        { "title": "Biblioteca de rúbricas compartida", "body": "Las rúbricas diseñadas por expertos curriculares fluyen directamente hacia la enseñanza y la evaluación. Sin duplicación. Sin reinvención." },
+        { "title": "Vista de efectividad curricular", "body": "Ve si tu diseño realmente produjo los resultados previstos en la práctica." }
+      ],
+      "result": "El diseño curricular de Lena se convierte en un activo vivo. Mejora los programas basándose en evidencia — no en suposiciones."
+    },
+    {
+      "id": "student",
+      "role": "Estudiante",
+      "tag": "",
+      "persona": "Amir — Estudiante de 2.º año de Administración de Empresas",
+      "reality": "Amir asiste a la mayoría de las clases pero pierde el seguimiento de los plazos. Recibe calificaciones pero no siempre entiende lo que significan. Está en algún punto intermedio — ni fallando ni floreciendo — y a menudo recibe atención solo cuando los problemas son visibles.",
+      "headline": "Saber exactamente dónde estás. Antes de que se convierta en un problema.",
+      "features": [
+        { "title": "Un panel de control", "body": "Todas las tareas, plazos, calificaciones e indicadores de progreso en un solo lugar." },
+        { "title": "Progreso de resultados", "body": "Ve qué competencias se están desarrollando — no solo las puntuaciones." },
+        { "title": "Criterios de rúbrica antes de la entrega", "body": "Sabe cómo se ve «bueno» antes de enviar, no después." },
+        { "title": "Conciencia temprana", "body": "Si algo empieza a ir mal, Amir lo ve temprano — y sabe qué acción tomar." }
+      ],
+      "result": "Amir deja de volar a ciegas. Sabe qué hacer, qué hay que entregar y cómo está progresando."
+    },
+    {
+      "id": "ict-manager",
+      "role": "Gerente de TIC",
+      "tag": "Propietario Técnico",
+      "persona": "Peter — Gerente de TIC e Infraestructura Digital",
+      "reality": "Peter ha visto demasiados proyectos de software que se lanzaron con entusiasmo y se abandonaron en un año. No está en contra de la innovación. Es responsable de garantizar que cada nueva plataforma sea segura, mantenible y valiosa a largo plazo.",
+      "headline": "Una plataforma conectada que reduce la complejidad — no otro sistema que gestionar.",
+      "features": [
+        { "title": "Una plataforma conectada", "body": "Una plataforma que conecta currículo, enseñanza y evaluación mientras trabaja junto con los sistemas institucionales existentes. Reduzca la fragmentación sin forzar un reemplazo completo de su panorama de TI." },
+        { "title": "Integración abierta", "body": "Sapiion se conecta con los sistemas institucionales existentes a través de APIs seguras y formatos estándar de intercambio de datos — SIS, Microsoft 365 y proveedores de identidad. Diseñado para integrarse en su arquitectura existente, no para crear otra isla aislada." },
+        { "title": "Alojado en la UE + GDPR", "body": "Datos almacenados en la UE. DPA y documentación de seguridad disponibles antes de que comience la implementación." },
+        { "title": "Aislamiento completo de datos", "body": "Cada institución opera en su propio entorno de datos seguro. Los datos institucionales nunca se mezclan." },
+        { "title": "Sin bloqueo", "body": "Exportación completa de datos en cualquier momento. Siempre." },
+        { "title": "Implementación controlada", "body": "Comience con un programa, valide la adopción y los flujos de trabajo, luego escale gradualmente por toda la institución." }
+      ],
+      "result": "Peter puede firmar el DPA con confianza. El riesgo de implementación está controlado. La adopción está respaldada porque cada rol obtiene un valor claro desde el primer día."
+    }
+  ]
+}

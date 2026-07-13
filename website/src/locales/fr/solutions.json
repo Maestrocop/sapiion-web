@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "h1a": "Les bons outils pour chaque",
+    "h1b": "rôle dans l'établissement.",
+    "sub": "Sapiion connecte tout le monde dans l'établissement, tout en donnant à chaque rôle les informations et les flux de travail dont il a besoin."
+  },
+  "theirReality": "Leur réalité",
+  "whatSapiionProvides": "Ce que Sapiion fournit",
+  "theResult": "Le résultat",
+  "cta": {
+    "h2": "Quel rôle vous décrit ?",
+    "body": "Dites-nous qui sera dans la salle et nous structurerons la démo autour de ce qui vous importe le plus.",
+    "btn": "Demander une démo →"
+  },
+  "audiences": [
+    {
+      "id": "programme-manager",
+      "role": "Responsable de programme",
+      "tag": "Décideur",
+      "persona": "Sandra — Responsable de programme, Administration des affaires, 800 étudiants, 24 enseignants",
+      "reality": "Sandra est responsable de la qualité éducative, mais les informations dont elle a besoin sont fragmentées. Les risques pour les étudiants apparaissent trop tard, les preuves d'accréditation nécessitent des mois de préparation et elle ne peut pas toujours voir si les résultats d'apprentissage sont évalués de manière cohérente dans tout le programme.",
+      "headline": "Savoir si votre programme tient ses promesses — avant l'accréditation, pas pendant.",
+      "features": [
+        { "title": "Vue d'ensemble de la santé du programme", "body": "Une vue de l'ensemble du programme : alignement curriculaire, couverture des résultats, risque étudiant, distribution des notes et tendances de présence." },
+        { "title": "Préparation continue à l'accréditation", "body": "Chaque résultat d'apprentissage lié. Chaque évaluation traçable. Chaque décision soutenue par des preuves." },
+        { "title": "Système d'alerte précoce", "body": "Les coordinateurs identifient les étudiants à risque plus tôt — donnant à l'établissement le temps d'intervenir avant que les problèmes ne deviennent des échecs." },
+        { "title": "Cohérence curriculaire", "body": "Les enseignants travaillent avec des rubriques et des résultats d'apprentissage partagés. La qualité du programme ne dépend plus de l'interprétation individuelle." },
+        { "title": "Informations sur les performances du programme", "body": "Comparez les modules, les cohortes et les résultats d'apprentissage. Identifiez les opportunités d'amélioration avant qu'elles ne deviennent des problèmes de qualité." }
+      ],
+      "result": "Quand l'accréditation arrive, la préparation prend des jours — pas des mois. Le soutien aux étudiants devient proactif plutôt que réactif. L'amélioration de la qualité devient institutionnelle."
+    },
+    {
+      "id": "coordinator",
+      "role": "Coordinateur et Conseiller",
+      "tag": "",
+      "persona": "Fatima — Conseillère SLB, 45 conseillers dans deux cohortes",
+      "reality": "Le soutien aux étudiants est souvent réactif. Le temps où les signaux d'alerte deviennent visibles, un temps précieux a déjà été perdu. Les données de notes, de présence et de progression sont réparties dans plusieurs systèmes, ce qui rend difficile la constitution d'un tableau complet de chaque étudiant.",
+      "headline": "Intervenir avant que les étudiants n'échouent. Pas après.",
+      "features": [
+        { "title": "Profil complet de l'étudiant", "body": "Présence, évaluations, progression des résultats d'apprentissage, interventions et signaux de risque en un seul endroit. Sans chercher dans plusieurs systèmes." },
+        { "title": "Signaux de risque", "body": "Des signaux de risque priorisés aident à identifier quels étudiants ont besoin d'attention maintenant, avant que de petits problèmes ne deviennent des problèmes majeurs." },
+        { "title": "Flux de travail de révision de progression", "body": "Un flux de travail structuré avec des preuves collectées automatiquement tout au long du semestre, rendant les décisions de progression transparentes et défendables." },
+        { "title": "Suivi des interventions", "body": "Enregistrez les interventions, attribuez des actions de suivi, planifiez des moments de révision et suivez si le soutien fait une différence." }
+      ],
+      "result": "Chaque conversation avec un étudiant commence par des informations plutôt que par de l'administration. La révision de progression devient un processus de révision — et non un exercice de collecte."
+    },
+    {
+      "id": "teacher",
+      "role": "Enseignant",
+      "tag": "",
+      "persona": "Martijn — Chargé de cours, HRM, 3 classes actives, 78 étudiants",
+      "reality": "Martijn passe des heures chaque semaine sur l'administration plutôt que sur l'enseignement. Les rubriques sont recréées pour chaque cours, et il est difficile d'identifier les étudiants en difficulté avant que les problèmes ne soient visibles.",
+      "headline": "Moins d'administration. Plus d'enseignement. Meilleure connaissance de chaque étudiant.",
+      "features": [
+        { "title": "Un espace de travail connecté", "body": "Programme, planification des cours, présence, évaluation et progression des étudiants dans un espace de travail connecté." },
+        { "title": "Rubriques connectées", "body": "Créez des rubriques une fois, connectez-les aux résultats d'apprentissage et réutilisez-les dans les modules et les évaluations." },
+        { "title": "Présence intégrée", "body": "Enregistrez la présence directement depuis la vue de classe — connectée aux signaux de risque des étudiants sur lesquels se fient les coordinateurs." },
+        { "title": "Notation connectée", "body": "Les résultats des évaluations sont automatiquement liés aux critères de rubrique et aux résultats d'apprentissage, créant des preuves de la compétence des étudiants plutôt que des notes isolées." },
+        { "title": "Preuve automatique des résultats", "body": "Lorsque les enseignants notent avec des rubriques, la couverture des résultats est enregistrée automatiquement. Pas de suivi séparé, pas de surcharge de rapports. Les preuves d'accréditation se construisent d'elles-mêmes." }
+      ],
+      "result": "Martijn a plus de temps pour enseigner et une meilleure connaissance des étudiants qui ont besoin de soutien. Les connexions au programme, aux résultats et à la qualité se font automatiquement — parce qu'il enseigne simplement dans une plateforme connectée."
+    },
+    {
+      "id": "curriculum-designer",
+      "role": "Concepteur de programme",
+      "tag": "",
+      "persona": "Lena — Conceptrice de programme, équipe centrale de développement éducatif",
+      "reality": "La plus grande frustration de Lena est que la conception du programme se déconnecte de l'enseignement quotidien. Les documents de programme sont créés, approuvés et stockés — mais elle ne peut pas voir si les résultats d'apprentissage prévus sont réellement dispensés et évalués.",
+      "headline": "Concevoir un programme qui reste connecté — de l'intention à la preuve.",
+      "features": [
+        { "title": "Compositeur de programme", "body": "Concevez des programmes dans un système vivant et connecté — pas dans des documents statiques." },
+        { "title": "Cartographie des résultats", "body": "Connectez les modules, les devoirs et les évaluations aux résultats d'apprentissage. Détectez les lacunes avant qu'elles n'affectent la qualité du programme." },
+        { "title": "Bibliothèque de rubriques partagée", "body": "Les rubriques conçues par des experts curriculaires affluent directement vers l'enseignement et l'évaluation. Sans duplication. Sans réinvention." },
+        { "title": "Vue de l'efficacité curriculaire", "body": "Voyez si votre conception a réellement produit les résultats prévus en pratique." }
+      ],
+      "result": "La conception curriculaire de Lena devient un actif vivant. Elle améliore les programmes sur la base de preuves — pas d'hypothèses."
+    },
+    {
+      "id": "student",
+      "role": "Étudiant",
+      "tag": "",
+      "persona": "Amir — Étudiant de 2e année en Administration des affaires",
+      "reality": "Amir assiste à la plupart des cours mais perd le fil des délais. Il reçoit des notes mais ne comprend pas toujours ce qu'elles signifient. Il est quelque part au milieu — ni en échec, ni en plein épanouissement — et reçoit souvent de l'attention seulement quand les problèmes deviennent visibles.",
+      "headline": "Savoir exactement où vous en êtes. Avant que cela ne devienne un problème.",
+      "features": [
+        { "title": "Un tableau de bord", "body": "Tous les devoirs, délais, notes et indicateurs de progression en un seul endroit." },
+        { "title": "Progression des résultats", "body": "Voir quelles compétences se développent — pas seulement les scores." },
+        { "title": "Critères de rubrique avant la soumission", "body": "Il sait ce que \"bien\" signifie avant de soumettre, pas après." },
+        { "title": "Prise de conscience précoce", "body": "Si quelque chose commence à mal tourner, Amir le voit tôt — et sait quelle action prendre." }
+      ],
+      "result": "Amir arrête de naviguer à l'aveugle. Il sait quoi faire, ce qui est à rendre et comment il progresse."
+    },
+    {
+      "id": "ict-manager",
+      "role": "Responsable informatique",
+      "tag": "Propriétaire technique",
+      "persona": "Peter — Responsable informatique et infrastructure numérique",
+      "reality": "Peter a vu trop de projets logiciels lancés avec enthousiasme et abandonnés en un an. Il n'est pas contre l'innovation. Il est responsable de s'assurer que chaque nouvelle plateforme est sécurisée, maintenable et précieuse à long terme.",
+      "headline": "Une plateforme connectée qui réduit la complexité — pas un autre système à gérer.",
+      "features": [
+        { "title": "Une plateforme connectée", "body": "Une plateforme qui connecte le programme, l'enseignement et l'évaluation tout en travaillant aux côtés des systèmes institutionnels existants. Réduisez la fragmentation sans forcer un remplacement complet de votre paysage informatique." },
+        { "title": "Intégration ouverte", "body": "Sapiion se connecte aux systèmes institutionnels existants via des API sécurisées et des formats d'échange de données standard — SIS, Microsoft 365 et fournisseurs d'identité. Conçu pour s'intégrer dans votre architecture existante, pas pour créer une autre île isolée." },
+        { "title": "Hébergé dans l'UE + RGPD", "body": "Données stockées dans l'UE. DPA et documentation de sécurité disponibles avant le début de la mise en œuvre." },
+        { "title": "Isolation complète des données", "body": "Chaque établissement opère dans son propre environnement de données sécurisé. Les données institutionnelles ne sont jamais mélangées." },
+        { "title": "Sans verrouillage", "body": "Export complet des données à tout moment. Toujours." },
+        { "title": "Mise en œuvre contrôlée", "body": "Commencez par un programme, validez l'adoption et les flux de travail, puis étendez progressivement à l'ensemble de l'établissement." }
+      ],
+      "result": "Peter peut signer le DPA avec confiance. Le risque de mise en œuvre est contrôlé. L'adoption est soutenue car chaque rôle obtient une valeur claire dès le premier jour."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "h1a": "Nous avons construit Sapiion parce que la qualité éducative ne devrait pas dépendre de",
+    "h1b": "l'effort individuel."
+  },
+  "story": {
+    "p1": "L'éducation façonne le fondement le plus important de la société : le potentiel humain.",
+    "p2": "Pourtant, la plupart des établissements d'enseignement fonctionnent encore avec des outils déconnectés, des données fragmentées et une prise de décision réactive. Les enseignants travaillent de façon isolée. Les coordinateurs découvrent les problèmes trop tard. Les étudiants ne savent pas où ils en sont.",
+    "p3": "Le résultat est que la qualité éducative dépend presque entièrement de l'effort individuel d'enseignants dévoués — et non de la force de l'établissement.",
+    "p4": "Ce n'est pas suffisant.",
+    "p5": "Nous avons construit Sapiion pour changer cela. Non pas en ajoutant plus de logiciels à un paysage déjà fragmenté. Mais en connectant le programme, l'enseignement, l'évaluation et la réussite des étudiants en un système cohérent — pour que la qualité éducative devienne une capacité institutionnelle, et non personnelle."
+  },
+  "belief": {
+    "h2": "Notre conviction",
+    "quote": "L'apprentissage n'est pas le transfert de contenu. L'apprentissage est le développement de compétences par l'expérience structurée, le retour d'information et la réflexion.",
+    "sub": "Cette conviction façonne chaque fonctionnalité que nous construisons.",
+    "traditionalLabel": "Les systèmes traditionnels demandent",
+    "traditionalQ": "\"L'étudiant a-t-il rendu son travail ?\"",
+    "sapiionLabel": "Sapiion demande",
+    "sapiionQ": "\"L'étudiant a-t-il développé la compétence visée — et comment le savons-nous ?\""
+  },
+  "manifesto": {
+    "label": "Pourquoi nous existons",
+    "items": [
+      {
+        "label": "La formation inspire les personnes.",
+        "sub": "Les établissements investissent dans le développement professionnel, des consultants externes, des ateliers et des projets d'innovation. Les idées sont excellentes. L'énergie est réelle."
+      },
+      {
+        "label": "Les processus guident les personnes.",
+        "sub": "Après la formation, des accords sont conclus, des plans d'action sont rédigés et de nouvelles façons de travailler sont convenues. L'ambition est sincère."
+      },
+      {
+        "label": "Les plateformes soutiennent l'amélioration.",
+        "sub": "Sans système intégrant de nouvelles pratiques dans le travail quotidien, le changement s'estompe progressivement. Deux ans plus tard, les mêmes problèmes sont de nouveau discutés."
+      }
+    ],
+    "box1": "Les établissements n'échouent pas à s'améliorer par manque d'ambition ou de talent. Ils échouent à s'améliorer de façon cohérente parce que <strong>les bonnes intentions ne sont pas la même chose que des processus durables</strong> — et les processus durables nécessitent la bonne plateforme pour les tenir ensemble.",
+    "box2": "Sans plateforme connectée, l'amélioration continue dépend de l'effort individuel. Avec une plateforme connectée, l'amélioration continue fait partie de la façon de travailler de l'établissement."
+  },
+  "learningCycle": {
+    "h2": "Notre cycle d'apprentissage",
+    "body": "Nous avons conçu Sapiion autour d'un cycle d'amélioration continue — pas d'un pipeline de diffusion de contenu à sens unique.",
+    "steps": [
+      "Intention curriculaire",
+      "Conception pédagogique",
+      "Enseignement et diffusion",
+      "Évaluation et preuves",
+      "Maîtrise des résultats d'apprentissage",
+      "Signaux de réussite des étudiants",
+      "Intervention et soutien",
+      "Amélioration du programme"
+    ],
+    "repeat": "répéter — amélioration continue"
+  },
+  "ai": {
+    "label": "Intelligence éducative, renforcée par l'IA",
+    "h2": "L'éducation devient plus intelligente quand la technologie comprend le contexte, pas seulement le contenu.",
+    "body1": "L'intelligence artificielle transforme tous les secteurs. L'éducation devrait également en bénéficier — mais de manière responsable.",
+    "body2": "La plupart des outils d'IA travaillent avec des connaissances générales. Sapiion applique l'IA dans votre contexte éducatif.",
+    "contextItems": [
+      "Votre programme",
+      "Vos résultats d'apprentissage",
+      "Vos critères d'évaluation",
+      "La progression de vos étudiants"
+    ],
+    "teachersLabel": "Pour les enseignants",
+    "teachersBody": "Réduisez le travail administratif, concevez de meilleures évaluations et obtenez des informations sur la progression des étudiants — soutenu par une IA qui comprend votre programme.",
+    "studentsLabel": "Pour les étudiants",
+    "studentsBody": "Un compagnon d'apprentissage assisté par IA qui encourage l'exploration, la réflexion et le développement des compétences — aidant les étudiants à comprendre leur progression et à découvrir comment ils peuvent s'améliorer.",
+    "exampleLabel": "Exemple : IA dans Sapiion aujourd'hui",
+    "exampleTitle": "Génération d'évaluations basées sur les résultats",
+    "exampleBody": "Un enseignant sélectionne des résultats d'apprentissage et des modules. Sapiion génère des questions d'évaluation alignées sur ces résultats — chacune mappée à une compétence spécifique, incluant des niveaux de difficulté et des explications.",
+    "exampleFooter": "Pas du contenu IA générique. Des évaluations connectées à ce que les étudiants doivent réellement apprendre.",
+    "future": "À l'avenir, Sapiion étendra les capacités d'IA pour aider les enseignants à identifier les schémas d'apprentissage, suggérer des interventions et soutenir les étudiants dans leur parcours de développement personnel.",
+    "principle1": "L'IA ne remplace pas l'expertise éducative.",
+    "principle2": "Elle la renforce."
+  },
+  "success": {
+    "h2": "À quoi ressemble le succès",
+    "sub": "Sapiion réussit quand :",
+    "items": [
+      { "role": "Un coordinateur", "text": "peut voir, à tout moment, quels étudiants ont besoin d'attention — et agir avant qu'il ne soit trop tard" },
+      { "role": "Un enseignant", "text": "passe moins de temps sur l'administration et plus de temps à enseigner" },
+      { "role": "Un étudiant", "text": "sait toujours quoi faire, ce qui est à rendre et comment il progresse" },
+      { "role": "Un concepteur de programme", "text": "peut voir si sa conception produit réellement les résultats d'apprentissage prévus" },
+      { "role": "Un directeur d'école", "text": "peut démontrer la qualité éducative avec confiance et preuves" },
+      { "role": "Un établissement", "text": "peut démontrer que ses interventions améliorent la réussite des étudiants" }
+    ],
+    "principleLabel": "Le principe directeur unique",
+    "principle": "\"Chaque fonctionnalité dans Sapiion doit contribuer à améliorer la qualité éducative, pas seulement à numériser l'administration éducative.\""
+  },
+  "brand": {
+    "name": "Noor B.V. · Sapiion",
+    "body": "Notre entreprise, <strong>Noor B.V.</strong>, porte une signification simple : Noor signifie <em>lumière</em> en arabe. Notre plateforme, <strong>Sapiion</strong>, vient de <em>sapientia</em> — le concept latin de sagesse et de bon jugement. Nous apportons de la lumière aux données éducatives et les transformons en sagesse institutionnelle. Ce n'est pas une histoire marketing. C'est pourquoi nous existons."
+  },
+  "cta": {
+    "h2": "Si cela résonne avec votre façon de penser l'éducation — nous aimerions vous parler.",
+    "demoBtn": "Demander une démo →",
+    "emailBtn": "Envoyez-nous un message"
+  }
+}

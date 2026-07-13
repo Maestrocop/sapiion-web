@@ -14,17 +14,27 @@ export default function Nav() {
     { to: '/about',       label: t('nav.ourVision') },
   ];
 
-  function toggleLang() {
-    const next = i18n.language === 'nl' ? 'en' : 'nl';
-    i18n.changeLanguage(next);
-    localStorage.setItem('sapiion-lang', next);
+  const LANGS = [
+    { code: 'en', label: 'EN' },
+    { code: 'nl', label: 'NL' },
+    { code: 'es', label: 'ES' },
+    { code: 'fr', label: 'FR' },
+    { code: 'de', label: 'DE' },
+  ];
+
+  function switchLang(code) {
+    i18n.changeLanguage(code);
+    localStorage.setItem('sapiion-lang', code);
+    setLangOpen(false);
   }
+
+  const [langOpen, setLangOpen] = useState(false);
 
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-slate-100">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-        <Link to="/" aria-label="Sapiion home">
-          <Logo className="h-8 w-auto" />
+        <Link to="/" aria-label="Sapiion home" className="flex items-center">
+          <Logo />
         </Link>
 
         {/* Desktop nav */}
@@ -51,13 +61,28 @@ export default function Nav() {
           >
             hello@sapiion.ai
           </a>
-          <button
-            onClick={toggleLang}
-            className="text-xs font-semibold text-slate-400 hover:text-navy-900 transition-colors border border-slate-200 rounded-md px-2 py-1"
-            aria-label="Switch language"
-          >
-            {i18n.language === 'nl' ? 'EN' : 'NL'}
-          </button>
+          <div className="relative">
+            <button
+              onClick={() => setLangOpen(o => !o)}
+              className="text-xs font-semibold text-slate-400 hover:text-navy-900 transition-colors border border-slate-200 rounded-md px-2 py-1 uppercase"
+              aria-label="Switch language"
+            >
+              {i18n.language?.toUpperCase?.() || 'EN'}
+            </button>
+            {langOpen && (
+              <div className="absolute right-0 mt-1 bg-white border border-slate-200 rounded-md shadow-md z-50 py-1 min-w-[60px]">
+                {LANGS.map(({ code, label }) => (
+                  <button
+                    key={code}
+                    onClick={() => switchLang(code)}
+                    className={`w-full text-left px-3 py-1 text-xs font-semibold hover:bg-slate-50 transition-colors ${i18n.language === code ? 'text-navy-900' : 'text-slate-400'}`}
+                  >
+                    {label}
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
           <Link
             to="/demo"
             className="bg-navy-900 text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-navy-800 transition-colors"
@@ -105,12 +130,27 @@ export default function Nav() {
             >
               {t('nav.requestDemo')}
             </Link>
-            <button
-              onClick={toggleLang}
-              className="text-xs font-semibold text-slate-400 border border-slate-200 rounded-md px-2 py-2"
-            >
-              {i18n.language === 'nl' ? 'EN' : 'NL'}
-            </button>
+            <div className="relative">
+              <button
+                onClick={() => setLangOpen(o => !o)}
+                className="text-xs font-semibold text-slate-400 border border-slate-200 rounded-md px-2 py-2 uppercase"
+              >
+                {i18n.language?.toUpperCase?.() || 'EN'}
+              </button>
+              {langOpen && (
+                <div className="absolute right-0 mt-1 bg-white border border-slate-200 rounded-md shadow-md z-50 py-1 min-w-[60px]">
+                  {LANGS.map(({ code, label }) => (
+                    <button
+                      key={code}
+                      onClick={() => switchLang(code)}
+                      className={`w-full text-left px-3 py-1 text-xs font-semibold hover:bg-slate-50 transition-colors ${i18n.language === code ? 'text-navy-900' : 'text-slate-400'}`}
+                    >
+                      {label}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
         </div>
       )}

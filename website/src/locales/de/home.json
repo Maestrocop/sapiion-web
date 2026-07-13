@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "badge": "Für Einrichtungen der beruflichen Bildung",
+    "h1a": "Eine Plattform für moderne",
+    "h1b": "berufliche Bildung.",
+    "sub1": "Planen. Lehren. Bewerten. Verbessern. Alles verbunden.",
+    "sub2": "Sapiion verbindet Lehrplangestaltung, Unterricht, Bewertung und Studentenerfolg in einem kontinuierlichen Verbesserungszyklus — damit Bildungsqualität zur institutionellen Stärke wird, nicht zur Einzelleistung.",
+    "ctaPrimary": "Demo anfragen →",
+    "ctaSecondary": "Warum Sapiion? Sehen Sie den Unterschied →"
+  },
+  "problem": {
+    "h2": "Bildung läuft auf getrennten Werkzeugen. Das hat seinen Preis.",
+    "body": "Die meisten Einrichtungen nutzen fünf oder sechs separate Systeme — Lehrplan an einem Ort, Unterricht an einem anderen, Noten irgendwo anders, Anwesenheit in einem dritten Tool. Keines davon kommuniziert mit den anderen.",
+    "points": [
+      "Koordinatoren erfahren erst dann, dass Studierende gefährdet sind, wenn Noten bereits versagt haben",
+      "Lehrkräfte bewerten Aufgaben, die von den Lehrplanergebnissen abgekoppelt sind",
+      "Studierende erhalten Noten, haben aber keinen Einblick in ihren eigenen Fortschritt",
+      "Die Akkreditierungsvorbereitung dauert Monate statt Tage"
+    ],
+    "footer": "Dies ist kein technologisches Problem. Es ist ein Verbindungsproblem."
+  },
+  "solution": {
+    "label": "Die Plattform",
+    "h2a": "Sapiion verbindet, was niemals",
+    "h2b": "hätte getrennt werden sollen.",
+    "body": "Eine Bildungsintelligenz-Plattform, die für Einrichtungen der beruflichen Bildung entwickelt wurde. Alles, was zählt — an einem Ort.",
+    "pillars": [
+      {
+        "icon": "◎",
+        "title": "Lehrplangestaltung",
+        "body": "Gestalten Sie lebendige Programme — nicht in Word-Dokumenten eingeschlossen. Ordnen Sie Lernergebnisse Modulen und Rubrikkriterien zu. Stellen Sie sicher, dass das, was Sie entwerfen, auch unterrichtet wird."
+      },
+      {
+        "icon": "◈",
+        "title": "Unterrichtsdurchführung",
+        "body": "Planen Sie Unterrichtsstunden, verfolgen Sie die Anwesenheit und verwalten Sie Klassen aus derselben Umgebung, in der der Lehrplan lebt. Weniger Verwaltung. Mehr Zeit für das Unterrichten."
+      },
+      {
+        "icon": "◇",
+        "title": "Bewertung und Benotung",
+        "body": "Bewerten Sie Arbeiten mit Rubrikkriterien, die direkt mit den Lernergebnissen verknüpft sind. Jede Note wird zum Nachweis der Kompetenzentwicklung — nicht nur eine Zahl."
+      },
+      {
+        "icon": "◉",
+        "title": "Studierende Erfolgreich",
+        "body": "Erkennen Sie, welche Studierende Aufmerksamkeit benötigen, bevor es zu spät ist. Koordinatoren erhalten Echtzeit-Programmintelligenz. Studierende sehen genau, wo sie stehen."
+      }
+    ]
+  },
+  "forWhom": {
+    "label": "Für jede Rolle konzipiert",
+    "h2": "Entwickelt für alle in der Einrichtung.",
+    "seeMore": "Sehen Sie, was Sapiion für jede Rolle tut →",
+    "audiences": [
+      {
+        "role": "Programmleiter",
+        "text": "Programmgesundheit in Echtzeit. Kontinuierlich gesammelte Akkreditierungsnachweise. Wissen, ob Ihr Programm hält, was es verspricht."
+      },
+      {
+        "role": "Koordinator",
+        "text": "Frühe Risikosignale, bevor Studierende scheitern. Ein vollständiges Bild jedes Studierenden — Anwesenheit, Noten, Ergebnisse, Progression."
+      },
+      {
+        "role": "Lehrkraft",
+        "text": "Ihr Lehrplan, Ihre Unterrichtsstunden, Ihre Noten und Ihre Studierenden — an einem Ort. Rubriken bereits erstellt. Studierende, die Sie wirklich kennen."
+      },
+      {
+        "role": "Studierender",
+        "text": "Wissen Sie, was fällig ist, wo Sie stehen und was Sie verbessern müssen — bevor es zum Problem wird."
+      }
+    ]
+  },
+  "ai": {
+    "label": "KI-gestützte Intelligenz",
+    "h2a": "KI, die mit Ihrem Programm beginnt —",
+    "h2b": "nicht mit einer leeren Seite.",
+    "body": "Die meisten KI-Tools generieren Antworten aus allgemeinem Wissen. Sapiion KI beginnt mit dem Bildungskontext — Ihrem Lehrplan, Ihren Lernergebnissen, dem Fortschritt Ihrer Studierenden. Das verändert, was KI wirklich leisten kann.",
+    "contextItems": [
+      "Ihr Lehrplan",
+      "Ihre Lernergebnisse",
+      "Ihre Bewertungskriterien",
+      "Der Fortschritt Ihrer Studierenden"
+    ],
+    "todayLabel": "Heute verfügbar",
+    "todayTitle": "Ergebnisorientierte Aufgabengenerierung",
+    "todayBody": "Lehrkräfte wählen Lernergebnisse aus. Sapiion generiert Bewertungsfragen, die auf diese Ergebnisse abgestimmt sind — jede auf eine bestimmte Kompetenz gemappt. Kein generischer Inhalt. Bewertungen, die mit dem verbunden sind, was Studierende tatsächlich lernen sollen."
+  },
+  "notLms": {
+    "h2": "Dies ist kein Lernmanagementsystem (LMS).",
+    "body": "Traditionelle LMS-Plattformen konzentrieren sich auf die Bereitstellung von Inhalten und die Kursverwaltung. Sapiion verbindet Lehrplan, Unterricht, Bewertung und institutionelle Qualität in einem kontinuierlichen Verbesserungszyklus. Das ist ein anderes Problem — und eine andere Art von Plattform.",
+    "lmsLabel": "Traditionelles LMS",
+    "lmsFlow": "Inhalt → Aufgabe → Note",
+    "sapiionLabel": "Sapiion",
+    "sapiionFlow": "Absicht → Gestaltung → Nachweis → Meisterschaft → Verbesserung",
+    "readMore": "Den vollständigen Vergleich lesen →"
+  },
+  "trust": {
+    "items": [
+      { "label": "In der EU gehostet", "sub": "Ihre Daten bleiben in Europa" },
+      { "label": "DSGVO-konform", "sub": "AVV vor Vertragsabschluss verfügbar" },
+      { "label": "Ihre ersten 90 Tage", "sub": "Kein 2-Jahres-Projekt" },
+      { "label": "Pro Einrichtung", "sub": "Nicht pro Benutzer" }
+    ]
+  },
+  "cta": {
+    "h2": "Erleben Sie Sapiion mit Ihrem eigenen Programm.",
+    "body": "Eine Demo dauert 45 Minuten. Wir richten ein realistisches Beispiel mit Ihrer Programmstruktur, Ihren Ergebnissen, Ihrem Kontext ein. Keine Folien. Eine echte Demonstration.",
+    "btn": "Demo anfragen →",
+    "emailLabel": "Oder schreiben Sie uns an"
+  }
+}

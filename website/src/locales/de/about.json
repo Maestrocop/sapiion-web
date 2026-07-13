@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "h1a": "Wir haben Sapiion gebaut, weil Bildungsqualität nicht von",
+    "h1b": "individuellem Einsatz abhängen sollte."
+  },
+  "story": {
+    "p1": "Bildung prägt das wichtigste Fundament der Gesellschaft: menschliches Potenzial.",
+    "p2": "Dennoch arbeiten die meisten Bildungseinrichtungen noch mit getrennten Werkzeugen, fragmentierten Daten und reaktiver Entscheidungsfindung. Lehrkräfte arbeiten isoliert. Koordinatoren entdecken Probleme zu spät. Studierende wissen nicht, wo sie stehen.",
+    "p3": "Das Ergebnis ist, dass Bildungsqualität fast vollständig vom individuellen Einsatz engagierter Lehrkräfte abhängt — nicht von der Stärke der Institution.",
+    "p4": "Das reicht nicht aus.",
+    "p5": "Wir haben Sapiion gebaut, um das zu ändern. Nicht indem wir einer bereits fragmentierten Landschaft weitere Software hinzufügen. Sondern indem wir Lehrplan, Unterricht, Bewertung und Studentenerfolg in ein kohärentes System verbinden — damit Bildungsqualität zu einer institutionellen Fähigkeit wird, nicht zu einer persönlichen."
+  },
+  "belief": {
+    "h2": "Unsere Überzeugung",
+    "quote": "Lernen ist nicht die Übertragung von Inhalten. Lernen ist die Entwicklung von Kompetenzen durch strukturierte Erfahrung, Feedback und Reflexion.",
+    "sub": "Diese Überzeugung prägt jede Funktion, die wir entwickeln.",
+    "traditionalLabel": "Traditionelle Systeme fragen",
+    "traditionalQ": "\"Hat der Studierende die Aufgabe abgegeben?\"",
+    "sapiionLabel": "Sapiion fragt",
+    "sapiionQ": "\"Hat der Studierende die beabsichtigte Kompetenz entwickelt — und woher wissen wir das?\""
+  },
+  "manifesto": {
+    "label": "Warum wir existieren",
+    "items": [
+      {
+        "label": "Schulungen inspirieren Menschen.",
+        "sub": "Schulen investieren in berufliche Weiterentwicklung, externe Berater, Workshops und Innovationsprojekte. Die Ideen sind ausgezeichnet. Die Energie ist real."
+      },
+      {
+        "label": "Prozesse leiten Menschen.",
+        "sub": "Nach der Schulung werden Vereinbarungen getroffen, Aktionspläne geschrieben und neue Arbeitsweisen vereinbart. Die Ambition ist aufrichtig."
+      },
+      {
+        "label": "Plattformen erhalten die Verbesserung.",
+        "sub": "Ohne ein System, das neue Praktiken in die tägliche Arbeit einbettet, verblasst der Wandel allmählich. Zwei Jahre später werden dieselben Probleme wieder besprochen."
+      }
+    ],
+    "box1": "Schulen scheitern nicht an der Verbesserung, weil es ihnen an Ehrgeiz oder Talent mangelt. Sie scheitern daran, sich konsistent zu verbessern, weil <strong>gute Absichten nicht dasselbe sind wie nachhaltige Prozesse</strong> — und nachhaltige Prozesse die richtige Plattform erfordern, die sie zusammenhält.",
+    "box2": "Ohne vernetzte Plattform hängt kontinuierliche Verbesserung vom individuellen Einsatz ab. Mit einer vernetzten Plattform wird kontinuierliche Verbesserung Teil der Arbeitsweise der Institution."
+  },
+  "learningCycle": {
+    "h2": "Unser Lernzyklus",
+    "body": "Wir haben Sapiion um einen kontinuierlichen Verbesserungszyklus herum gestaltet — nicht um eine einseitige Inhaltslieferpipeline.",
+    "steps": [
+      "Lehrplanabsicht",
+      "Lerngestaltung",
+      "Unterricht und Durchführung",
+      "Bewertung und Nachweis",
+      "Beherrschung von Lernergebnissen",
+      "Erfolgssignale der Studierenden",
+      "Intervention und Unterstützung",
+      "Lehrplanverbesserung"
+    ],
+    "repeat": "wiederholen — kontinuierliche Verbesserung"
+  },
+  "ai": {
+    "label": "Bildungsintelligenz, gestärkt durch KI",
+    "h2": "Bildung wird intelligenter, wenn Technologie den Kontext versteht, nicht nur den Inhalt.",
+    "body1": "Künstliche Intelligenz transformiert jede Branche. Auch die Bildung sollte davon profitieren — aber verantwortungsvoll.",
+    "body2": "Die meisten KI-Tools arbeiten mit allgemeinem Wissen. Sapiion wendet KI innerhalb Ihres Bildungskontexts an.",
+    "contextItems": [
+      "Ihr Lehrplan",
+      "Ihre Lernergebnisse",
+      "Ihre Bewertungskriterien",
+      "Der Fortschritt Ihrer Studierenden"
+    ],
+    "teachersLabel": "Für Lehrkräfte",
+    "teachersBody": "Reduzieren Sie Verwaltungsarbeit, gestalten Sie bessere Bewertungen und gewinnen Sie Einblicke in den Studentenfortschritt — unterstützt von einer KI, die Ihren Lehrplan versteht.",
+    "studentsLabel": "Für Studierende",
+    "studentsBody": "Ein KI-unterstützter Lernbegleiter, der Erkundung, Reflexion und Kompetenzentwicklung fördert — und Studierenden hilft, ihren Fortschritt zu verstehen und zu entdecken, wie sie sich verbessern können.",
+    "exampleLabel": "Beispiel: KI in Sapiion heute",
+    "exampleTitle": "Ergebnisorientierte Aufgabengenerierung",
+    "exampleBody": "Eine Lehrkraft wählt Lernergebnisse und Module aus. Sapiion generiert Bewertungsfragen, die auf diese Ergebnisse abgestimmt sind — jede auf eine spezifische Kompetenz gemappt, einschließlich Schwierigkeitsgrade und Erklärungen.",
+    "exampleFooter": "Kein generischer KI-Inhalt. Bewertungen, die mit dem verbunden sind, was Studierende tatsächlich lernen sollen.",
+    "future": "In Zukunft wird Sapiion KI-Fähigkeiten erweitern, um Lehrkräften zu helfen, Lernmuster zu erkennen, Interventionen vorzuschlagen und Studierende auf ihrem persönlichen Entwicklungsweg zu unterstützen.",
+    "principle1": "KI ersetzt keine pädagogische Expertise.",
+    "principle2": "Sie stärkt sie."
+  },
+  "success": {
+    "h2": "Wie Erfolg aussieht",
+    "sub": "Sapiion ist erfolgreich, wenn:",
+    "items": [
+      { "role": "Ein Koordinator", "text": "jederzeit sehen kann, welche Studierenden Aufmerksamkeit benötigen — und handeln kann, bevor es zu spät ist" },
+      { "role": "Eine Lehrkraft", "text": "weniger Zeit für Verwaltung und mehr Zeit für das Unterrichten aufwendet" },
+      { "role": "Ein Studierender", "text": "immer weiß, was zu tun ist, was fällig ist und wie er/sie vorankommt" },
+      { "role": "Ein Lehrplandesigner", "text": "sehen kann, ob ihr Design tatsächlich die beabsichtigten Lernergebnisse erzeugt" },
+      { "role": "Ein Schulleiter", "text": "Bildungsqualität mit Zuversicht und Nachweisen demonstrieren kann" },
+      { "role": "Eine Einrichtung", "text": "nachweisen kann, dass ihre Interventionen den Studierende Erfolg verbessern" }
+    ],
+    "principleLabel": "Das einzige Leitprinzip",
+    "principle": "\"Jede Funktion in Sapiion sollte dazu beitragen, die Bildungsqualität zu verbessern, nicht nur die Bildungsverwaltung zu digitalisieren.\""
+  },
+  "brand": {
+    "name": "Noor B.V. · Sapiion",
+    "body": "Unser Unternehmen, <strong>Noor B.V.</strong>, trägt eine einfache Bedeutung: Noor bedeutet <em>Licht</em> auf Arabisch. Unsere Plattform, <strong>Sapiion</strong>, kommt von <em>sapientia</em> — dem lateinischen Konzept von Weisheit und gesundem Urteil. Wir bringen Licht in Bildungsdaten und verwandeln sie in institutionelle Weisheit. Das ist keine Marketinggeschichte. Es ist der Grund, warum wir existieren."
+  },
+  "cta": {
+    "h2": "Wenn dies mit Ihrer Denkweise über Bildung übereinstimmt — würden wir gerne sprechen.",
+    "demoBtn": "Demo anfragen →",
+    "emailBtn": "Senden Sie uns eine Nachricht"
+  }
+}

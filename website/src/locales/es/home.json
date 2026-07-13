@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "badge": "Para instituciones de educación profesional",
+    "h1a": "Una plataforma para la",
+    "h1b": "educación profesional moderna.",
+    "sub1": "Planifica. Enseña. Evalúa. Mejora. Todo conectado.",
+    "sub2": "Sapiion conecta el diseño curricular, la enseñanza, la evaluación y el éxito del estudiante en un ciclo continuo de mejora — para que la calidad educativa se convierta en una fortaleza institucional, no en un esfuerzo individual.",
+    "ctaPrimary": "Solicitar una demo →",
+    "ctaSecondary": "¿Por qué Sapiion? Ver cómo es diferente →"
+  },
+  "problem": {
+    "h2": "La educación funciona con herramientas desconectadas. Eso tiene un coste.",
+    "body": "La mayoría de las instituciones utilizan cinco o seis sistemas separados — el currículo en un lugar, la enseñanza en otro, las calificaciones en otro, la asistencia en un tercer sistema. Ninguno se comunica con los demás.",
+    "points": [
+      "Los coordinadores descubren que los estudiantes están en riesgo solo después de que las notas ya han fallado",
+      "Los profesores califican tareas desconectadas de los resultados curriculares",
+      "Los estudiantes reciben notas pero no tienen visión de su propio progreso",
+      "La preparación para la acreditación lleva meses en lugar de días"
+    ],
+    "footer": "Este no es un problema tecnológico. Es un problema de conexión."
+  },
+  "solution": {
+    "label": "La plataforma",
+    "h2a": "Sapiion conecta lo que nunca",
+    "h2b": "debería haberse separado.",
+    "body": "Una Plataforma de Inteligencia Educativa construida para instituciones de educación profesional. Todo lo que importa — en un solo lugar.",
+    "pillars": [
+      {
+        "icon": "◎",
+        "title": "Diseño Curricular",
+        "body": "Diseña programas que están vivos — no bloqueados en documentos Word. Mapea los resultados de aprendizaje a módulos y criterios de rúbrica. Asegúrate de que lo que diseñas es lo que se enseña."
+      },
+      {
+        "icon": "◈",
+        "title": "Impartición de la Enseñanza",
+        "body": "Planifica lecciones, controla la asistencia y gestiona clases desde el mismo entorno donde vive el currículo. Menos administración. Más tiempo enseñando."
+      },
+      {
+        "icon": "◇",
+        "title": "Evaluación y Calificación",
+        "body": "Califica el trabajo usando criterios de rúbrica conectados directamente a los resultados de aprendizaje. Cada puntuación se convierte en evidencia del desarrollo de competencias — no solo un número."
+      },
+      {
+        "icon": "◉",
+        "title": "Éxito del Estudiante",
+        "body": "Ve qué estudiantes necesitan atención antes de que sea demasiado tarde. Los coordinadores obtienen inteligencia del programa en tiempo real. Los estudiantes ven exactamente dónde están."
+      }
+    ]
+  },
+  "forWhom": {
+    "label": "Diseñado para cada rol",
+    "h2": "Construido para todos en la institución.",
+    "seeMore": "Ver qué hace Sapiion para cada rol →",
+    "audiences": [
+      {
+        "role": "Director de Programa",
+        "text": "Salud del programa en tiempo real. Evidencia de acreditación recopilada continuamente. Saber si tu programa entrega lo que promete."
+      },
+      {
+        "role": "Coordinador",
+        "text": "Señales de riesgo tempranas antes de que los estudiantes fracasen. Una imagen completa de cada estudiante — asistencia, notas, resultados, progresión."
+      },
+      {
+        "role": "Profesor",
+        "text": "Tu currículo, tus lecciones, tus notas y tus estudiantes — en un solo lugar. Rúbricas ya construidas. Estudiantes que realmente conoces."
+      },
+      {
+        "role": "Estudiante",
+        "text": "Sabe qué hay que entregar, dónde estás y qué necesitas mejorar — antes de que se convierta en un problema."
+      }
+    ]
+  },
+  "ai": {
+    "label": "Inteligencia asistida por IA",
+    "h2a": "IA que comienza con tu programa —",
+    "h2b": "no con una página en blanco.",
+    "body": "La mayoría de las herramientas de IA generan respuestas a partir del conocimiento general. Sapiion IA comienza con el contexto educativo — tu currículo, tus resultados de aprendizaje, el progreso de tus estudiantes. Eso cambia lo que la IA puede hacer realmente.",
+    "contextItems": [
+      "Tu currículo",
+      "Tus resultados de aprendizaje",
+      "Tus criterios de evaluación",
+      "El progreso de tus estudiantes"
+    ],
+    "todayLabel": "Disponible hoy",
+    "todayTitle": "Generación de evaluaciones basadas en resultados",
+    "todayBody": "Los profesores seleccionan resultados de aprendizaje. Sapiion genera preguntas de evaluación alineadas con esos resultados — cada una mapeada a una competencia específica. No contenido genérico. Evaluaciones conectadas a lo que los estudiantes realmente deben aprender."
+  },
+  "notLms": {
+    "h2": "Esto no es un Sistema de Gestión del Aprendizaje (LMS).",
+    "body": "Las plataformas LMS tradicionales se centran en la entrega de contenido y la administración de cursos. Sapiion conecta currículo, enseñanza, evaluación y calidad institucional en un ciclo continuo de mejora. Ese es un problema diferente — y un tipo diferente de plataforma.",
+    "lmsLabel": "LMS Tradicional",
+    "lmsFlow": "Contenido → Tarea → Calificación",
+    "sapiionLabel": "Sapiion",
+    "sapiionFlow": "Intención → Diseño → Evidencia → Dominio → Mejora",
+    "readMore": "Leer la comparación completa →"
+  },
+  "trust": {
+    "items": [
+      { "label": "Alojado en la UE", "sub": "Tus datos permanecen en Europa" },
+      { "label": "Cumplimiento GDPR", "sub": "DPA disponible antes del contrato" },
+      { "label": "Tus primeros 90 días", "sub": "No es un proyecto de 2 años" },
+      { "label": "Por institución", "sub": "No por usuario" }
+    ]
+  },
+  "cta": {
+    "h2": "Ve Sapiion funcionando con tu propio programa.",
+    "body": "Una demo dura 45 minutos. Configuramos un ejemplo realista usando la estructura de tu programa, tus resultados, tu contexto. Sin diapositivas. Una demostración real.",
+    "btn": "Solicitar una demo →",
+    "emailLabel": "O escríbenos a"
+  }
+}

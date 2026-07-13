@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "h1a": "Die richtigen Werkzeuge für jede",
+    "h1b": "Rolle in der Einrichtung.",
+    "sub": "Sapiion verbindet alle in der Einrichtung und gibt dabei jeder Rolle die Einblicke und Arbeitsabläufe, die sie benötigt."
+  },
+  "theirReality": "Ihre Realität",
+  "whatSapiionProvides": "Was Sapiion bietet",
+  "theResult": "Das Ergebnis",
+  "cta": {
+    "h2": "Welche Rolle beschreibt Sie?",
+    "body": "Sagen Sie uns, wer im Raum sein wird, und wir strukturieren die Demo rund um das, was für Sie am wichtigsten ist.",
+    "btn": "Demo anfragen →"
+  },
+  "audiences": [
+    {
+      "id": "programme-manager",
+      "role": "Programmleiter",
+      "tag": "Entscheidungsträger",
+      "persona": "Sandra — Programmleiterin, Betriebswirtschaft, 800 Studierende, 24 Lehrkräfte",
+      "reality": "Sandra ist für die Bildungsqualität verantwortlich, aber die Informationen, die sie benötigt, sind fragmentiert. Studentenrisiken treten zu spät auf, Akkreditierungsnachweise erfordern monatelange Vorbereitung und sie kann nicht immer sehen, ob Lernergebnisse konsistent im gesamten Programm bewertet werden.",
+      "headline": "Wissen, ob Ihr Programm hält, was es verspricht — vor der Akkreditierung, nicht während.",
+      "features": [
+        { "title": "Programmgesundheitsübersicht", "body": "Eine Ansicht des gesamten Programms: Lehrplanausrichtung, Ergebnisabdeckung, Studentenrisiko, Notenverteilung und Anwesenheitstrends." },
+        { "title": "Kontinuierliche Akkreditierungsbereitschaft", "body": "Jedes Lernergebnis verknüpft. Jede Bewertung nachverfolgbar. Jede Entscheidung durch Beweise gestützt." },
+        { "title": "Frühwarnsystem", "body": "Koordinatoren identifizieren gefährdete Studierende früher — und geben der Einrichtung Zeit einzugreifen, bevor Probleme zu Misserfolgen werden." },
+        { "title": "Lehrplankonsistenz", "body": "Lehrkräfte arbeiten mit gemeinsamen Rubriken und Lernergebnissen. Programmqualität hängt nicht mehr von individueller Interpretation ab." },
+        { "title": "Programmleistungs-Einblicke", "body": "Vergleichen Sie Module, Kohorten und Lernergebnisse. Identifizieren Sie Verbesserungsmöglichkeiten, bevor sie zu Qualitätsproblemen werden." }
+      ],
+      "result": "Wenn die Akkreditierung kommt, dauert die Vorbereitung Tage — nicht Monate. Studentenunterstützung wird proaktiv statt reaktiv. Qualitätsverbesserung wird institutionell."
+    },
+    {
+      "id": "coordinator",
+      "role": "Koordinator und Berater",
+      "tag": "",
+      "persona": "Fatima — SLB-Beraterin, 45 Beratene in zwei Kohorten",
+      "reality": "Studentenunterstützung ist oft reaktiv. Bis Warnsignale sichtbar werden, ist bereits wertvolle Zeit verloren gegangen. Noten-, Anwesenheits- und Progressionsdaten sind über mehrere Systeme verteilt, was es schwierig macht, ein vollständiges Bild jedes Studierenden zu erstellen.",
+      "headline": "Eingreifen, bevor Studierende scheitern. Nicht danach.",
+      "features": [
+        { "title": "Vollständiges Studentenprofil", "body": "Anwesenheit, Bewertungen, Lernergebnisfortschritt, Interventionen und Risikosignale an einem Ort. Ohne in mehreren Systemen zu suchen." },
+        { "title": "Risikosignale", "body": "Priorisierte Risikosignale helfen zu identifizieren, welche Studierenden jetzt Aufmerksamkeit benötigen, bevor kleine Probleme zu großen werden." },
+        { "title": "Progressionsüberprüfungs-Workflow", "body": "Ein strukturierter Workflow mit automatisch im Semester gesammelten Beweisen, der Progressionsentscheidungen transparent und verteidigbar macht." },
+        { "title": "Interventionsverfolgung", "body": "Interventionen aufzeichnen, Folgeaktionen zuweisen, Überprüfungsmomente planen und überwachen, ob die Unterstützung einen Unterschied macht." }
+      ],
+      "result": "Jedes Studentengespräch beginnt mit Einblick statt Verwaltung. Progressionsüberprüfung wird zu einem Überprüfungsprozess — nicht zu einer Sammelübung."
+    },
+    {
+      "id": "teacher",
+      "role": "Lehrkraft",
+      "tag": "",
+      "persona": "Martijn — Dozent, HRM, 3 aktive Klassen, 78 Studierende",
+      "reality": "Martijn verbringt jede Woche Stunden mit Verwaltung statt mit Unterrichten. Rubriken werden für jeden Kurs neu erstellt, und es ist schwierig, Studierende mit Schwierigkeiten zu identifizieren, bevor Probleme sichtbar werden.",
+      "headline": "Weniger Verwaltung. Mehr Unterrichten. Besserer Einblick in jeden Studierenden.",
+      "features": [
+        { "title": "Ein vernetzter Arbeitsbereich", "body": "Lehrplan, Unterrichtsplanung, Anwesenheit, Bewertung und Studentenfortschritt in einem vernetzten Arbeitsbereich." },
+        { "title": "Vernetzte Rubriken", "body": "Erstellen Sie Rubriken einmal, verbinden Sie sie mit Lernergebnissen und verwenden Sie sie in Modulen und Bewertungen wieder." },
+        { "title": "Integrierte Anwesenheit", "body": "Erfassen Sie die Anwesenheit direkt aus der Klassenansicht — verbunden mit den Risikosignalen der Studierenden, auf die sich Koordinatoren verlassen." },
+        { "title": "Vernetzte Benotung", "body": "Bewertungsergebnisse werden automatisch mit Rubrikkriterien und Lernergebnissen verknüpft und schaffen Nachweise der Studentenkompetenz statt isolierter Noten." },
+        { "title": "Automatischer Ergebnisnachweis", "body": "Wenn Lehrkräfte mit Rubriken benoten, wird die Ergebnisabdeckung automatisch erfasst. Kein separates Tracking, kein Berichtsaufwand. Die Akkreditierungsnachweise bauen sich von selbst auf." }
+      ],
+      "result": "Martijn hat mehr Zeit zum Unterrichten und bessere Einblicke in die Studierenden, die Unterstützung benötigen. Die Verbindungen zu Lehrplan, Ergebnissen und Qualität geschehen automatisch — weil er einfach in einer vernetzten Plattform unterrichtet."
+    },
+    {
+      "id": "curriculum-designer",
+      "role": "Lehrplandesigner",
+      "tag": "",
+      "persona": "Lena — Lehrplandesignerin, zentrales Bildungsentwicklungsteam",
+      "reality": "Lenas größte Frustration ist, dass das Lehrplandesign vom täglichen Unterricht abgekoppelt wird. Programmdokumente werden erstellt, genehmigt und gespeichert — aber sie kann nicht sehen, ob die beabsichtigten Lernergebnisse tatsächlich vermittelt und bewertet werden.",
+      "headline": "Lehrpläne gestalten, die verbunden bleiben — von der Absicht bis zum Nachweis.",
+      "features": [
+        { "title": "Lehrplan-Composer", "body": "Gestalten Sie Programme in einem lebendigen, vernetzten System — nicht in statischen Dokumenten." },
+        { "title": "Ergebniskartierung", "body": "Verbinden Sie Module, Aufgaben und Bewertungen mit Lernergebnissen. Erkennen Sie Lücken, bevor sie die Programmqualität beeinträchtigen." },
+        { "title": "Gemeinsame Rubrikbibliothek", "body": "Von Lehrplanexperten entworfene Rubriken fließen direkt in Unterricht und Bewertung ein. Keine Duplizierung. Keine Neuerfindung." },
+        { "title": "Lehrplaneffektivitätsansicht", "body": "Sehen Sie, ob Ihr Design tatsächlich die beabsichtigten Ergebnisse in der Praxis erzeugt hat." }
+      ],
+      "result": "Lenas Lehrplandesign wird zu einem lebendigen Vermögenswert. Sie verbessert Programme auf der Grundlage von Beweisen — nicht von Annahmen."
+    },
+    {
+      "id": "student",
+      "role": "Studierender",
+      "tag": "",
+      "persona": "Amir — Student im 2. Jahr Betriebswirtschaft",
+      "reality": "Amir besucht die meisten Vorlesungen, verliert aber den Überblick über Fristen. Er erhält Noten, versteht aber nicht immer, was sie bedeuten. Er ist irgendwo in der Mitte — weder scheitert er, noch gedeiht er — und erhält oft erst dann Aufmerksamkeit, wenn Probleme sichtbar werden.",
+      "headline": "Genau wissen, wo Sie stehen. Bevor es zum Problem wird.",
+      "features": [
+        { "title": "Ein Dashboard", "body": "Alle Aufgaben, Fristen, Noten und Fortschrittsindikatoren an einem Ort." },
+        { "title": "Ergebnisfortschritt", "body": "Sehen, welche Kompetenzen sich entwickeln — nicht nur Punkte." },
+        { "title": "Rubrikkriterien vor der Einreichung", "body": "Er weiß, wie \"gut\" aussieht, bevor er einreicht, nicht danach." },
+        { "title": "Frühes Bewusstsein", "body": "Wenn etwas schiefzulaufen beginnt, sieht Amir es früh — und weiß, welche Maßnahmen er ergreifen muss." }
+      ],
+      "result": "Amir hört auf, blind zu fliegen. Er weiß, was zu tun ist, was fällig ist und wie er vorankommt."
+    },
+    {
+      "id": "ict-manager",
+      "role": "IT-Manager",
+      "tag": "Technischer Eigentümer",
+      "persona": "Peter — Manager IT und digitale Infrastruktur",
+      "reality": "Peter hat zu viele Softwareprojekte gesehen, die mit Begeisterung gestartet und innerhalb eines Jahres aufgegeben wurden. Er ist nicht gegen Innovation. Er ist dafür verantwortlich, dass jede neue Plattform sicher, wartbar und langfristig wertvoll ist.",
+      "headline": "Eine vernetzte Plattform, die Komplexität reduziert — nicht ein weiteres System zu verwalten.",
+      "features": [
+        { "title": "Eine vernetzte Plattform", "body": "Eine Plattform, die Lehrplan, Unterricht und Bewertung verbindet und dabei neben bestehenden institutionellen Systemen arbeitet. Reduzieren Sie Fragmentierung, ohne einen vollständigen Ersatz Ihrer IT-Landschaft zu erzwingen." },
+        { "title": "Offene Integration", "body": "Sapiion verbindet sich mit bestehenden institutionellen Systemen über sichere APIs und Standard-Datenaustauschformate — SIS, Microsoft 365 und Identitätsanbieter. Konzipiert, um in Ihre bestehende Architektur zu passen, nicht um eine weitere isolierte Insel zu schaffen." },
+        { "title": "In der EU gehostet + DSGVO", "body": "Daten in der EU gespeichert. AVV und Sicherheitsdokumentation vor Beginn der Implementierung verfügbar." },
+        { "title": "Vollständige Datenisolierung", "body": "Jede Einrichtung betreibt ihre eigene sichere Datenumgebung. Institutionelle Daten werden niemals gemischt." },
+        { "title": "Kein Lock-in", "body": "Vollständiger Datenexport jederzeit. Immer." },
+        { "title": "Kontrollierte Implementierung", "body": "Beginnen Sie mit einem Programm, validieren Sie Akzeptanz und Arbeitsabläufe, dann skalieren Sie schrittweise auf die gesamte Einrichtung." }
+      ],
+      "result": "Peter kann den AVV mit Zuversicht unterzeichnen. Das Implementierungsrisiko ist kontrolliert. Die Akzeptanz wird unterstützt, weil jede Rolle von Tag eins an einen klaren Mehrwert erhält."
+    }
+  ]
+}
