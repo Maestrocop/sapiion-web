@@ -17,6 +17,8 @@ export default function ContactPage() {
   const promiseItems = t('promise.items', { returnObjects: true });
   const faqItems = t('faq.items', { returnObjects: true });
   const expectSteps = t('expect.steps', { returnObjects: true });
+  const publicDemo = t('options.publicDemo', { returnObjects: true });
+  const guidedPilot = t('options.guidedPilot', { returnObjects: true });
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -59,6 +61,37 @@ export default function ContactPage() {
         </div>
       </section>
 
+      {/* TWO OPTIONS */}
+      <section className="py-14 px-6 bg-white border-b border-slate-100">
+        <div className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+          {/* Public Demo */}
+          <div className="rounded-2xl border border-slate-200 p-7 flex flex-col gap-4">
+            <span className="text-xs font-semibold text-slate-400 uppercase tracking-widest">{publicDemo.badge}</span>
+            <h2 className="text-lg font-semibold text-navy-900 leading-snug">{publicDemo.title}</h2>
+            <p className="text-slate-600 text-sm leading-relaxed flex-1">{publicDemo.body}</p>
+            <a
+              href="https://demo.sapiion.ai"
+              className="inline-flex items-center gap-1.5 text-sm font-semibold text-navy-900 border border-navy-900 rounded-lg px-4 py-2.5 hover:bg-navy-900 hover:text-white transition-colors"
+            >
+              {publicDemo.cta} →
+            </a>
+          </div>
+
+          {/* Guided Pilot */}
+          <div className="rounded-2xl border-2 border-navy-900 bg-navy-900 p-7 flex flex-col gap-4">
+            <span className="text-xs font-semibold text-brand-accent uppercase tracking-widest">{guidedPilot.badge}</span>
+            <h2 className="text-lg font-semibold text-white leading-snug">{guidedPilot.title}</h2>
+            <p className="text-slate-300 text-sm leading-relaxed flex-1">{guidedPilot.body}</p>
+            <a
+              href="#pilot-form"
+              className="inline-flex items-center gap-1.5 text-sm font-semibold bg-white text-navy-900 rounded-lg px-4 py-2.5 hover:bg-slate-100 transition-colors"
+            >
+              {guidedPilot.cta} →
+            </a>
+          </div>
+        </div>
+      </section>
+
       {/* WHAT TO EXPECT */}
       <section className="py-14 px-6 bg-white border-b border-slate-100">
         <div className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -72,7 +105,7 @@ export default function ContactPage() {
       </section>
 
       {/* FORM */}
-      <section className="py-16 px-6 bg-slate-50">
+      <section id="pilot-form" className="py-16 px-6 bg-slate-50">
         <div className="max-w-xl mx-auto">
           {sent ? (
             <div className="bg-white rounded-2xl p-10 border border-slate-100 text-center">

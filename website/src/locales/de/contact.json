@@ -7,6 +7,20 @@
     "stat2": "Keine Folien.",
     "stat3": "Nur die Plattform."
   },
+  "options": {
+    "publicDemo": {
+      "badge": "Selbstbedienung",
+      "title": "Testen Sie die öffentliche Demo",
+      "body": "Entdecken Sie Sapiion mit einer realistischen Demo-Einrichtung. Keine Registrierung. Keine Verpflichtung.",
+      "cta": "Demo testen"
+    },
+    "guidedPilot": {
+      "badge": "Für ernsthafte Evaluierungen",
+      "title": "Sehen Sie Ihr eigenes Programm in Sapiion",
+      "body": "Wir konfigurieren eine temporäre Umgebung mit Ihrem Lehrplan, Ihrer Programmstruktur und Ihrem Bewertungsansatz. Ihr Team evaluiert Sapiion in Ihrem eigenen Kontext.",
+      "cta": "Geführten Piloten buchen"
+    }
+  },
   "expect": {
     "steps": [
       {

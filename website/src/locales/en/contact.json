@@ -7,6 +7,20 @@
     "stat2": "No slides.",
     "stat3": "Just the platform."
   },
+  "options": {
+    "publicDemo": {
+      "badge": "Self-service",
+      "title": "Try the public demo",
+      "body": "Explore Sapiion with a realistic demo institution. No sign-up. No commitment.",
+      "cta": "Try the demo"
+    },
+    "guidedPilot": {
+      "badge": "For serious evaluations",
+      "title": "See your own programme inside Sapiion",
+      "body": "We configure a temporary environment using your curriculum, programme structure and assessment approach. Your team evaluates Sapiion in your own context.",
+      "cta": "Book a guided pilot"
+    }
+  },
   "expect": {
     "steps": [
       {
