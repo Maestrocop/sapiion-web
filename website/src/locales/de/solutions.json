@@ -51,15 +51,16 @@
       "tag": "",
       "persona": "Ahmed — Praktikumskoordinator, 3 Programme, 120 Studierende im Praktikum",
       "reality": "Die Koordination von Praktika erfordert unzählige E-Mails, Tabellen und Telefongespräche. Studierende haben Schwierigkeiten, Praktikumsplätze zu finden, Betreuer haben keinen Überblick über den Fortschritt und wichtige Dokumente sind über mehrere Systeme verteilt. Dutzende von Praktika gleichzeitig zu überwachen ist zeitaufwendig und macht es schwierig, Studierende, die Unterstützung benötigen, rechtzeitig zu identifizieren.",
-      "headline": "Verbinden Sie Studierende, Unternehmen und Lehrende in einem gemeinsamen Praktikums-Workflow.",
+      "headline": "Verwandeln Sie betriebliches Lernen in institutionelles Wissen.",
       "features": [
-        { "title": "Praktikumsplatzvermittlung", "body": "Begleiten Sie Studierende von der Bewerbung bis zur Vermittlung mit einem strukturierten Workflow für Lebensläufe, Motivationsschreiben, Unternehmensanfragen und Genehmigungen." },
-        { "title": "Live-Praktikumsüberwachung", "body": "Überwachen Sie Aktivitätsprotokolle, Betreuerengagement und Studierendenfortschritt in Echtzeit. Identifizieren Sie automatisch Praktika, die Aufmerksamkeit erfordern." },
-        { "title": "Vernetzte Betreuung", "body": "Lehrende, Praktikumskoordinatoren, betriebliche Betreuer und Studierende arbeiten alle innerhalb derselben Plattform, wodurch der Verwaltungsaufwand reduziert und die Kommunikation verbessert wird." },
+        { "title": "Praktikums-Lifecycle-Management", "body": "Begleiten Sie Studierende von der Vorbereitung und Unternehmensanfragen über die Vermittlung, Durchführung und Betreuung bis zur abschließenden Bewertung in einem strukturierten Workflow." },
+        { "title": "Live-Praktikumsüberwachung", "body": "Überwachen Sie Aktivitätsprotokolle, Betreuerengagement und Studierendenfortschritt bei allen Praktika in Echtzeit. Ein Überblick über jedes aktive Praktikum, kontinuierlich aktualisiert." },
+        { "title": "Frühzeitige Intervention", "body": "Identifizieren Sie automatisch Studierende mit geringer Aktivität, fehlendem Betreuerengagement oder verzögertem Fortschritt, damit Unterstützung geleistet werden kann, bevor Praktika gefährdet sind." },
+        { "title": "Vernetzte Betreuung", "body": "Lehrende, Praktikumskoordinatoren, betriebliche Betreuer und Studierende arbeiten gemeinsam am selben Studierendenprofil und stellen sicher, dass alle mit denselben Informationen arbeiten und Missverständnisse reduziert werden." },
         { "title": "Beweissammlung", "body": "Aktivitätsprotokolle, Reflexionen, betriebliche Bewertungen und Betreuer-Feedback werden kontinuierlich erfasst und mit Lernergebnissen verknüpft." },
-        { "title": "Arbeitsmarktintelligenz", "body": "Aggregieren Sie Praktikumsdaten aus Unternehmen und Kohorten, um Branchentrends, Kompetenzlücken und Möglichkeiten zur Lehrplanverbesserung zu identifizieren." }
+        { "title": "Arbeitsmarktintelligenz", "body": "Analysieren Sie Praktikumsaktivitäten in Unternehmen, Branchen und Kohorten, um aufkommende Kompetenzen, Arbeitgebererwartungen und Lehrplanlücken sichtbar zu machen — und jede Vermittlung in Beweise für das Programm von morgen zu verwandeln." }
       ],
-      "result": "Praktika werden zu einem gesteuerten Bildungsprozess statt zu einer administrativen Last, während jede Vermittlung sowohl den Studienerfolg als auch die zukünftige Lehrplangestaltung stärkt."
+      "result": "Betriebliches Lernen wird zu einem integrierten Teil der Ausbildung — kein separater Verwaltungsprozess mehr. Jedes Praktikum unterstützt die Entwicklung der Studierenden und liefert gleichzeitig Beweise, die helfen, das Curriculum von morgen zu verbessern."
     },
     {
       "id": "teacher",

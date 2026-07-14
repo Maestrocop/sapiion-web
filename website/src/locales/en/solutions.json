@@ -51,15 +51,16 @@
       "tag": "",
       "persona": "Ahmed — Internship Coordinator, 3 programmes, 120 students on placement",
       "reality": "Coordinating internships involves countless emails, spreadsheets and phone calls. Students struggle to find placements, supervisors lack visibility into progress, and important documents are scattered across multiple systems. Monitoring dozens of internships simultaneously is time-consuming, making it difficult to identify students who need support before problems escalate.",
-      "headline": "Connect students, companies and teachers through one shared workplace learning workflow.",
+      "headline": "Transform workplace learning into institutional knowledge.",
       "features": [
-        { "title": "Placement management", "body": "Guide students from application to placement with a structured workflow for CVs, motivation letters, company applications and approvals." },
-        { "title": "Live internship monitoring", "body": "Monitor activity logs, supervisor engagement and student progress in real time. Automatically identify internships that require attention." },
-        { "title": "Connected supervision", "body": "Teachers, internship coordinators, workplace supervisors and students all work within the same platform, reducing administrative overhead and improving communication." },
+        { "title": "Internship lifecycle management", "body": "Guide students from preparation and company applications through placement, execution, supervision and final evaluation in one structured workflow." },
+        { "title": "Live internship monitoring", "body": "Monitor activity logs, supervisor engagement and student progress across all placements in real time. One view of every active internship, updated continuously." },
+        { "title": "Early intervention", "body": "Automatically identify students with low activity, missing supervisor engagement or delayed progress so support can be provided before placements are at risk." },
+        { "title": "Connected supervision", "body": "Teachers, internship coordinators, workplace supervisors and students collaborate around the same student record, ensuring everyone works from the same information and reducing miscommunication." },
         { "title": "Evidence collection", "body": "Activity logs, reflections, workplace assessments and supervisor feedback are continuously captured and linked to learning outcomes." },
-        { "title": "Workplace intelligence", "body": "Aggregate internship data across companies and cohorts to identify industry trends, competency gaps and opportunities for curriculum improvement." }
+        { "title": "Workplace intelligence", "body": "Analyse internship activity across companies, sectors and cohorts to surface emerging competencies, employer expectations and curriculum gaps — turning every placement into evidence for tomorrow's programme design." }
       ],
-      "result": "Internships become a managed educational process instead of an administrative burden, while every placement strengthens both student success and future curriculum design."
+      "result": "Workplace learning becomes an integrated part of education — not a separate administrative process. Every internship supports the student's development while providing evidence that helps improve tomorrow's curriculum."
     },
     {
       "id": "teacher",
