@@ -1,4 +1,9 @@
 {
+  "manifesto": {
+    "quoteA": "La qualité éducative ne s'améliore pas grâce aux bonnes idées seules.",
+    "quoteB": "Elle s'améliore quand les bonnes idées deviennent partie intégrante de la pratique quotidienne.",
+    "sub": "Sapiion existe pour faire de l'amélioration continue une partie de l'éducation quotidienne."
+  },
   "hero": {
     "h1a": "Les établissements n'ont pas besoin de plus de logiciels.",
     "h1b": "Ils en ont besoin de moins,",
@@ -56,7 +61,7 @@
       "Planification des cours",
       "Évaluation et notation",
       "Résultats d'apprentissage",
-      "Stages et apprentissage en entreprise",
+      "Intelligence de l'apprentissage en entreprise",
       "Progression des étudiants",
       "Suivi du programme",
       "Signaux du coordinateur",
@@ -64,7 +69,8 @@
     ],
     "connectedBy": "◆ Tout connecté par Sapiion — non pas comme une séquence, mais comme une boucle fermée. Chaque étape génère des preuves. Ces preuves alimentent l'étape suivante — et finalement se réinjectent dans l'amélioration du programme.",
     "connectedBy2": "L'apprentissage en entreprise ne s'arrête pas quand l'étudiant retourne sur le campus. Chaque placement génère des preuves sur les attentes des employeurs, les compétences émergentes et les lacunes en compétences, alimentant directement l'amélioration future du programme.",
-    "employersNote": "Sapiion connecte non seulement l'établissement, mais aussi les tuteurs en entreprise et les partenaires industriels — permettant à l'apprentissage en entreprise de devenir une partie intégrée de la qualité éducative."
+    "employersNote": "Sapiion connecte non seulement l'établissement, mais aussi les tuteurs en entreprise et les partenaires industriels — permettant à l'apprentissage en entreprise de devenir une partie intégrée de la qualité éducative.",
+    "teacherNote": "Sapiion n'ajoute pas une autre couche administrative pour les enseignants. Il supprime la fragmentation qui oblige les enseignants à gérer l'éducation à travers des systèmes déconnectés."
   },
   "whereFits": {
     "label": "Où s'intègre Sapiion",

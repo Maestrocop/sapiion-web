@@ -88,11 +88,11 @@
   },
   "notLms": {
     "h2": "Dit is geen Learning Management System (LMS).",
-    "body": "Traditionele LMS-platforms richten zich op contentlevering en cursusadministratie. Sapiion verbindt curriculum, onderwijs, toetsing en institutionele kwaliteit in één doorlopende verbeteringscyclus. Dat is een ander vraagstuk — en een ander soort platform.",
+    "body": "Traditionele LMS-platforms richten zich op contentlevering en cursusadministratie. Sapiion verbindt curriculum, onderwijs, toetsing, werkplekleren en institutionele kwaliteit in één gesloten verbeteringscyclus. Dat is een ander vraagstuk — en een ander soort platform.",
     "lmsLabel": "Traditioneel LMS",
     "lmsFlow": "Inhoud → Opdracht → Cijfer",
     "sapiionLabel": "Sapiion",
-    "sapiionFlow": "Intentie → Ontwerp → Bewijs → Beheersing → Verbetering",
+    "sapiionFlow": "Curriculumontwerp → Onderwijs → Toetsing → Studentsucces → Werkplekleren → Onderwijsintelligentie → Curriculumverbetering → ↺",
     "readMore": "Lees de volledige vergelijking →"
   },
   "trust": {

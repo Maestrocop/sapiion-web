@@ -88,11 +88,11 @@
   },
   "notLms": {
     "h2": "This is not a Learning Management System (LMS).",
-    "body": "Traditional LMS platforms focus on content delivery and course administration. Sapiion connects curriculum, teaching, assessment and institutional quality into one continuous improvement cycle. That is a different problem — and a different kind of platform.",
+    "body": "Traditional LMS platforms focus on content delivery and course administration. Sapiion connects curriculum, teaching, assessment, workplace learning and institutional quality into one closed improvement loop. That is a different problem — and a different kind of platform.",
     "lmsLabel": "Traditional LMS",
     "lmsFlow": "Content → Assignment → Grade",
     "sapiionLabel": "Sapiion",
-    "sapiionFlow": "Intent → Design → Evidence → Mastery → Improvement",
+    "sapiionFlow": "Curriculum Design → Teaching → Assessment → Student Success → Workplace Learning → Educational Intelligence → Curriculum Improvement → ↺",
     "readMore": "Read the full comparison →"
   },
   "trust": {
