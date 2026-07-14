@@ -62,7 +62,9 @@
       "Signaux du coordinateur",
       "Assurance qualité"
     ],
-    "connectedBy": "◆ Tout connecté par Sapiion — dans un cycle d'amélioration continue. Les données d'apprentissage en entreprise alimentent la conception curriculaire, fermant la boucle entre l'éducation et le marché du travail."
+    "connectedBy": "◆ Tout connecté par Sapiion — non pas comme une séquence, mais comme une boucle fermée. Chaque étape génère des preuves. Ces preuves alimentent l'étape suivante — et finalement se réinjectent dans l'amélioration du programme.",
+    "connectedBy2": "L'apprentissage en entreprise ne s'arrête pas quand l'étudiant retourne sur le campus. Chaque placement génère des preuves sur les attentes des employeurs, les compétences émergentes et les lacunes en compétences, alimentant directement l'amélioration future du programme.",
+    "employersNote": "Sapiion connecte non seulement l'établissement, mais aussi les tuteurs en entreprise et les partenaires industriels — permettant à l'apprentissage en entreprise de devenir une partie intégrée de la qualité éducative."
   },
   "whereFits": {
     "label": "Où s'intègre Sapiion",
@@ -91,7 +93,7 @@
     "lmsQ": "\"L'étudiant a-t-il rendu son travail ?\"",
     "sapiionLabel": "Sapiion demande",
     "sapiionQ": "\"L'étudiant a-t-il développé la compétence visée — et comment le savons-nous ?\"",
-    "footer": "Cette question change tout sur la façon dont une plateforme est construite. Un LMS fait <strong>Contenu → Devoir → Note</strong>. Sapiion fait <strong>Intention curriculaire → Enseignement → Évaluation → Réussite étudiante → Apprentissage en entreprise → Intelligence du marché du travail → Amélioration curriculaire</strong>. Aucun LMS ne collecte les données d'apprentissage en entreprise de manière structurée et connectée. Sapiion le fait — ce qui signifie que les établissements peuvent répondre à des questions telles que : Quelles compétences les employeurs demandent-ils plus souvent ? Quels modules doivent être mis à jour ? Quelles lacunes apparaissent régulièrement dans les entreprises ?"
+    "footer": "Cette question change tout sur la façon dont une plateforme est construite. Un LMS fait <strong>Contenu → Devoir → Note</strong>. Sapiion fait tourner une boucle d'amélioration fermée : <strong>Conception curriculaire → Enseignement → Évaluation → Réussite étudiante → Apprentissage en entreprise → Intelligence éducative → Amélioration curriculaire → (répétition)</strong>. Chaque étape génère des preuves. Ces preuves alimentent l'étape suivante. La boucle ne s'arrête jamais. Aucun LMS, SIS ou plateforme de stage autonome ne peut affirmer cela — et cela signifie que les établissements peuvent répondre à des questions qui n'étaient jamais possibles auparavant : Quelles compétences les employeurs demandent-ils plus souvent ? Quels modules doivent être mis à jour ? Quelles lacunes apparaissent régulièrement dans les entreprises ?"
   },
   "vsSis": {
     "h2": "Sapiion n'est pas un système d'administration des étudiants.",
@@ -106,7 +108,7 @@
     "mostAiQ": "\"Commencent sans connaissance de votre contexte éducatif spécifique.\"",
     "sapiionLabel": "Sapiion",
     "sapiionQ": "\"Applique l'IA dans votre programme, vos résultats, vos critères d'évaluation, la progression de vos étudiants.\"",
-    "body2": "Parce que Sapiion comprend déjà votre structure éducative, l'IA peut soutenir des décisions significatives — au lieu de générer du contenu déconnecté.",
+    "body2": "Parce que Sapiion comprend déjà votre programme, vos résultats d'apprentissage, vos évaluations, l'apprentissage en entreprise et la progression de vos étudiants, l'IA peut soutenir des décisions éducatives significatives — au lieu de générer du contenu déconnecté.",
     "teachersLabel": "Pour les enseignants",
     "teacherItems": [
       "Créer des évaluations alignées sur les résultats plus rapidement",
@@ -162,6 +164,18 @@
       "Intégration Microsoft 365",
       "Fournisseurs d'identité supplémentaires"
     ]
+  },
+  "internshipCallout": {
+    "h2": "Chaque stage améliore le programme de demain.",
+    "body1": "Les systèmes traditionnels traitent les stages comme une exigence administrative.",
+    "body2": "Sapiion traite chaque stage comme une preuve éducative.",
+    "items": ["Réflexions étudiantes", "Feedback des tuteurs", "Journaux d'activité", "Évaluations en entreprise", "Attentes des employeurs"],
+    "footer": "Ensemble, ils créent une connaissance institutionnelle qui aide les équipes curriculaires à maintenir l'éducation alignée avec le marché du travail en évolution."
+  },
+  "livingSystem": {
+    "h2": "L'éducation est un système vivant.",
+    "lines": ["Les secteurs évoluent.", "Les compétences changent.", "De nouvelles technologies émergent.", "Les programmes éducatifs ne peuvent pas rester statiques."],
+    "body": "Sapiion connecte en permanence les preuves de la classe, l'apprentissage en entreprise, le développement des étudiants et l'intelligence du programme — permettant aux établissements d'améliorer non seulement comment ils enseignent, mais aussi ce qu'ils enseignent."
   },
   "cta": {
     "h2": "Prêt à voir à quoi ressemble une éducation connectée ?",

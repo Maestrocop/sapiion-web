@@ -62,7 +62,9 @@
       "Coordinator signals",
       "Quality assurance"
     ],
-    "connectedBy": "◆ All connected by Sapiion — in one continuous improvement cycle. Workplace learning data feeds back into curriculum design, closing the loop between education and the labour market."
+    "connectedBy": "◆ All connected by Sapiion — not as a sequence, but as a closed loop. Every stage generates evidence. That evidence feeds the next stage — and ultimately feeds back into curriculum improvement.",
+    "connectedBy2": "Workplace learning does not end when the student returns to campus. Every placement generates evidence about employer expectations, emerging competencies and skills gaps, feeding directly into future curriculum improvement.",
+    "employersNote": "Sapiion connects not only the institution, but also workplace supervisors and industry partners — allowing workplace learning to become an integrated part of educational quality."
   },
   "whereFits": {
     "label": "Where Sapiion fits",
@@ -91,7 +93,7 @@
     "lmsQ": "\"Did the student submit?\"",
     "sapiionLabel": "Sapiion asks",
     "sapiionQ": "\"Did the student develop the intended competency — and how do we know?\"",
-    "footer": "That question changes everything about how a platform is built. An LMS does <strong>Content → Assignment → Grade</strong>. Sapiion does <strong>Curriculum Intent → Teaching → Assessment → Student Success → Workplace Learning → Industry Intelligence → Curriculum Improvement</strong>. No LMS collects workplace learning data in a structured, connected way. Sapiion does — and that means institutions can answer questions like: Which competencies are employers requesting more often? Which modules need updating? Which skills gaps appear consistently across companies?"
+    "footer": "That question changes everything about how a platform is built. An LMS does <strong>Content → Assignment → Grade</strong>. Sapiion runs a closed improvement loop: <strong>Curriculum Design → Teaching → Assessment → Student Success → Workplace Learning → Educational Intelligence → Curriculum Improvement → (repeat)</strong>. Every stage generates evidence. That evidence feeds the next stage. The loop never stops. No LMS, SIS or standalone internship platform can claim that — and that means institutions can answer questions that were never possible before: Which competencies are employers requesting more often? Which modules need updating? Which skills gaps appear consistently across companies?"
   },
   "vsSis": {
     "h2": "Sapiion is not a student administration system.",
@@ -106,7 +108,7 @@
     "mostAiQ": "\"Start without knowledge of your specific educational context.\"",
     "sapiionLabel": "Sapiion",
     "sapiionQ": "\"Applies AI within your curriculum, your outcomes, your assessment criteria, your students' progress.\"",
-    "body2": "Because Sapiion already understands your educational structure, AI can support meaningful decisions — instead of generating disconnected content.",
+    "body2": "Because Sapiion already understands your curriculum, learning outcomes, assessments, workplace learning and student progress, AI can support meaningful educational decisions — instead of generating disconnected content.",
     "teachersLabel": "For teachers",
     "teacherItems": [
       "Create outcome-aligned assessments faster",
@@ -162,6 +164,18 @@
       "Microsoft 365 integration",
       "Additional identity providers"
     ]
+  },
+  "internshipCallout": {
+    "h2": "Every internship improves tomorrow's curriculum.",
+    "body1": "Traditional systems treat internships as an administrative requirement.",
+    "body2": "Sapiion treats every internship as educational evidence.",
+    "items": ["Student reflections", "Supervisor feedback", "Activity logs", "Workplace assessments", "Employer expectations"],
+    "footer": "Together they create institutional knowledge that helps curriculum teams keep education aligned with the changing labour market."
+  },
+  "livingSystem": {
+    "h2": "Education is a living system.",
+    "lines": ["Industries evolve.", "Skills change.", "New technologies emerge.", "Educational programmes cannot remain static."],
+    "body": "Sapiion continuously connects classroom evidence, workplace learning, student development and programme intelligence — enabling institutions to improve not only how they teach, but also what they teach."
   },
   "cta": {
     "h2": "Ready to see what connected education looks like?",

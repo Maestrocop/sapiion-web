@@ -62,7 +62,9 @@
       "Koordinatorsignale",
       "Qualitätssicherung"
     ],
-    "connectedBy": "◆ Alles verbunden durch Sapiion — in einem kontinuierlichen Verbesserungszyklus. Daten aus dem arbeitsbasierten Lernen fließen zurück in die Lehrplangestaltung und schließen den Kreislauf zwischen Bildung und Arbeitsmarkt."
+    "connectedBy": "◆ Alles verbunden durch Sapiion — nicht als Sequenz, sondern als geschlossener Kreislauf. Jede Stufe generiert Beweise. Diese Beweise speisen die nächste Stufe — und fließen schließlich in die Lehrplanverbesserung zurück.",
+    "connectedBy2": "Arbeitsbasiertes Lernen endet nicht, wenn der Studierende auf den Campus zurückkehrt. Jede Vermittlung generiert Beweise über Arbeitgebererwartungen, aufkommende Kompetenzen und Kompetenzlücken, die direkt in die zukünftige Lehrplanverbesserung einfließen.",
+    "employersNote": "Sapiion verbindet nicht nur die Einrichtung, sondern auch Betriebsbetreuer und Branchenpartner — und ermöglicht es dem arbeitsbasierten Lernen, ein integrierter Bestandteil der Bildungsqualität zu werden."
   },
   "whereFits": {
     "label": "Wo Sapiion passt",
@@ -91,7 +93,7 @@
     "lmsQ": "\"Hat der Student abgegeben?\"",
     "sapiionLabel": "Sapiion fragt",
     "sapiionQ": "\"Hat der Student die beabsichtigte Kompetenz entwickelt — und woher wissen wir das?\"",
-    "footer": "Diese Frage verändert alles, wie eine Plattform gebaut wird. Ein LMS macht <strong>Inhalt → Aufgabe → Note</strong>. Sapiion macht <strong>Lehrplanabsicht → Unterricht → Bewertung → Studienerfolg → Arbeitsbasiertes Lernen → Arbeitsmarktintelligenz → Lehrplanverbesserung</strong>. Kein LMS sammelt Daten aus dem arbeitsbasierten Lernen auf strukturierte, vernetzte Weise. Sapiion schon — und das bedeutet, dass Einrichtungen Fragen beantworten können wie: Welche Kompetenzen fordern Arbeitgeber häufiger? Welche Module müssen aktualisiert werden? Welche Kompetenzlücken treten bei Unternehmen konsistent auf?"
+    "footer": "Diese Frage verändert alles, wie eine Plattform gebaut wird. Ein LMS macht <strong>Inhalt → Aufgabe → Note</strong>. Sapiion betreibt einen geschlossenen Verbesserungskreislauf: <strong>Lehrplangestaltung → Unterricht → Bewertung → Studienerfolg → Arbeitsbasiertes Lernen → Bildungsintelligenz → Lehrplanverbesserung → (Wiederholung)</strong>. Jede Stufe generiert Beweise. Diese Beweise speisen die nächste Stufe. Der Kreislauf hört nie auf. Kein LMS, SIS oder eigenständiges Praktikumsplattform kann das behaupten — und das bedeutet, dass Einrichtungen Fragen beantworten können, die zuvor nie möglich waren: Welche Kompetenzen fordern Arbeitgeber häufiger? Welche Module müssen aktualisiert werden? Welche Kompetenzlücken treten bei Unternehmen konsistent auf?"
   },
   "vsSis": {
     "h2": "Sapiion ist kein Studentenverwaltungssystem.",
@@ -106,7 +108,7 @@
     "mostAiQ": "\"Beginnen ohne Kenntnis Ihres spezifischen Bildungskontexts.\"",
     "sapiionLabel": "Sapiion",
     "sapiionQ": "\"Wendet KI in Ihrem Lehrplan, Ihren Ergebnissen, Ihren Bewertungskriterien, dem Fortschritt Ihrer Studierenden an.\"",
-    "body2": "Da Sapiion Ihre Bildungsstruktur bereits versteht, kann KI bedeutungsvolle Entscheidungen unterstützen — anstatt unverbundene Inhalte zu generieren.",
+    "body2": "Da Sapiion Ihren Lehrplan, Ihre Lernergebnisse, Ihre Bewertungen, das arbeitsbasierte Lernen und den Studentenfortschritt bereits versteht, kann KI bedeutungsvolle Bildungsentscheidungen unterstützen — anstatt unverbundene Inhalte zu generieren.",
     "teachersLabel": "Für Lehrkräfte",
     "teacherItems": [
       "Ergebnisorientierte Bewertungen schneller erstellen",
@@ -162,6 +164,18 @@
       "Microsoft 365-Integration",
       "Weitere Identitätsanbieter"
     ]
+  },
+  "internshipCallout": {
+    "h2": "Jedes Praktikum verbessert das Curriculum von morgen.",
+    "body1": "Traditionelle Systeme behandeln Praktika als administrative Anforderung.",
+    "body2": "Sapiion behandelt jedes Praktikum als Bildungsnachweis.",
+    "items": ["Studentenreflexionen", "Betreuerfeedback", "Aktivitätsprotokolle", "Betriebliche Bewertungen", "Arbeitgebererwartungen"],
+    "footer": "Zusammen schaffen sie institutionelles Wissen, das Lehrplanteams hilft, die Bildung an den sich wandelnden Arbeitsmarkt anzupassen."
+  },
+  "livingSystem": {
+    "h2": "Bildung ist ein lebendes System.",
+    "lines": ["Branchen entwickeln sich.", "Fähigkeiten verändern sich.", "Neue Technologien entstehen.", "Bildungsprogramme können nicht statisch bleiben."],
+    "body": "Sapiion verbindet kontinuierlich Unterrichtsnachweise, arbeitsbasiertes Lernen, Studentenentwicklung und Programmintelligenz — und ermöglicht es Einrichtungen, nicht nur zu verbessern, wie sie unterrichten, sondern auch was sie unterrichten."
   },
   "cta": {
     "h2": "Bereit zu sehen, wie vernetzte Bildung aussieht?",

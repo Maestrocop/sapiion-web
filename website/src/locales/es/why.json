@@ -62,7 +62,9 @@
       "Señales del coordinador",
       "Garantía de calidad"
     ],
-    "connectedBy": "◆ Todo conectado por Sapiion — en un ciclo continuo de mejora. Los datos de aprendizaje en el trabajo se retroalimentan en el diseño curricular, cerrando el ciclo entre la educación y el mercado laboral."
+    "connectedBy": "◆ Todo conectado por Sapiion — no como una secuencia, sino como un bucle cerrado. Cada etapa genera evidencia. Esa evidencia alimenta la siguiente etapa — y en última instancia se retroalimenta en la mejora curricular.",
+    "connectedBy2": "El aprendizaje en el trabajo no termina cuando el estudiante regresa al campus. Cada colocación genera evidencia sobre las expectativas de los empleadores, las competencias emergentes y las brechas de habilidades, alimentando directamente la mejora curricular futura.",
+    "employersNote": "Sapiion conecta no solo la institución, sino también los supervisores en el lugar de trabajo y los socios del sector — permitiendo que el aprendizaje en el trabajo se convierta en una parte integrada de la calidad educativa."
   },
   "whereFits": {
     "label": "Dónde encaja Sapiion",
@@ -91,7 +93,7 @@
     "lmsQ": "\"¿El estudiante entregó?\"",
     "sapiionLabel": "Sapiion pregunta",
     "sapiionQ": "\"¿El estudiante desarrolló la competencia prevista — y cómo lo sabemos?\"",
-    "footer": "Esa pregunta cambia todo sobre cómo se construye una plataforma. Un LMS hace <strong>Contenido → Tarea → Nota</strong>. Sapiion hace <strong>Intención Curricular → Enseñanza → Evaluación → Éxito Estudiantil → Aprendizaje en el Trabajo → Inteligencia del Mercado Laboral → Mejora Curricular</strong>. Ningún LMS recopila datos de aprendizaje en el trabajo de forma estructurada y conectada. Sapiion sí — y eso significa que las instituciones pueden responder preguntas como: ¿Qué competencias solicitan los empleadores con más frecuencia? ¿Qué módulos necesitan actualizarse? ¿Qué brechas de habilidades aparecen consistentemente en las empresas?"
+    "footer": "Esa pregunta cambia todo sobre cómo se construye una plataforma. Un LMS hace <strong>Contenido → Tarea → Nota</strong>. Sapiion ejecuta un bucle de mejora cerrado: <strong>Diseño Curricular → Enseñanza → Evaluación → Éxito Estudiantil → Aprendizaje en el Trabajo → Inteligencia Educativa → Mejora Curricular → (repetición)</strong>. Cada etapa genera evidencia. Esa evidencia alimenta la siguiente etapa. El bucle nunca se detiene. Ningún LMS, SIS o plataforma de prácticas independiente puede afirmar eso — y eso significa que las instituciones pueden responder preguntas que nunca fueron posibles antes: ¿Qué competencias solicitan los empleadores con más frecuencia? ¿Qué módulos necesitan actualizarse? ¿Qué brechas de habilidades aparecen consistentemente en las empresas?"
   },
   "vsSis": {
     "h2": "Sapiion no es un sistema de administración de estudiantes.",
@@ -106,7 +108,7 @@
     "mostAiQ": "\"Comienzan sin conocimiento de su contexto educativo específico.\"",
     "sapiionLabel": "Sapiion",
     "sapiionQ": "\"Aplica la IA dentro de su currículo, sus resultados, sus criterios de evaluación, el progreso de sus estudiantes.\"",
-    "body2": "Dado que Sapiion ya comprende su estructura educativa, la IA puede apoyar decisiones significativas — en lugar de generar contenido desconectado.",
+    "body2": "Dado que Sapiion ya comprende su currículo, sus resultados de aprendizaje, sus evaluaciones, el aprendizaje en el trabajo y el progreso de sus estudiantes, la IA puede apoyar decisiones educativas significativas — en lugar de generar contenido desconectado.",
     "teachersLabel": "Para los profesores",
     "teacherItems": [
       "Crear evaluaciones alineadas con los resultados más rápidamente",
@@ -162,6 +164,18 @@
       "Integración con Microsoft 365",
       "Proveedores de identidad adicionales"
     ]
+  },
+  "internshipCallout": {
+    "h2": "Cada práctica mejora el currículo de mañana.",
+    "body1": "Los sistemas tradicionales tratan las prácticas como un requisito administrativo.",
+    "body2": "Sapiion trata cada práctica como evidencia educativa.",
+    "items": ["Reflexiones de estudiantes", "Feedback de supervisores", "Registros de actividad", "Evaluaciones en el lugar de trabajo", "Expectativas de los empleadores"],
+    "footer": "Juntos crean conocimiento institucional que ayuda a los equipos curriculares a mantener la educación alineada con el mercado laboral en evolución."
+  },
+  "livingSystem": {
+    "h2": "La educación es un sistema vivo.",
+    "lines": ["Los sectores evolucionan.", "Las habilidades cambian.", "Emergen nuevas tecnologías.", "Los programas educativos no pueden permanecer estáticos."],
+    "body": "Sapiion conecta continuamente la evidencia del aula, el aprendizaje en el trabajo, el desarrollo estudiantil y la inteligencia del programa — permitiendo a las instituciones mejorar no solo cómo enseñan, sino también qué enseñan."
   },
   "cta": {
     "h2": "¿Listo para ver cómo se ve la educación conectada?",

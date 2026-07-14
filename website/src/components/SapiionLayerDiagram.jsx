@@ -2,7 +2,7 @@ const layers = [
   { num: 1, label: 'Curriculum Design',      sub: 'Intent' },
   { num: 2, label: 'Teaching Delivery',       sub: 'Practice' },
   { num: 3, label: 'Assessment',              sub: 'Evidence' },
-  { num: 4, label: 'Student Success',         sub: 'Progress + WBL' },
+  { num: 4, label: 'Student Success',         sub: 'Progress & Workplace Learning' },
   { num: 5, label: 'Programme Intelligence',  sub: 'Insight' },
   { num: 6, label: 'Quality Assurance',       sub: 'Improvement' },
 ];
