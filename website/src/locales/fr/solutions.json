@@ -51,15 +51,16 @@
       "tag": "",
       "persona": "Ahmed — Coordinateur de stage, 3 programmes, 120 étudiants en stage",
       "reality": "Coordonner les stages implique d'innombrables e-mails, tableurs et appels téléphoniques. Les étudiants ont du mal à trouver des placements, les tuteurs n'ont pas de visibilité sur la progression et les documents importants sont dispersés dans plusieurs systèmes. Surveiller des dizaines de stages simultanément est chronophage, ce qui rend difficile l'identification des étudiants ayant besoin de soutien avant que les problèmes n'escaladent.",
-      "headline": "Connectez étudiants, entreprises et enseignants via un flux de travail de stage partagé.",
+      "headline": "Transformez l'apprentissage en entreprise en savoir institutionnel.",
       "features": [
-        { "title": "Gestion des placements", "body": "Guidez les étudiants de la candidature au placement avec un flux de travail structuré pour les CV, lettres de motivation, candidatures d'entreprises et approbations." },
-        { "title": "Surveillance des stages en temps réel", "body": "Surveillez les journaux d'activité, l'engagement des tuteurs et la progression des étudiants en temps réel. Identifiez automatiquement les stages nécessitant une attention." },
-        { "title": "Supervision connectée", "body": "Enseignants, coordinateurs de stage, tuteurs en entreprise et étudiants travaillent tous dans la même plateforme, réduisant la charge administrative et améliorant la communication." },
+        { "title": "Gestion du cycle de vie des stages", "body": "Guidez les étudiants de la préparation et des candidatures d'entreprises jusqu'au placement, à l'exécution, à la supervision et à l'évaluation finale dans un flux de travail structuré." },
+        { "title": "Surveillance des stages en temps réel", "body": "Surveillez les journaux d'activité, l'engagement des tuteurs et la progression des étudiants sur l'ensemble des placements en temps réel. Une vue de chaque stage actif, mise à jour en continu." },
+        { "title": "Intervention précoce", "body": "Identifiez automatiquement les étudiants avec peu d'activité, un engagement insuffisant du tuteur ou un retard de progression afin qu'un soutien puisse être apporté avant que les placements ne soient menacés." },
+        { "title": "Supervision connectée", "body": "Enseignants, coordinateurs de stage, tuteurs en entreprise et étudiants collaborent autour du même dossier étudiant, garantissant que tout le monde travaille à partir des mêmes informations et réduisant les malentendus." },
         { "title": "Collecte de preuves", "body": "Les journaux d'activité, réflexions, évaluations en entreprise et retours des tuteurs sont continuellement capturés et liés aux résultats d'apprentissage." },
-        { "title": "Intelligence du marché du travail", "body": "Agrégez les données de stage des entreprises et des cohortes pour identifier les tendances sectorielles, les lacunes en compétences et les opportunités d'amélioration curriculaire." }
+        { "title": "Intelligence du marché du travail", "body": "Analysez l'activité de stage dans les entreprises, secteurs et cohortes pour faire émerger les compétences en développement, les attentes des employeurs et les lacunes curriculaires — transformant chaque placement en preuve pour le programme de demain." }
       ],
-      "result": "Les stages deviennent un processus éducatif géré plutôt qu'une charge administrative, tandis que chaque placement renforce à la fois la réussite étudiante et la conception future du programme."
+      "result": "L'apprentissage en entreprise devient une partie intégrante de l'éducation — et non un processus administratif séparé. Chaque stage soutient le développement de l'étudiant tout en fournissant des preuves qui aident à améliorer le curriculum de demain."
     },
     {
       "id": "teacher",

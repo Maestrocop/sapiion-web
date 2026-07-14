@@ -51,15 +51,16 @@
       "tag": "",
       "persona": "Ahmed — Coordinador de prácticas, 3 programas, 120 estudiantes en prácticas",
       "reality": "Coordinar las prácticas implica innumerables correos electrónicos, hojas de cálculo y llamadas telefónicas. Los estudiantes tienen dificultades para encontrar plazas, los supervisores carecen de visibilidad sobre el progreso y los documentos importantes están dispersos en múltiples sistemas. Monitorear decenas de prácticas simultáneamente es laborioso, lo que dificulta identificar a los estudiantes que necesitan apoyo antes de que los problemas se agraven.",
-      "headline": "Conecta estudiantes, empresas y docentes a través de un flujo de trabajo de prácticas compartido.",
+      "headline": "Transforma el aprendizaje en el trabajo en conocimiento institucional.",
       "features": [
-        { "title": "Gestión de colocaciones", "body": "Guía a los estudiantes desde la solicitud hasta la colocación con un flujo de trabajo estructurado para CV, cartas de motivación, solicitudes a empresas y aprobaciones." },
-        { "title": "Seguimiento de prácticas en tiempo real", "body": "Monitorea registros de actividad, participación de supervisores y progreso de estudiantes en tiempo real. Identifica automáticamente las prácticas que requieren atención." },
-        { "title": "Supervisión conectada", "body": "Docentes, coordinadores de prácticas, supervisores de empresa y estudiantes trabajan todos en la misma plataforma, reduciendo la carga administrativa y mejorando la comunicación." },
+        { "title": "Gestión del ciclo de vida de las prácticas", "body": "Guía a los estudiantes desde la preparación y solicitudes a empresas hasta la colocación, ejecución, supervisión y evaluación final en un flujo de trabajo estructurado." },
+        { "title": "Seguimiento de prácticas en tiempo real", "body": "Monitorea registros de actividad, participación de supervisores y progreso de estudiantes en todas las colocaciones en tiempo real. Una vista de cada práctica activa, actualizada continuamente." },
+        { "title": "Intervención temprana", "body": "Identifica automáticamente a los estudiantes con baja actividad, falta de contacto con el supervisor o progreso retrasado para que el apoyo pueda ofrecerse antes de que las prácticas estén en riesgo." },
+        { "title": "Supervisión conectada", "body": "Docentes, coordinadores de prácticas, supervisores de empresa y estudiantes colaboran en torno al mismo expediente del estudiante, garantizando que todos trabajen con la misma información y reduciendo los malentendidos." },
         { "title": "Recopilación de evidencias", "body": "Registros de actividad, reflexiones, evaluaciones en empresa y feedback de supervisores se capturan continuamente y se vinculan a los resultados de aprendizaje." },
-        { "title": "Inteligencia del mercado laboral", "body": "Agrega datos de prácticas de empresas y cohortes para identificar tendencias del sector, brechas de competencias y oportunidades de mejora curricular." }
+        { "title": "Inteligencia del mercado laboral", "body": "Analiza la actividad de prácticas en empresas, sectores y cohortes para identificar competencias emergentes, expectativas de los empleadores y brechas curriculares — convirtiendo cada colocación en evidencia para el programa de mañana." }
       ],
-      "result": "Las prácticas se convierten en un proceso educativo gestionado en lugar de una carga administrativa, mientras cada colocación fortalece tanto el éxito estudiantil como el diseño futuro del programa."
+      "result": "El aprendizaje en el trabajo se convierte en una parte integrada de la educación — no en un proceso administrativo separado. Cada práctica apoya el desarrollo del estudiante mientras proporciona evidencia que ayuda a mejorar el currículo de mañana."
     },
     {
       "id": "teacher",

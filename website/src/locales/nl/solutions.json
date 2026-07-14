@@ -51,15 +51,16 @@
       "tag": "",
       "persona": "Ahmed — Stagecoördinator, 3 programma's, 120 studenten op stage",
       "reality": "Het coördineren van stages verloopt via talloze e-mails, spreadsheets en telefoongesprekken. Studenten worstelen met het vinden van een stageplaats, begeleiders hebben geen zicht op de voortgang en belangrijke documenten zijn verspreid over meerdere systemen. Het gelijktijdig monitoren van tientallen stages is tijdrovend, waardoor het moeilijk is studenten die ondersteuning nodig hebben tijdig te signaleren.",
-      "headline": "Verbind studenten, bedrijven en docenten via één gedeelde stageworkflow.",
+      "headline": "Transformeer werkplekleren tot institutionele kennis.",
       "features": [
-        { "title": "Plaatsingsmanagement", "body": "Begeleid studenten van aanmelding tot plaatsing met een gestructureerde werkstroom voor cv's, motivatiebrieven, bedrijfsaanvragen en goedkeuringen." },
-        { "title": "Live stagemonitoring", "body": "Monitor activiteitenlogboeken, betrokkenheid van begeleiders en voortgang van studenten in realtime. Signaleer automatisch stages die aandacht vereisen." },
-        { "title": "Verbonden begeleiding", "body": "Docenten, stagecoördinatoren, werkplekbegeleiders en studenten werken allen binnen hetzelfde platform, wat de administratieve overhead vermindert en de communicatie verbetert." },
+        { "title": "Stagelifecyclemanagement", "body": "Begeleid studenten van voorbereiding en bedrijfsaanvragen tot plaatsing, uitvoering, begeleiding en eindbeoordeling in één gestructureerde werkstroom." },
+        { "title": "Live stagemonitoring", "body": "Monitor activiteitenlogboeken, betrokkenheid van begeleiders en voortgang van studenten bij alle plaatsingen in realtime. Eén overzicht van elke actieve stage, continu bijgewerkt." },
+        { "title": "Vroegtijdige interventie", "body": "Signaleer automatisch studenten met weinig activiteit, ontbrekende begeleiderscontacten of vertraagde voortgang zodat ondersteuning kan worden geboden voordat een stage in gevaar komt." },
+        { "title": "Verbonden begeleiding", "body": "Docenten, stagecoördinatoren, werkplekbegeleiders en studenten werken samen rondom hetzelfde studentdossier, zodat iedereen vanuit dezelfde informatie werkt en misverstanden worden voorkomen." },
         { "title": "Bewijsverzameling", "body": "Activiteitenlogboeken, reflecties, werkplekbeoordelingen en feedback van begeleiders worden continu vastgelegd en gekoppeld aan leeruitkomsten." },
-        { "title": "Werkplekintelligentie", "body": "Combineer stagegegevens van bedrijven en cohorten om branchetrends, competentiehiaten en kansen voor curriculumverbetering te identificeren." }
+        { "title": "Werkplekintelligentie", "body": "Analyseer stageactiviteit bij bedrijven, sectoren en cohorten om opkomende competenties, werkgeververwachtingen en curriculumhiaten in beeld te brengen — zo wordt elke plaatsing bewijs voor het curriculum van morgen." }
       ],
-      "result": "Stages worden een gemanaged onderwijsproces in plaats van een administratieve last, terwijl elke plaatsing zowel het studentsucces als het toekomstige curriculumontwerp versterkt."
+      "result": "Werkplekleren wordt een integraal onderdeel van het onderwijs — geen apart administratief proces. Elke stage ondersteunt de ontwikkeling van de student en levert tegelijkertijd bewijs dat helpt het curriculum van morgen te verbeteren."
     },
     {
       "id": "teacher",
