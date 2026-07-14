@@ -25,7 +25,8 @@
         { "title": "Kontinuierliche Akkreditierungsbereitschaft", "body": "Jedes Lernergebnis verknüpft. Jede Bewertung nachverfolgbar. Jede Entscheidung durch Beweise gestützt." },
         { "title": "Frühwarnsystem", "body": "Koordinatoren identifizieren gefährdete Studierende früher — und geben der Einrichtung Zeit einzugreifen, bevor Probleme zu Misserfolgen werden." },
         { "title": "Lehrplankonsistenz", "body": "Lehrkräfte arbeiten mit gemeinsamen Rubriken und Lernergebnissen. Programmqualität hängt nicht mehr von individueller Interpretation ab." },
-        { "title": "Programmleistungs-Einblicke", "body": "Vergleichen Sie Module, Kohorten und Lernergebnisse. Identifizieren Sie Verbesserungsmöglichkeiten, bevor sie zu Qualitätsproblemen werden." }
+        { "title": "Programmleistungs-Einblicke", "body": "Vergleichen Sie Module, Kohorten und Lernergebnisse. Identifizieren Sie Verbesserungsmöglichkeiten, bevor sie zu Qualitätsproblemen werden." },
+        { "title": "Arbeitsmarktintelligenz", "body": "Aktivitätsprotokolle, Unternehmensfeedback und Studierendenreflexionen aus Praktika werden pro Programm aggregiert. Identifizieren Sie Branchentrends, Kompetenzlücken und aktualisierungsbedürftige Lehrplanbereiche — bevor sie in sinkenden Studierendenergebnissen sichtbar werden." }
       ],
       "result": "Wenn die Akkreditierung kommt, dauert die Vorbereitung Tage — nicht Monate. Studentenunterstützung wird proaktiv statt reaktiv. Qualitätsverbesserung wird institutionell."
     },
@@ -43,6 +44,22 @@
         { "title": "Interventionsverfolgung", "body": "Interventionen aufzeichnen, Folgeaktionen zuweisen, Überprüfungsmomente planen und überwachen, ob die Unterstützung einen Unterschied macht." }
       ],
       "result": "Jedes Studentengespräch beginnt mit Einblick statt Verwaltung. Progressionsüberprüfung wird zu einem Überprüfungsprozess — nicht zu einer Sammelübung."
+    },
+    {
+      "id": "internship-coordinator",
+      "role": "Praktikumskoordinator",
+      "tag": "",
+      "persona": "Ahmed — Praktikumskoordinator, 3 Programme, 120 Studierende im Praktikum",
+      "reality": "Die Koordination von Praktika erfordert unzählige E-Mails, Tabellen und Telefongespräche. Studierende haben Schwierigkeiten, Praktikumsplätze zu finden, Betreuer haben keinen Überblick über den Fortschritt und wichtige Dokumente sind über mehrere Systeme verteilt. Dutzende von Praktika gleichzeitig zu überwachen ist zeitaufwendig und macht es schwierig, Studierende, die Unterstützung benötigen, rechtzeitig zu identifizieren.",
+      "headline": "Verbinden Sie Studierende, Unternehmen und Lehrende in einem gemeinsamen Praktikums-Workflow.",
+      "features": [
+        { "title": "Praktikumsplatzvermittlung", "body": "Begleiten Sie Studierende von der Bewerbung bis zur Vermittlung mit einem strukturierten Workflow für Lebensläufe, Motivationsschreiben, Unternehmensanfragen und Genehmigungen." },
+        { "title": "Live-Praktikumsüberwachung", "body": "Überwachen Sie Aktivitätsprotokolle, Betreuerengagement und Studierendenfortschritt in Echtzeit. Identifizieren Sie automatisch Praktika, die Aufmerksamkeit erfordern." },
+        { "title": "Vernetzte Betreuung", "body": "Lehrende, Praktikumskoordinatoren, betriebliche Betreuer und Studierende arbeiten alle innerhalb derselben Plattform, wodurch der Verwaltungsaufwand reduziert und die Kommunikation verbessert wird." },
+        { "title": "Beweissammlung", "body": "Aktivitätsprotokolle, Reflexionen, betriebliche Bewertungen und Betreuer-Feedback werden kontinuierlich erfasst und mit Lernergebnissen verknüpft." },
+        { "title": "Arbeitsmarktintelligenz", "body": "Aggregieren Sie Praktikumsdaten aus Unternehmen und Kohorten, um Branchentrends, Kompetenzlücken und Möglichkeiten zur Lehrplanverbesserung zu identifizieren." }
+      ],
+      "result": "Praktika werden zu einem gesteuerten Bildungsprozess statt zu einer administrativen Last, während jede Vermittlung sowohl den Studienerfolg als auch die zukünftige Lehrplangestaltung stärkt."
     },
     {
       "id": "teacher",

@@ -25,7 +25,8 @@
         { "title": "Continue accreditatiegereedheid", "body": "Elke leeruitkomst gekoppeld. Elke toets traceerbaar. Elke beslissing onderbouwd met bewijs." },
         { "title": "Vroegtijdig waarschuwingssysteem", "body": "Coördinatoren signaleren risicovolle studenten eerder — zodat de instelling tijd heeft om in te grijpen voordat problemen uitvallen worden." },
         { "title": "Curriculumconsistentie", "body": "Docenten werken met gedeelde rubrieken en leeruitkomsten. Programmaqualiteit is niet langer afhankelijk van individuele interpretatie." },
-        { "title": "Programmaprestatiesinzichten", "body": "Vergelijk modules, cohorten en leeruitkomsten. Identificeer verbetermogelijkheden voordat ze kwaliteitsproblemen worden." }
+        { "title": "Programmaprestatiesinzichten", "body": "Vergelijk modules, cohorten en leeruitkomsten. Identificeer verbetermogelijkheden voordat ze kwaliteitsproblemen worden." },
+        { "title": "Werkplekintelligentie", "body": "Activiteitenlogboeken, bedrijfsfeedback en studentreflecties van stages worden geaggregeerd per programma. Identificeer opkomende branchetrends, competentiehiaten en curriculumgebieden die bijwerking behoeven — voordat ze zichtbaar worden in dalende studieresultaten." }
       ],
       "result": "Als de accreditatie komt, kost de voorbereiding dagen — niet maanden. Studentondersteuning wordt proactief in plaats van reactief. Kwaliteitsverbetering wordt institutioneel."
     },
@@ -43,6 +44,22 @@
         { "title": "Interventieregistratie", "body": "Leg interventies vast, wijs vervolgacties toe, plan reviewmomenten en monitor of de begeleiding effect heeft." }
       ],
       "result": "Elk studentgesprek begint met inzicht in plaats van administratie. Voortgangsreview wordt een reviewproces — geen verzamelexercitie."
+    },
+    {
+      "id": "internship-coordinator",
+      "role": "Stagecoördinator",
+      "tag": "",
+      "persona": "Ahmed — Stagecoördinator, 3 programma's, 120 studenten op stage",
+      "reality": "Het coördineren van stages verloopt via talloze e-mails, spreadsheets en telefoongesprekken. Studenten worstelen met het vinden van een stageplaats, begeleiders hebben geen zicht op de voortgang en belangrijke documenten zijn verspreid over meerdere systemen. Het gelijktijdig monitoren van tientallen stages is tijdrovend, waardoor het moeilijk is studenten die ondersteuning nodig hebben tijdig te signaleren.",
+      "headline": "Verbind studenten, bedrijven en docenten via één gedeelde stageworkflow.",
+      "features": [
+        { "title": "Plaatsingsmanagement", "body": "Begeleid studenten van aanmelding tot plaatsing met een gestructureerde werkstroom voor cv's, motivatiebrieven, bedrijfsaanvragen en goedkeuringen." },
+        { "title": "Live stagemonitoring", "body": "Monitor activiteitenlogboeken, betrokkenheid van begeleiders en voortgang van studenten in realtime. Signaleer automatisch stages die aandacht vereisen." },
+        { "title": "Verbonden begeleiding", "body": "Docenten, stagecoördinatoren, werkplekbegeleiders en studenten werken allen binnen hetzelfde platform, wat de administratieve overhead vermindert en de communicatie verbetert." },
+        { "title": "Bewijsverzameling", "body": "Activiteitenlogboeken, reflecties, werkplekbeoordelingen en feedback van begeleiders worden continu vastgelegd en gekoppeld aan leeruitkomsten." },
+        { "title": "Werkplekintelligentie", "body": "Combineer stagegegevens van bedrijven en cohorten om branchetrends, competentiehiaten en kansen voor curriculumverbetering te identificeren." }
+      ],
+      "result": "Stages worden een gemanaged onderwijsproces in plaats van een administratieve last, terwijl elke plaatsing zowel het studentsucces als het toekomstige curriculumontwerp versterkt."
     },
     {
       "id": "teacher",
