@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import ClosedLoopDiagram from '../components/ClosedLoopDiagram';
 
 export default function HomePage() {
   const { t } = useTranslation('home');
@@ -150,14 +151,14 @@ export default function HomePage() {
           <p className="text-slate-300 text-lg mb-10 max-w-2xl leading-relaxed">
             {t('notLms.body')}
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10 items-start">
             <div className="bg-navy-800 rounded-2xl p-6 border border-navy-700">
               <p className="text-slate-400 text-xs uppercase tracking-wider mb-3">{t('notLms.lmsLabel')}</p>
               <p className="text-slate-300 font-mono text-sm">{t('notLms.lmsFlow')}</p>
             </div>
-            <div className="bg-navy-800 rounded-2xl p-6 border border-brand-accent/30">
-              <p className="text-brand-accent text-xs uppercase tracking-wider mb-3">{t('notLms.sapiionLabel')}</p>
-              <p className="text-white font-mono text-sm">{t('notLms.sapiionFlow')}</p>
+            <div className="bg-navy-800 rounded-2xl p-6 border border-brand-accent/30 flex flex-col items-center">
+              <p className="text-brand-accent text-xs uppercase tracking-wider mb-4 self-start">{t('notLms.sapiionLabel')}</p>
+              <ClosedLoopDiagram />
             </div>
           </div>
           <Link
