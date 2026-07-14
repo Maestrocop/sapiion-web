@@ -56,12 +56,13 @@
       "Planification des cours",
       "Évaluation et notation",
       "Résultats d'apprentissage",
+      "Stages et apprentissage en entreprise",
       "Progression des étudiants",
       "Suivi du programme",
       "Signaux du coordinateur",
       "Assurance qualité"
     ],
-    "connectedBy": "◆ Tout connecté par Sapiion — dans un cycle d'amélioration continue."
+    "connectedBy": "◆ Tout connecté par Sapiion — dans un cycle d'amélioration continue. Les données d'apprentissage en entreprise alimentent la conception curriculaire, fermant la boucle entre l'éducation et le marché du travail."
   },
   "whereFits": {
     "label": "Où s'intègre Sapiion",
@@ -79,7 +80,8 @@
       ["Présence suivie séparément", "Présence connectée aux signaux de risque"],
       ["Coordinateur travaillant sans signaux", "Coordinateur avec visibilité complète du programme"],
       ["Étudiant recevant des notes", "Étudiant comprenant sa propre progression"],
-      ["Revue qualité annuelle", "Intelligence de programme continue"]
+      ["Revue qualité annuelle", "Intelligence de programme continue"],
+      ["Administration des stages dans des logiciels séparés", "Stages connectés au programme, à la supervision, à l'évaluation et à la réussite étudiante"]
     ]
   },
   "vsLms": {
@@ -89,7 +91,7 @@
     "lmsQ": "\"L'étudiant a-t-il rendu son travail ?\"",
     "sapiionLabel": "Sapiion demande",
     "sapiionQ": "\"L'étudiant a-t-il développé la compétence visée — et comment le savons-nous ?\"",
-    "footer": "Cette question change tout sur la façon dont une plateforme est construite. Un LMS fait <strong>Contenu → Devoir → Note</strong>. Sapiion fait <strong>Intention curriculaire → Conception pédagogique → Preuve d'évaluation → Maîtrise → Amélioration</strong>."
+    "footer": "Cette question change tout sur la façon dont une plateforme est construite. Un LMS fait <strong>Contenu → Devoir → Note</strong>. Sapiion fait <strong>Intention curriculaire → Enseignement → Évaluation → Réussite étudiante → Apprentissage en entreprise → Intelligence du marché du travail → Amélioration curriculaire</strong>. Aucun LMS ne collecte les données d'apprentissage en entreprise de manière structurée et connectée. Sapiion le fait — ce qui signifie que les établissements peuvent répondre à des questions telles que : Quelles compétences les employeurs demandent-ils plus souvent ? Quels modules doivent être mis à jour ? Quelles lacunes apparaissent régulièrement dans les entreprises ?"
   },
   "vsSis": {
     "h2": "Sapiion n'est pas un système d'administration des étudiants.",

@@ -56,12 +56,13 @@
       "Lesson planning",
       "Assessment & grading",
       "Learning outcomes",
+      "Internships & workplace learning",
       "Student progress",
       "Programme monitoring",
       "Coordinator signals",
       "Quality assurance"
     ],
-    "connectedBy": "◆ All connected by Sapiion — in one continuous improvement cycle."
+    "connectedBy": "◆ All connected by Sapiion — in one continuous improvement cycle. Workplace learning data feeds back into curriculum design, closing the loop between education and the labour market."
   },
   "whereFits": {
     "label": "Where Sapiion fits",
@@ -79,7 +80,8 @@
       ["Attendance tracked separately", "Attendance connected to risk signals"],
       ["Coordinator working without signals", "Coordinator with full programme visibility"],
       ["Student receiving grades", "Student understanding their own progress"],
-      ["Annual quality review", "Continuous programme intelligence"]
+      ["Annual quality review", "Continuous programme intelligence"],
+      ["Internship administration in separate software", "Internships connected to curriculum, supervision, assessment and student success"]
     ]
   },
   "vsLms": {
@@ -89,7 +91,7 @@
     "lmsQ": "\"Did the student submit?\"",
     "sapiionLabel": "Sapiion asks",
     "sapiionQ": "\"Did the student develop the intended competency — and how do we know?\"",
-    "footer": "That question changes everything about how a platform is built. An LMS does <strong>Content → Assignment → Grade</strong>. Sapiion does <strong>Curriculum Intent → Teaching Design → Assessment Evidence → Mastery → Improvement</strong>."
+    "footer": "That question changes everything about how a platform is built. An LMS does <strong>Content → Assignment → Grade</strong>. Sapiion does <strong>Curriculum Intent → Teaching → Assessment → Student Success → Workplace Learning → Industry Intelligence → Curriculum Improvement</strong>. No LMS collects workplace learning data in a structured, connected way. Sapiion does — and that means institutions can answer questions like: Which competencies are employers requesting more often? Which modules need updating? Which skills gaps appear consistently across companies?"
   },
   "vsSis": {
     "h2": "Sapiion is not a student administration system.",

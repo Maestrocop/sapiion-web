@@ -56,12 +56,13 @@
       "Lesplanning",
       "Toetsing & beoordeling",
       "Leeruitkomsten",
+      "Stages & werkplekleren",
       "Voortgang studenten",
       "Programmamonitoring",
       "Signalen coördinator",
       "Kwaliteitsborging"
     ],
-    "connectedBy": "◆ Alles verbonden door Sapiion — in één doorlopende verbeteringscyclus."
+    "connectedBy": "◆ Alles verbonden door Sapiion — in één doorlopende verbeteringscyclus. Werkplekleergegevens stromen terug naar het curriculumontwerp en sluiten de cyclus tussen onderwijs en de arbeidsmarkt."
   },
   "whereFits": {
     "label": "Waar Sapiion past",
@@ -79,7 +80,8 @@
       ["Aanwezigheid apart bijgehouden", "Aanwezigheid verbonden met risicosignalen"],
       ["Coördinator werkt zonder signalen", "Coördinator met volledig programmainzicht"],
       ["Student ontvangt cijfers", "Student begrijpt eigen voortgang"],
-      ["Jaarlijkse kwaliteitsreview", "Continue programma-intelligentie"]
+      ["Jaarlijkse kwaliteitsreview", "Continue programma-intelligentie"],
+      ["Stagecoördinatie in aparte software", "Stages verbonden met curriculum, begeleiding, toetsing en studentsucces"]
     ]
   },
   "vsLms": {
@@ -89,7 +91,7 @@
     "lmsQ": "\"Heeft de student ingeleverd?\"",
     "sapiionLabel": "Sapiion vraagt",
     "sapiionQ": "\"Heeft de student de beoogde competentie ontwikkeld — en hoe weten we dat?\"",
-    "footer": "Die vraag verandert alles in hoe een platform wordt gebouwd. Een LMS doet <strong>Inhoud → Opdracht → Cijfer</strong>. Sapiion doet <strong>Curriculumintentie → Onderwijsontwerp → Toetsbewijs → Beheersing → Verbetering</strong>."
+    "footer": "Die vraag verandert alles in hoe een platform wordt gebouwd. Een LMS doet <strong>Inhoud → Opdracht → Cijfer</strong>. Sapiion doet <strong>Curriculumintentie → Onderwijs → Toetsing → Studentsucces → Werkplekleren → Arbeidsmarktintelligentie → Curriculumverbetering</strong>. Geen LMS verzamelt werkplekleergegevens op een gestructureerde, verbonden manier. Sapiion wel — en dat betekent dat instellingen vragen kunnen beantwoorden zoals: Welke competenties vragen werkgevers vaker? Welke modules moeten worden bijgewerkt? Welke vaardigheidstekorten verschijnen consistent bij bedrijven?"
   },
   "vsSis": {
     "h2": "Sapiion is geen studenten-informatiesysteem.",

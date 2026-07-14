@@ -56,12 +56,13 @@
       "Unterrichtsplanung",
       "Bewertung und Benotung",
       "Lernergebnisse",
+      "Praktika & arbeitsbasiertes Lernen",
       "Studentenfortschritt",
       "Programmüberwachung",
       "Koordinatorsignale",
       "Qualitätssicherung"
     ],
-    "connectedBy": "◆ Alles verbunden durch Sapiion — in einem kontinuierlichen Verbesserungszyklus."
+    "connectedBy": "◆ Alles verbunden durch Sapiion — in einem kontinuierlichen Verbesserungszyklus. Daten aus dem arbeitsbasierten Lernen fließen zurück in die Lehrplangestaltung und schließen den Kreislauf zwischen Bildung und Arbeitsmarkt."
   },
   "whereFits": {
     "label": "Wo Sapiion passt",
@@ -79,7 +80,8 @@
       ["Anwesenheit separat erfasst", "Anwesenheit mit Risikosignalen verbunden"],
       ["Koordinator arbeitet ohne Signale", "Koordinator mit vollständiger Programmsicht"],
       ["Student erhält Noten", "Student versteht seinen eigenen Fortschritt"],
-      ["Jährliche Qualitätsprüfung", "Kontinuierliche Programmintelligenz"]
+      ["Jährliche Qualitätsprüfung", "Kontinuierliche Programmintelligenz"],
+      ["Praktikumsverwaltung in separater Software", "Praktika verbunden mit Lehrplan, Betreuung, Bewertung und Studienerfolg"]
     ]
   },
   "vsLms": {
@@ -89,7 +91,7 @@
     "lmsQ": "\"Hat der Student abgegeben?\"",
     "sapiionLabel": "Sapiion fragt",
     "sapiionQ": "\"Hat der Student die beabsichtigte Kompetenz entwickelt — und woher wissen wir das?\"",
-    "footer": "Diese Frage verändert alles, wie eine Plattform gebaut wird. Ein LMS macht <strong>Inhalt → Aufgabe → Note</strong>. Sapiion macht <strong>Lehrplanabsicht → Unterrichtsgestaltung → Bewertungsnachweis → Meisterschaft → Verbesserung</strong>."
+    "footer": "Diese Frage verändert alles, wie eine Plattform gebaut wird. Ein LMS macht <strong>Inhalt → Aufgabe → Note</strong>. Sapiion macht <strong>Lehrplanabsicht → Unterricht → Bewertung → Studienerfolg → Arbeitsbasiertes Lernen → Arbeitsmarktintelligenz → Lehrplanverbesserung</strong>. Kein LMS sammelt Daten aus dem arbeitsbasierten Lernen auf strukturierte, vernetzte Weise. Sapiion schon — und das bedeutet, dass Einrichtungen Fragen beantworten können wie: Welche Kompetenzen fordern Arbeitgeber häufiger? Welche Module müssen aktualisiert werden? Welche Kompetenzlücken treten bei Unternehmen konsistent auf?"
   },
   "vsSis": {
     "h2": "Sapiion ist kein Studentenverwaltungssystem.",
