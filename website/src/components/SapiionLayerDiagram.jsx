@@ -42,7 +42,7 @@ export default function SapiionLayerDiagram() {
           return (
             <div
               key={num}
-              className="absolute bg-white border border-slate-200 rounded-2xl px-3 py-3 text-center shadow-sm w-[136px] hover:border-brand-accent transition-colors group"
+              className="absolute bg-slate-50 border border-slate-300 rounded-2xl px-3 py-3 text-center shadow-sm w-[136px] hover:border-brand-accent hover:bg-white transition-colors group"
               style={{ left: `${x}%`, top: `${y}%`, transform: 'translate(-50%, -50%)' }}
             >
               <span className="text-brand-accent text-sm font-bold block group-hover:text-brand-teal transition-colors leading-none mb-1">{num}</span>

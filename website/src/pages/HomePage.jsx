@@ -58,7 +58,7 @@ export default function HomePage() {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {problemPoints.map((point, i) => (
-              <div key={i} className="flex items-start gap-3 bg-white rounded-xl p-5 border border-slate-100">
+              <div key={i} className="flex items-start gap-3 bg-white rounded-xl p-5 border border-slate-300 shadow-sm hover:border-brand-accent hover:shadow-md transition-all">
                 <span className="text-slate-300 mt-0.5">—</span>
                 <p className="text-slate-700 text-sm leading-relaxed">{point}</p>
               </div>
@@ -82,7 +82,7 @@ export default function HomePage() {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {pillars.map(({ icon, title, body }) => (
-              <div key={title} className="rounded-2xl border border-slate-100 p-7 hover:border-brand-accent transition-colors group">
+              <div key={title} className="rounded-2xl border border-slate-300 p-7 shadow-sm hover:border-brand-accent hover:shadow-md transition-all group">
                 <span className="text-2xl text-brand-accent mb-4 block">{icon}</span>
                 <h3 className="font-semibold text-navy-900 mb-2">{title}</h3>
                 <p className="text-slate-600 text-sm leading-relaxed">{body}</p>
@@ -101,7 +101,7 @@ export default function HomePage() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
             {audiences.map(({ role, text }) => (
-              <div key={role} className="bg-white rounded-2xl p-7 border border-slate-100">
+              <div key={role} className="bg-white rounded-2xl p-7 border border-slate-300 shadow-sm hover:border-brand-accent hover:shadow-md transition-all">
                 <p className="text-xs font-semibold text-brand-teal uppercase tracking-wider mb-2">{role}</p>
                 <p className="text-slate-700 text-sm leading-relaxed">{text}</p>
               </div>
@@ -128,7 +128,7 @@ export default function HomePage() {
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
             {contextItems.map((item) => (
-              <div key={item} className="bg-slate-50 rounded-xl p-4 border border-slate-100 flex items-start gap-2">
+              <div key={item} className="bg-white rounded-xl p-4 border border-slate-300 shadow-sm flex items-start gap-2">
                 <span className="text-brand-accent text-sm shrink-0 mt-0.5">◆</span>
                 <span className="text-navy-900 text-sm font-medium">{item}</span>
               </div>
@@ -151,13 +151,22 @@ export default function HomePage() {
           <p className="text-slate-300 text-lg mb-10 max-w-2xl leading-relaxed">
             {t('notLms.body')}
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10 items-start">
-            <div className="bg-navy-800 rounded-2xl p-6 border border-navy-700">
-              <p className="text-slate-400 text-xs uppercase tracking-wider mb-3">{t('notLms.lmsLabel')}</p>
-              <p className="text-slate-300 font-mono text-sm">{t('notLms.lmsFlow')}</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10">
+            <div className="bg-navy-800 rounded-2xl p-6 border border-slate-600 flex flex-col">
+              <p className="text-slate-400 text-sm uppercase tracking-wider mb-6 text-center w-full">{t('notLms.lmsLabel')}</p>
+              <div className="flex-1 flex flex-col items-center justify-center gap-3">
+                {t('notLms.lmsFlow').split(' → ').map((item, i, arr) => (
+                  <div key={item} className="flex flex-col items-center gap-3">
+                    <span className="text-slate-200 font-mono text-base">{item}</span>
+                    {i < arr.length - 1 && (
+                      <span className="text-slate-500 text-lg leading-none">↓</span>
+                    )}
+                  </div>
+                ))}
+              </div>
             </div>
             <div className="bg-navy-800 rounded-2xl p-6 border border-brand-accent/30 flex flex-col items-center">
-              <p className="text-brand-accent text-xs uppercase tracking-wider mb-4 self-start">{t('notLms.sapiionLabel')}</p>
+              <p className="text-brand-accent text-sm uppercase tracking-wider mb-4 text-center w-full">{t('notLms.sapiionLabel')}</p>
               <ClosedLoopDiagram />
             </div>
           </div>

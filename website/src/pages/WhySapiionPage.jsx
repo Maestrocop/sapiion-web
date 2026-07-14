@@ -98,7 +98,7 @@ export default function WhySapiionPage() {
           <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">{t('realGap.haveLabel')}</p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-8">
             {haveItems.map((label) => (
-              <div key={label} className="flex items-center gap-3 bg-white rounded-xl px-4 py-3 border border-slate-200">
+              <div key={label} className="flex items-center gap-3 bg-white rounded-xl px-4 py-3 border border-slate-300 shadow-sm">
                 <span className="text-green-500 font-bold shrink-0">✓</span>
                 <p className="text-sm text-slate-600">{label}</p>
               </div>
@@ -137,7 +137,7 @@ export default function WhySapiionPage() {
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             {connectedItems.map((item) => (
-              <div key={item} className="bg-slate-50 rounded-xl px-4 py-3 text-center border border-slate-100">
+              <div key={item} className="bg-white rounded-xl px-4 py-3 text-center border border-slate-300 shadow-sm">
                 <p className="text-navy-900 text-xs font-medium">{item}</p>
               </div>
             ))}
@@ -177,7 +177,7 @@ export default function WhySapiionPage() {
           <h2 className="text-2xl font-semibold text-navy-900 mb-8">
             {t('comparison.h2')}
           </h2>
-          <div className="rounded-2xl border border-slate-100 overflow-hidden">
+          <div className="rounded-2xl border border-slate-300 overflow-hidden shadow-sm">
             <div className="grid grid-cols-2 bg-slate-50 border-b border-slate-100">
               <div className="px-6 py-3 text-xs font-semibold text-slate-500 uppercase tracking-wider">{t('comparison.todayCol')}</div>
               <div className="px-6 py-3 text-xs font-semibold text-brand-teal uppercase tracking-wider border-l border-slate-100">{t('comparison.sapiionCol')}</div>
@@ -206,7 +206,7 @@ export default function WhySapiionPage() {
             {t('vsLms.body')}
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            <div className="bg-white rounded-2xl p-6 border border-slate-100">
+            <div className="bg-white rounded-2xl p-6 border border-slate-300 shadow-sm">
               <p className="text-slate-400 text-xs uppercase tracking-wider mb-3">{t('vsLms.lmsLabel')}</p>
               <p className="text-slate-700 italic">{t('vsLms.lmsQ')}</p>
             </div>
@@ -312,7 +312,7 @@ export default function WhySapiionPage() {
           <p className="text-slate-600 mb-8 leading-relaxed">{t('accreditation.body')}</p>
           <div className="grid grid-cols-1 gap-3">
             {accreditationPoints.map((point, i) => (
-              <div key={i} className="flex items-center gap-3 bg-white rounded-xl px-5 py-4 border border-slate-100">
+              <div key={i} className="flex items-center gap-3 bg-white rounded-xl px-5 py-4 border border-slate-300 shadow-sm">
                 <span className="text-brand-accent font-bold">✓</span>
                 <p className="text-slate-700 text-sm">{point}</p>
               </div>
@@ -328,13 +328,17 @@ export default function WhySapiionPage() {
           <h2 className="text-2xl font-semibold text-navy-900 mb-4">{t('implementation.h2')}</h2>
           <p className="text-slate-600 mb-10 leading-relaxed">{t('implementation.body')}</p>
           <div className="relative">
-            <div className="absolute left-[5.5rem] top-0 bottom-0 w-px bg-slate-100 hidden md:block" />
+            <div className="absolute left-[6.5rem] top-0 bottom-0 w-px bg-slate-300 hidden md:block" />
+            <div className="absolute left-[6.5rem] bottom-0 -translate-x-1/2 translate-y-full text-slate-400 text-xs hidden md:block leading-none">▼</div>
             <div className="flex flex-col gap-6">
               {implementationSteps.map(({ period, text }) => (
-                <div key={period} className="flex items-start gap-6">
+                <div key={period} className="flex items-start gap-0">
                   <span className="text-xs font-semibold text-brand-teal w-20 shrink-0 pt-0.5 text-right">{period}</span>
-                  <div className="w-2 h-2 rounded-full bg-brand-accent mt-1.5 shrink-0 hidden md:block" />
-                  <p className="text-slate-700 text-sm leading-relaxed">{text}</p>
+                  <div className="w-4 h-px bg-slate-400 mt-[10px] ml-2 shrink-0 hidden md:block" />
+                  <div className="flex items-start gap-2 ml-4">
+                    <div className="w-2 h-2 rounded-full bg-brand-accent mt-1.5 shrink-0" />
+                    <p className="text-slate-700 text-sm leading-relaxed">{text}</p>
+                  </div>
                 </div>
               ))}
             </div>
