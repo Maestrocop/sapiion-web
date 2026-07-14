@@ -88,11 +88,11 @@
   },
   "notLms": {
     "h2": "Esto no es un Sistema de Gestión del Aprendizaje (LMS).",
-    "body": "Las plataformas LMS tradicionales se centran en la entrega de contenido y la administración de cursos. Sapiion conecta currículo, enseñanza, evaluación y calidad institucional en un ciclo continuo de mejora. Ese es un problema diferente — y un tipo diferente de plataforma.",
+    "body": "Las plataformas LMS tradicionales se centran en la entrega de contenido y la administración de cursos. Sapiion conecta currículo, enseñanza, evaluación, aprendizaje en el trabajo y calidad institucional en un bucle de mejora cerrado. Ese es un problema diferente — y un tipo diferente de plataforma.",
     "lmsLabel": "LMS Tradicional",
     "lmsFlow": "Contenido → Tarea → Calificación",
     "sapiionLabel": "Sapiion",
-    "sapiionFlow": "Intención → Diseño → Evidencia → Dominio → Mejora",
+    "sapiionFlow": "Diseño Curricular → Enseñanza → Evaluación → Éxito Estudiantil → Aprendizaje en el Trabajo → Inteligencia Educativa → Mejora Curricular → ↺",
     "readMore": "Leer la comparación completa →"
   },
   "trust": {

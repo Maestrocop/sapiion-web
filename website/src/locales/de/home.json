@@ -88,11 +88,11 @@
   },
   "notLms": {
     "h2": "Dies ist kein Lernmanagementsystem (LMS).",
-    "body": "Traditionelle LMS-Plattformen konzentrieren sich auf die Bereitstellung von Inhalten und die Kursverwaltung. Sapiion verbindet Lehrplan, Unterricht, Bewertung und institutionelle Qualität in einem kontinuierlichen Verbesserungszyklus. Das ist ein anderes Problem — und eine andere Art von Plattform.",
+    "body": "Traditionelle LMS-Plattformen konzentrieren sich auf die Bereitstellung von Inhalten und die Kursverwaltung. Sapiion verbindet Lehrplan, Unterricht, Bewertung, arbeitsbasiertes Lernen und institutionelle Qualität in einem geschlossenen Verbesserungskreislauf. Das ist ein anderes Problem — und eine andere Art von Plattform.",
     "lmsLabel": "Traditionelles LMS",
     "lmsFlow": "Inhalt → Aufgabe → Note",
     "sapiionLabel": "Sapiion",
-    "sapiionFlow": "Absicht → Gestaltung → Nachweis → Meisterschaft → Verbesserung",
+    "sapiionFlow": "Lehrplangestaltung → Unterricht → Bewertung → Studienerfolg → Arbeitsbasiertes Lernen → Bildungsintelligenz → Lehrplanverbesserung → ↺",
     "readMore": "Den vollständigen Vergleich lesen →"
   },
   "trust": {

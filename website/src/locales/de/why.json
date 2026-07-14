@@ -1,4 +1,9 @@
 {
+  "manifesto": {
+    "quoteA": "Bildungsqualität verbessert sich nicht allein durch gute Ideen.",
+    "quoteB": "Sie verbessert sich, wenn gute Ideen Teil der täglichen Praxis werden.",
+    "sub": "Sapiion existiert, um kontinuierliche Verbesserung zum festen Bestandteil des täglichen Bildungsalltags zu machen."
+  },
   "hero": {
     "h1a": "Schulen brauchen keine weitere Software.",
     "h1b": "Sie brauchen weniger,",
@@ -56,7 +61,7 @@
       "Unterrichtsplanung",
       "Bewertung und Benotung",
       "Lernergebnisse",
-      "Praktika & arbeitsbasiertes Lernen",
+      "Arbeitsmarktintelligenz",
       "Studentenfortschritt",
       "Programmüberwachung",
       "Koordinatorsignale",
@@ -64,7 +69,8 @@
     ],
     "connectedBy": "◆ Alles verbunden durch Sapiion — nicht als Sequenz, sondern als geschlossener Kreislauf. Jede Stufe generiert Beweise. Diese Beweise speisen die nächste Stufe — und fließen schließlich in die Lehrplanverbesserung zurück.",
     "connectedBy2": "Arbeitsbasiertes Lernen endet nicht, wenn der Studierende auf den Campus zurückkehrt. Jede Vermittlung generiert Beweise über Arbeitgebererwartungen, aufkommende Kompetenzen und Kompetenzlücken, die direkt in die zukünftige Lehrplanverbesserung einfließen.",
-    "employersNote": "Sapiion verbindet nicht nur die Einrichtung, sondern auch Betriebsbetreuer und Branchenpartner — und ermöglicht es dem arbeitsbasierten Lernen, ein integrierter Bestandteil der Bildungsqualität zu werden."
+    "employersNote": "Sapiion verbindet nicht nur die Einrichtung, sondern auch Betriebsbetreuer und Branchenpartner — und ermöglicht es dem arbeitsbasierten Lernen, ein integrierter Bestandteil der Bildungsqualität zu werden.",
+    "teacherNote": "Sapiion fügt keine weitere administrative Ebene für Lehrkräfte hinzu. Es beseitigt die Fragmentierung, die Lehrkräfte zwingt, Bildung über unverbundene Systeme zu verwalten."
   },
   "whereFits": {
     "label": "Wo Sapiion passt",

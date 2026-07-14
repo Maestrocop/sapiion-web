@@ -1,4 +1,9 @@
 {
+  "manifesto": {
+    "quoteA": "Onderwijskwaliteit verbetert niet door goede ideeën alleen.",
+    "quoteB": "Het verbetert wanneer goede ideeën onderdeel worden van de dagelijkse praktijk.",
+    "sub": "Sapiion bestaat om continue verbetering onderdeel te maken van het dagelijkse onderwijs."
+  },
   "hero": {
     "h1a": "Scholen hebben geen extra software nodig.",
     "h1b": "Ze hebben minder,",
@@ -56,7 +61,7 @@
       "Lesplanning",
       "Toetsing & beoordeling",
       "Leeruitkomsten",
-      "Stages & werkplekleren",
+      "Werkplekintelligentie",
       "Voortgang studenten",
       "Programmamonitoring",
       "Signalen coördinator",
@@ -64,7 +69,8 @@
     ],
     "connectedBy": "◆ Alles verbonden door Sapiion — niet als een reeks, maar als een gesloten cyclus. Elke fase genereert bewijs. Dat bewijs voedt de volgende fase — en vloeit uiteindelijk terug naar curriculumverbetering.",
     "connectedBy2": "Werkplekleren eindigt niet wanneer de student terugkeert naar de campus. Elke plaatsing genereert bewijs over werkgeververwachtingen, opkomende competenties en vaardigheidshiaten, dat direct bijdraagt aan toekomstige curriculumverbetering.",
-    "employersNote": "Sapiion verbindt niet alleen de instelling, maar ook werkplekbegeleiders en branchepartners — zodat werkplekleren een geïntegreerd onderdeel van onderwijskwaliteit wordt."
+    "employersNote": "Sapiion verbindt niet alleen de instelling, maar ook werkplekbegeleiders en branchepartners — zodat werkplekleren een geïntegreerd onderdeel van onderwijskwaliteit wordt.",
+    "teacherNote": "Sapiion voegt geen extra administratieve laag toe voor docenten. Het verwijdert de versnippering die docenten dwingt onderwijs te beheren via losgekoppelde systemen."
   },
   "whereFits": {
     "label": "Waar Sapiion past",

@@ -36,6 +36,18 @@ export default function WhySapiionPage() {
         </div>
       </section>
 
+      {/* MANIFESTO */}
+      <section className="py-16 px-6 bg-white border-b border-slate-100 text-center">
+        <div className="max-w-2xl mx-auto">
+          <p className="text-xl md:text-2xl font-semibold text-navy-900 leading-snug mb-4">
+            &ldquo;{t('manifesto.quoteA')} {t('manifesto.quoteB')}&rdquo;
+          </p>
+          <p className="text-brand-teal text-sm font-medium">
+            {t('manifesto.sub')}
+          </p>
+        </div>
+      </section>
+
       {/* WHY INITIATIVES FAIL */}
       <section className="py-20 px-6 bg-white">
         <div className="max-w-3xl mx-auto">
@@ -138,6 +150,9 @@ export default function WhySapiionPage() {
           </p>
           <p className="mt-2 text-slate-400 text-xs leading-relaxed text-center max-w-xl mx-auto">
             {t('whatSapiionIs.employersNote')}
+          </p>
+          <p className="mt-6 text-slate-500 text-sm italic leading-relaxed text-center max-w-xl mx-auto border-t border-slate-100 pt-5">
+            {t('whatSapiionIs.teacherNote')}
           </p>
         </div>
       </section>

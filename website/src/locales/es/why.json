@@ -1,4 +1,9 @@
 {
+  "manifesto": {
+    "quoteA": "La calidad educativa no mejora solo por las buenas ideas.",
+    "quoteB": "Mejora cuando las buenas ideas se convierten en práctica cotidiana.",
+    "sub": "Sapiion existe para hacer de la mejora continua una parte del trabajo educativo diario."
+  },
   "hero": {
     "h1a": "Las escuelas no necesitan más software.",
     "h1b": "Necesitan menos,",
@@ -56,7 +61,7 @@
       "Planificación de lecciones",
       "Evaluación y calificación",
       "Resultados de aprendizaje",
-      "Prácticas y aprendizaje en el trabajo",
+      "Inteligencia del aprendizaje en el trabajo",
       "Progreso del estudiante",
       "Seguimiento del programa",
       "Señales del coordinador",
@@ -64,7 +69,8 @@
     ],
     "connectedBy": "◆ Todo conectado por Sapiion — no como una secuencia, sino como un bucle cerrado. Cada etapa genera evidencia. Esa evidencia alimenta la siguiente etapa — y en última instancia se retroalimenta en la mejora curricular.",
     "connectedBy2": "El aprendizaje en el trabajo no termina cuando el estudiante regresa al campus. Cada colocación genera evidencia sobre las expectativas de los empleadores, las competencias emergentes y las brechas de habilidades, alimentando directamente la mejora curricular futura.",
-    "employersNote": "Sapiion conecta no solo la institución, sino también los supervisores en el lugar de trabajo y los socios del sector — permitiendo que el aprendizaje en el trabajo se convierta en una parte integrada de la calidad educativa."
+    "employersNote": "Sapiion conecta no solo la institución, sino también los supervisores en el lugar de trabajo y los socios del sector — permitiendo que el aprendizaje en el trabajo se convierta en una parte integrada de la calidad educativa.",
+    "teacherNote": "Sapiion no añade otra capa administrativa para los profesores. Elimina la fragmentación que obliga a los profesores a gestionar la educación a través de sistemas desconectados."
   },
   "whereFits": {
     "label": "Dónde encaja Sapiion",

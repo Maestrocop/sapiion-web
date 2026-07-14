@@ -1,4 +1,9 @@
 {
+  "manifesto": {
+    "quoteA": "Educational quality doesn't improve because of good ideas alone.",
+    "quoteB": "It improves when good ideas become part of everyday practice.",
+    "sub": "Sapiion exists to make continuous improvement part of everyday education."
+  },
   "hero": {
     "h1a": "Schools do not need more software.",
     "h1b": "They need fewer,",
@@ -56,7 +61,7 @@
       "Lesson planning",
       "Assessment & grading",
       "Learning outcomes",
-      "Internships & workplace learning",
+      "Workplace Learning Intelligence",
       "Student progress",
       "Programme monitoring",
       "Coordinator signals",
@@ -64,7 +69,8 @@
     ],
     "connectedBy": "◆ All connected by Sapiion — not as a sequence, but as a closed loop. Every stage generates evidence. That evidence feeds the next stage — and ultimately feeds back into curriculum improvement.",
     "connectedBy2": "Workplace learning does not end when the student returns to campus. Every placement generates evidence about employer expectations, emerging competencies and skills gaps, feeding directly into future curriculum improvement.",
-    "employersNote": "Sapiion connects not only the institution, but also workplace supervisors and industry partners — allowing workplace learning to become an integrated part of educational quality."
+    "employersNote": "Sapiion connects not only the institution, but also workplace supervisors and industry partners — allowing workplace learning to become an integrated part of educational quality.",
+    "teacherNote": "Sapiion does not add another administrative layer for teachers. It removes the fragmentation that forces teachers to manage education across disconnected systems."
   },
   "whereFits": {
     "label": "Where Sapiion fits",
