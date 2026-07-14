@@ -16,6 +16,8 @@ export default function WhySapiionPage() {
   const roadmapItems = t('gdpr.roadmapItems', { returnObjects: true });
   const teacherItems = t('ai.teacherItems', { returnObjects: true });
   const studentItems = t('ai.studentItems', { returnObjects: true });
+  const calloutItems = t('internshipCallout.items', { returnObjects: true });
+  const livingSystemLines = t('livingSystem.lines', { returnObjects: true });
 
   return (
     <>
@@ -131,6 +133,12 @@ export default function WhySapiionPage() {
           <p className="mt-6 text-brand-teal text-sm font-medium text-center">
             {t('whatSapiionIs.connectedBy')}
           </p>
+          <p className="mt-3 text-slate-600 text-sm leading-relaxed text-center max-w-xl mx-auto">
+            {t('whatSapiionIs.connectedBy2')}
+          </p>
+          <p className="mt-2 text-slate-400 text-xs leading-relaxed text-center max-w-xl mx-auto">
+            {t('whatSapiionIs.employersNote')}
+          </p>
         </div>
       </section>
 
@@ -195,6 +203,32 @@ export default function WhySapiionPage() {
           <p className="text-slate-600 text-sm leading-relaxed"
             dangerouslySetInnerHTML={{ __html: t('vsLms.footer') }}
           />
+        </div>
+      </section>
+
+      {/* INTERNSHIP CALLOUT */}
+      <section className="py-20 px-6 bg-white">
+        <div className="max-w-3xl mx-auto">
+          <div className="bg-navy-900 rounded-2xl p-10 text-white text-center">
+            <h2 className="text-2xl md:text-3xl font-semibold mb-6">
+              {t('internshipCallout.h2')}
+            </h2>
+            <div className="flex flex-col md:flex-row items-center justify-center gap-3 mb-8">
+              <p className="text-slate-400 italic text-sm">{t('internshipCallout.body1')}</p>
+              <span className="text-slate-600 hidden md:block">·</span>
+              <p className="text-brand-accent font-semibold text-sm">{t('internshipCallout.body2')}</p>
+            </div>
+            <div className="flex flex-wrap justify-center gap-3 mb-8">
+              {calloutItems.map(item => (
+                <span key={item} className="bg-navy-800 text-slate-300 text-sm px-4 py-2 rounded-full border border-navy-700">
+                  {item}
+                </span>
+              ))}
+            </div>
+            <p className="text-slate-300 text-sm leading-relaxed max-w-xl mx-auto">
+              {t('internshipCallout.footer')}
+            </p>
+          </div>
         </div>
       </section>
 
@@ -321,8 +355,25 @@ export default function WhySapiionPage() {
         </div>
       </section>
 
-      {/* CTA */}
+      {/* EDUCATION IS A LIVING SYSTEM */}
       <section className="py-20 px-6 bg-slate-50 text-center">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl font-semibold text-navy-900 mb-8">
+            {t('livingSystem.h2')}
+          </h2>
+          <div className="flex flex-wrap justify-center gap-x-8 gap-y-2 mb-10">
+            {livingSystemLines.map((line, i) => (
+              <p key={i} className="text-slate-500 text-lg italic">{line}</p>
+            ))}
+          </div>
+          <p className="text-slate-700 leading-relaxed max-w-2xl mx-auto text-base">
+            {t('livingSystem.body')}
+          </p>
+        </div>
+      </section>
+
+      {/* CTA */}
+      <section className="py-20 px-6 bg-white text-center">
         <div className="max-w-xl mx-auto">
           <h2 className="text-2xl font-semibold text-navy-900 mb-4">{t('cta.h2')}</h2>
           <Link

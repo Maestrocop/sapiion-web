@@ -62,7 +62,9 @@
       "Signalen coördinator",
       "Kwaliteitsborging"
     ],
-    "connectedBy": "◆ Alles verbonden door Sapiion — in één doorlopende verbeteringscyclus. Werkplekleergegevens stromen terug naar het curriculumontwerp en sluiten de cyclus tussen onderwijs en de arbeidsmarkt."
+    "connectedBy": "◆ Alles verbonden door Sapiion — niet als een reeks, maar als een gesloten cyclus. Elke fase genereert bewijs. Dat bewijs voedt de volgende fase — en vloeit uiteindelijk terug naar curriculumverbetering.",
+    "connectedBy2": "Werkplekleren eindigt niet wanneer de student terugkeert naar de campus. Elke plaatsing genereert bewijs over werkgeververwachtingen, opkomende competenties en vaardigheidshiaten, dat direct bijdraagt aan toekomstige curriculumverbetering.",
+    "employersNote": "Sapiion verbindt niet alleen de instelling, maar ook werkplekbegeleiders en branchepartners — zodat werkplekleren een geïntegreerd onderdeel van onderwijskwaliteit wordt."
   },
   "whereFits": {
     "label": "Waar Sapiion past",
@@ -91,7 +93,7 @@
     "lmsQ": "\"Heeft de student ingeleverd?\"",
     "sapiionLabel": "Sapiion vraagt",
     "sapiionQ": "\"Heeft de student de beoogde competentie ontwikkeld — en hoe weten we dat?\"",
-    "footer": "Die vraag verandert alles in hoe een platform wordt gebouwd. Een LMS doet <strong>Inhoud → Opdracht → Cijfer</strong>. Sapiion doet <strong>Curriculumintentie → Onderwijs → Toetsing → Studentsucces → Werkplekleren → Arbeidsmarktintelligentie → Curriculumverbetering</strong>. Geen LMS verzamelt werkplekleergegevens op een gestructureerde, verbonden manier. Sapiion wel — en dat betekent dat instellingen vragen kunnen beantwoorden zoals: Welke competenties vragen werkgevers vaker? Welke modules moeten worden bijgewerkt? Welke vaardigheidstekorten verschijnen consistent bij bedrijven?"
+    "footer": "Die vraag verandert alles in hoe een platform wordt gebouwd. Een LMS doet <strong>Inhoud → Opdracht → Cijfer</strong>. Sapiion draait een gesloten verbeteringscyclus: <strong>Curriculumontwerp → Onderwijs → Toetsing → Studentsucces → Werkplekleren → Onderwijsintelligentie → Curriculumverbetering → (herhaling)</strong>. Elke fase genereert bewijs. Dat bewijs voedt de volgende fase. De cyclus stopt nooit. Geen LMS, SIS of zelfstandig stageplatform kan dat claimen — en dat betekent dat instellingen vragen kunnen beantwoorden die eerder nooit mogelijk waren: Welke competenties vragen werkgevers vaker? Welke modules moeten worden bijgewerkt? Welke vaardigheidshiaten verschijnen consistent bij bedrijven?"
   },
   "vsSis": {
     "h2": "Sapiion is geen studenten-informatiesysteem.",
@@ -106,7 +108,7 @@
     "mostAiQ": "\"Starten zonder kennis van uw specifieke onderwijscontext.\"",
     "sapiionLabel": "Sapiion",
     "sapiionQ": "\"Past AI toe binnen uw curriculum, uw uitkomsten, uw toetscriteria en de voortgang van uw studenten.\"",
-    "body2": "Omdat Sapiion uw onderwijsstructuur al begrijpt, kan AI zinvolle beslissingen ondersteunen — in plaats van losse inhoud te genereren.",
+    "body2": "Omdat Sapiion uw curriculum, leeruitkomsten, toetsingen, werkplekleren en studentvoortgang al begrijpt, kan AI zinvolle onderwijsbeslissingen ondersteunen — in plaats van losse inhoud te genereren.",
     "teachersLabel": "Voor docenten",
     "teacherItems": [
       "Maak sneller uitkomstgerichte toetsen",
@@ -162,6 +164,18 @@
       "Microsoft 365-integratie",
       "Aanvullende identiteitsproviders"
     ]
+  },
+  "internshipCallout": {
+    "h2": "Elke stage verbetert het curriculum van morgen.",
+    "body1": "Traditionele systemen behandelen stages als een administratieve verplichting.",
+    "body2": "Sapiion behandelt elke stage als onderwijsbewijs.",
+    "items": ["Studentreflecties", "Feedback van begeleiders", "Activiteitenlogboeken", "Werkplekbeoordelingen", "Werkgeververwachtingen"],
+    "footer": "Samen creëren zij institutionele kennis die curriculumteams helpt het onderwijs af te stemmen op de veranderende arbeidsmarkt."
+  },
+  "livingSystem": {
+    "h2": "Onderwijs is een levend systeem.",
+    "lines": ["Sectoren evolueren.", "Vaardigheden veranderen.", "Nieuwe technologieën ontstaan.", "Onderwijsprogramma's kunnen niet statisch blijven."],
+    "body": "Sapiion verbindt voortdurend klassikaal bewijs, werkplekleren, studentontwikkeling en programma-intelligentie — zodat instellingen niet alleen kunnen verbeteren hoe ze lesgeven, maar ook wat ze onderwijzen."
   },
   "cta": {
     "h2": "Klaar om te zien hoe verbonden onderwijs eruitziet?",
