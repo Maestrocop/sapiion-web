@@ -92,6 +92,49 @@ export default function ContactPage() {
         </div>
       </section>
 
+      {/* DEMO CREDENTIALS */}
+      <section className="py-10 px-6 bg-slate-50 border-b border-slate-100">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-xs font-semibold text-slate-400 uppercase tracking-widest mb-4">Demo accounts</p>
+          <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="border-b border-slate-100 bg-slate-50 text-xs text-slate-400 uppercase tracking-wide">
+                  <th className="px-5 py-3 text-left">Role</th>
+                  <th className="px-5 py-3 text-left">Email</th>
+                  <th className="px-5 py-3 text-left">Password</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-50">
+                {[
+                  { role: 'Admin',       email: 'admin@sapiion.ai',       password: 'demo-admin' },
+                  { role: 'Coordinator', email: 'coordinator@sapiion.ai', password: 'demo-coordinator' },
+                  { role: 'Teacher / Mentor', email: 'teacher@sapiion.ai', password: 'demo-teacher' },
+                  { role: 'Student',     email: 'student@sapiion.ai',     password: 'demo-student' },
+                ].map(({ role, email, password }) => (
+                  <tr key={role} className="hover:bg-slate-50 transition-colors">
+                    <td className="px-5 py-3 font-medium text-navy-900">{role}</td>
+                    <td className="px-5 py-3 text-slate-600 font-mono text-xs">{email}</td>
+                    <td className="px-5 py-3 text-slate-600 font-mono text-xs">{password}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+            <div className="px-5 py-4 border-t border-slate-100 flex items-center justify-between">
+              <p className="text-xs text-slate-400">All accounts use pre-loaded HRD Bedrijfskunde programme data.</p>
+              <a
+                href="https://demo.sapiion.ai"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 text-sm font-semibold bg-navy-900 text-white rounded-lg px-4 py-2 hover:bg-navy-800 transition-colors"
+              >
+                Open demo.sapiion.ai →
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* WHAT TO EXPECT */}
       <section className="py-14 px-6 bg-white border-b border-slate-100">
         <div className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
