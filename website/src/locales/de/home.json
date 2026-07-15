@@ -5,7 +5,7 @@
     "h1b": "berufliche Bildung.",
     "sub1": "Planen. Lehren. Bewerten. Verbessern. Alles verbunden.",
     "sub2": "Sapiion verbindet Lehrplangestaltung, Unterricht, Bewertung, Studentenerfolg und arbeitsbasiertes Lernen in einem kontinuierlichen Verbesserungszyklus — damit Bildungsqualität zur institutionellen Stärke wird, nicht zur Einzelleistung.",
-    "ctaPrimary": "Demo anfragen →",
+    "ctaPrimary": "Try Sapiion →",
     "ctaSecondary": "Warum Sapiion? Sehen Sie den Unterschied →"
   },
   "problem": {
@@ -106,7 +106,7 @@
   "cta": {
     "h2": "Erleben Sie Sapiion mit Ihrem eigenen Programm.",
     "body": "Eine Demo dauert 45 Minuten. Wir richten ein realistisches Beispiel mit Ihrer Programmstruktur, Ihren Ergebnissen, Ihrem Kontext ein. Keine Folien. Eine echte Demonstration.",
-    "btn": "Demo anfragen →",
+    "btn": "Try Sapiion →",
     "emailLabel": "Oder schreiben Sie uns an"
   }
 }
