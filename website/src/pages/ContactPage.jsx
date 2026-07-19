@@ -107,10 +107,12 @@ export default function ContactPage() {
               </thead>
               <tbody className="divide-y divide-slate-50">
                 {[
-                  { role: 'Admin',       email: 'admin@sapiion.ai',       password: 'demo-admin' },
-                  { role: 'Coordinator', email: 'coordinator@sapiion.ai', password: 'demo-coordinator' },
-                  { role: 'Teacher / Mentor', email: 'teacher@sapiion.ai', password: 'demo-teacher' },
-                  { role: 'Student',     email: 'student@sapiion.ai',     password: 'demo-student' },
+                  { role: 'Admin',             email: 'admin@sapiion.ai',       password: 'demo-admin' },
+                  { role: 'Coordinator',      email: 'coordinator@sapiion.ai', password: 'demo-coordinator' },
+                  { role: 'Teacher',          email: 'teacher@sapiion.ai',     password: 'demo-teacher' },
+                  { role: 'Designer',         email: 'designer@sapiion.ai',    password: 'demo-designer' },
+                  { role: 'Mentor / Advisor', email: 'mentor@sapiion.ai',      password: 'demo-mentor' },
+                  { role: 'Student',          email: 'student@sapiion.ai',     password: 'demo-student' },
                 ].map(({ role, email, password }) => (
                   <tr key={role} className="hover:bg-slate-50 transition-colors">
                     <td className="px-5 py-3 font-medium text-navy-900">{role}</td>
