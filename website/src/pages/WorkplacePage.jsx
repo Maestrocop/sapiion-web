@@ -30,8 +30,9 @@ export default function WorkplacePage() {
             <span className="text-brand-accent">spreadsheets, email, and scattered documents.</span>
           </h1>
           <p className="text-xl text-slate-300 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Sapiion Workplace connects the whole internship journey — placement search, company management,
-            supervisor communication, activity logs, assessments, and student progress — in one place.
+            Sapiion Workplace is a free, open-source tool for workplace learning, starting with internships.
+            It connects the whole journey — placement search, company management, supervisor communication,
+            activity logs, assessments, and student progress — in one place.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
