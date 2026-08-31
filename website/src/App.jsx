@@ -7,6 +7,7 @@ import WhySapiionPage from './pages/WhySapiionPage';
 import SolutionsPage from './pages/SolutionsPage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
+import WorkplacePage from './pages/WorkplacePage';
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/why-sapiion" element={<WhySapiionPage />} />
           <Route path="/solutions" element={<SolutionsPage />} />
+          <Route path="/workplace" element={<WorkplacePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/demo" element={<ContactPage />} />
         </Routes>

@@ -2,6 +2,40 @@ import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import ClosedLoopDiagram from '../components/ClosedLoopDiagram';
 
+// English-only for now, matching WorkplacePage — not yet in home.json for
+// the other 4 locales (agreed 2026-08-31, translate after positioning is
+// validated).
+function WorkplaceEntrySection() {
+  return (
+    <section className="py-20 px-6 bg-white">
+      <div className="max-w-3xl mx-auto text-center">
+        <p className="text-brand-teal text-sm font-medium uppercase tracking-wider mb-3">A different way to start</p>
+        <h2 className="text-3xl font-semibold text-navy-900 mb-4">
+          Just looking to fix internship management?
+        </h2>
+        <p className="text-slate-600 text-lg mb-6 max-w-2xl mx-auto leading-relaxed">
+          Sapiion Workplace is a free, open-source tool for managing workplace learning — from finding a
+          placement to final assessment. Students, companies, supervisors, teachers, coordinators — one
+          connected internship workflow.
+        </p>
+        <p className="font-semibold text-navy-900 mb-8">
+          Free. Open source. Self-host it yourself.
+        </p>
+        <Link
+          to="/workplace"
+          className="inline-block bg-navy-900 text-white font-semibold px-8 py-3 rounded-lg hover:bg-navy-800 transition-colors mb-6"
+        >
+          Explore Workplace →
+        </Link>
+        <p className="text-slate-500 text-sm max-w-xl mx-auto leading-relaxed">
+          And when you're ready to connect workplace learning to the rest of your education, Workplace becomes
+          part of the Sapiion Platform.
+        </p>
+      </div>
+    </section>
+  );
+}
+
 export default function HomePage() {
   const { t } = useTranslation('home');
 
@@ -178,6 +212,9 @@ export default function HomePage() {
           </Link>
         </div>
       </section>
+
+      {/* A DIFFERENT WAY TO START — Sapiion Workplace entry point */}
+      <WorkplaceEntrySection />
 
       {/* TRUST */}
       <section className="py-16 px-6 bg-white border-b border-slate-100">

@@ -10,6 +10,7 @@ export default function Nav() {
 
   const links = [
     { to: '/why-sapiion', label: t('nav.whySapiion') },
+    { to: '/workplace',   label: 'Workplace', tag: 'Open Source' },
     { to: '/solutions',   label: t('nav.solutions') },
     { to: '/about',       label: t('nav.ourVision') },
   ];
@@ -39,17 +40,22 @@ export default function Nav() {
 
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-8">
-          {links.map(({ to, label }) => (
+          {links.map(({ to, label, tag }) => (
             <Link
               key={to}
               to={to}
-              className={`text-sm font-medium transition-colors ${
+              className={`text-sm font-medium transition-colors inline-flex items-center gap-1.5 ${
                 pathname === to
                   ? 'text-navy-900'
                   : 'text-slate-500 hover:text-navy-900'
               }`}
             >
               {label}
+              {tag && (
+                <span className="text-[10px] font-semibold uppercase tracking-wide text-brand-teal bg-brand-teal/10 rounded-full px-1.5 py-0.5">
+                  {tag}
+                </span>
+              )}
             </Link>
           ))}
         </nav>
@@ -112,14 +118,19 @@ export default function Nav() {
       {/* Mobile menu */}
       {open && (
         <div className="md:hidden border-t border-slate-100 bg-white px-6 py-4 flex flex-col gap-4">
-          {links.map(({ to, label }) => (
+          {links.map(({ to, label, tag }) => (
             <Link
               key={to}
               to={to}
               onClick={() => setOpen(false)}
-              className="text-sm font-medium text-slate-700 hover:text-navy-900"
+              className="text-sm font-medium text-slate-700 hover:text-navy-900 inline-flex items-center gap-1.5"
             >
               {label}
+              {tag && (
+                <span className="text-[10px] font-semibold uppercase tracking-wide text-brand-teal bg-brand-teal/10 rounded-full px-1.5 py-0.5">
+                  {tag}
+                </span>
+              )}
             </Link>
           ))}
           <div className="flex items-center gap-3">
