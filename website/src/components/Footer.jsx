@@ -22,7 +22,10 @@ export default function Footer() {
             <p className="text-white text-sm font-medium mb-3">{t('footer.product')}</p>
             <div className="flex flex-col gap-2 text-sm">
               <Link to="/why-sapiion" className="hover:text-white transition-colors">{t('nav.whySapiion')}</Link>
-              <Link to="/workplace" className="hover:text-white transition-colors">Workplace <span className="text-slate-500">(Open Source)</span></Link>
+              <Link to="/workplace" className="hover:text-white transition-colors inline-flex items-center gap-1.5">
+                Workplace
+                <span className="text-[10px] font-semibold uppercase tracking-wide text-navy-900 bg-brand-accent rounded-full px-2 py-0.5">Open Source</span>
+              </Link>
               <Link to="/solutions" className="hover:text-white transition-colors">{t('nav.solutions')}</Link>
               <Link to="/demo" className="hover:text-white transition-colors">{t('nav.requestDemo')}</Link>
             </div>

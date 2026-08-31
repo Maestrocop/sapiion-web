@@ -52,7 +52,7 @@ export default function Nav() {
             >
               {label}
               {tag && (
-                <span className="text-[10px] font-semibold uppercase tracking-wide text-brand-teal bg-brand-teal/10 rounded-full px-1.5 py-0.5">
+                <span className="text-[10px] font-semibold uppercase tracking-wide text-navy-900 bg-brand-accent rounded-full px-2 py-0.5">
                   {tag}
                 </span>
               )}
@@ -127,7 +127,7 @@ export default function Nav() {
             >
               {label}
               {tag && (
-                <span className="text-[10px] font-semibold uppercase tracking-wide text-brand-teal bg-brand-teal/10 rounded-full px-1.5 py-0.5">
+                <span className="text-[10px] font-semibold uppercase tracking-wide text-navy-900 bg-brand-accent rounded-full px-2 py-0.5">
                   {tag}
                 </span>
               )}
